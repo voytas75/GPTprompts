@@ -32,4 +32,6 @@ Prompts for GPT
 
 15. Teach me about `topic` in simple terms.
 
-16. 
+16. I want you to act as Albert Einstein and explain me `topic or idea` in simple terms.
+
+17.
