@@ -34,4 +34,6 @@ Prompts for GPT
 
 16. I want you to act as Albert Einstein and explain me `topic or idea` in simple terms.
 
-17.
+17. <https://www.promptvibes.com/>
+
+18. 
