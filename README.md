@@ -27,3 +27,7 @@ Prompts for GPT
 12. `Interpret`: Asking ChatGPT to interpret a particular text or data set can help uncover hidden meanings or insights.
 
 13. `Explore`: Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.
+
+14. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/?igshid=YmMyMTA2M2Y=>
+
+15.
