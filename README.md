@@ -30,6 +30,6 @@ Prompts for GPT
 
 14. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/?igshid=YmMyMTA2M2Y=>
 
-15. Tech me about `topic` in simple terms.
+15. Teach me about `topic` in simple terms.
 
 16. 
