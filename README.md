@@ -6,4 +6,4 @@ Prompts for GPT
 
 2. <https://www.instagram.com/p/Crgob97JRqk/?igshid=YmMyMTA2M2Y=>
 
-3.<https://www.instagram.com/p/CriGOz3oWAA/?igshid=YmMyMTA2M2Y=>
+3. <https://www.instagram.com/p/CriGOz3oWAA/?igshid=YmMyMTA2M2Y=>
