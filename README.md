@@ -73,4 +73,6 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 
 3. Learn prompting <https://learnprompting.org/>
 
-4. 
+4. 110 best chatGPT prompts <https://beebom.com/best-chatgpt-prompts/amp/>
+
+5.
