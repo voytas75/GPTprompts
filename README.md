@@ -2,11 +2,11 @@
 Prompts for GPT
 
 1. Create a list of 10 keywords related to `topic` that can help me expand my content strategy for a new business website.
-<https://www.instagram.com/p/CrgosSvvr-V/?igshid=YmMyMTA2M2Y=>
+<https://www.instagram.com/p/CrgosSvvr-V/>
 
-2. <https://www.instagram.com/p/Crgob97JRqk/?igshid=YmMyMTA2M2Y=>
+2. <https://www.instagram.com/p/Crgob97JRqk/>
 
-3. <https://www.instagram.com/p/CriGOz3oWAA/?igshid=YmMyMTA2M2Y=>
+3. <https://www.instagram.com/p/CriGOz3oWAA/>
 
 4. `Explain`: Asking ChatGPT to explain a concept or idea can be valuable in gaining a deeper understanding of a particular topic.
 
@@ -28,7 +28,7 @@ Prompts for GPT
 
 13. `Explore`: Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.
 
-14. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/?igshid=YmMyMTA2M2Y=>
+14. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/>
 
 15. Teach me about `topic` in simple terms.
 
