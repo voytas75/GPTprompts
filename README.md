@@ -69,4 +69,6 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 
 2. Prompt tools <https://www.instagram.com/reel/CqOCKsDMNa5/>
 
-3.
+3. Learn prompting <https://learnprompting.org/>
+
+4. 
