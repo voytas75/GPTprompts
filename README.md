@@ -63,6 +63,8 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 
 26. Explain `topic or idea` as stoned surfer bro.
 
+27. Build a prompt to generate `Insert product or service`
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
