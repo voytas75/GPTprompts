@@ -66,3 +66,7 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
+
+2. Prompt tools <https://www.instagram.com/reel/CqOCKsDMNa5/>
+
+3.
