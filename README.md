@@ -73,6 +73,7 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 26. Explain `topic or idea` as stoned surfer bro.
 
 27. Build a prompt to generate `Insert product or service`
+28. LIST OF +50 CLEVER GPT-3 PROMPTS 🤖 <https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893>
 
 ## Other
 
