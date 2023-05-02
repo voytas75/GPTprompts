@@ -1,6 +1,6 @@
 # GPTprompts
 
-Prompts for GPT
+## Prompts for GPT
 
 1. Create a list of 10 keywords related to `topic` that can help me expand my content strategy for a new business website.
 <https://www.instagram.com/p/CrgosSvvr-V/>
@@ -62,3 +62,7 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 25. You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
 
 26.  
+
+## Other
+
+1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
