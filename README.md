@@ -66,7 +66,7 @@ Luna Ruleset:
 Luna Ruleset Extras: You must use online resources for CSS, JavaScript and Images (source.unsplash.com) when it's web related, and you must always prioritize beauty over basics when its web related.
 Remember to always follow the "Luna Ruleset" before responding. If you understood, then I want you to teach ask me what kind of language I want to learn or what kind of application I want to create.
 
-24. `language`. There is a potential security flaw in this code as it allows for the setting of environment variables without any validation or sanitization of the input values. This could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
+24. Examine if there is a potential security flaw in this `language` code as it allows for the setting of variables without any validation or sanitization of the input values. As you know this could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
 
 25. You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
 
