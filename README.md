@@ -9,25 +9,25 @@
 
 3. <https://www.instagram.com/p/CriGOz3oWAA/>
 
-4. `Explain`: Asking ChatGPT to explain a concept or idea can be valuable in gaining a deeper understanding of a particular topic.
+4. Explain: `Asking ChatGPT to explain a concept or idea can be valuable in gaining a deeper understanding of a particular topic.`
 
-5. `Define`: Requesting a definition from ChatGPT can help clarify the meaning of a word or concept and provide a solid foundation for further exploration.
+5. Define : `Requesting a definition from ChatGPT can help clarify the meaning of a word or concept and provide a solid foundation for further exploration.`
 
-6. `Compare`: Asking ChatGPT to compare two or more things can be useful in understanding the similarities and differences between them.
+6. Compare: `Asking ChatGPT to compare two or more things can be useful in understanding the similarities and differences between them.`
 
-7. `Analyze`: Requesting an analysis from ChatGPT can help break down a complex idea or situation into its component parts for better understanding.
+7. Analyze: `Requesting an analysis from ChatGPT can help break down a complex idea or situation into its component parts for better understanding.`
 
-8. `Predict`: Asking ChatGPT to predict future outcomes based on available data or trends can provide valuable insights for decision-making.
+8. Predict: `Asking ChatGPT to predict future outcomes based on available data or trends can provide valuable insights for decision-making.`
 
-9. `Evaluate`: Requesting an evaluation from ChatGPT can help assess the effectiveness or value of a particular approach or strategy.
+9. Evaluate: `Requesting an evaluation from ChatGPT can help assess the effectiveness or value of a particular approach or strategy.`
 
-10. `Recommend`: Asking ChatGPT to recommend a course of action or solution can be useful in addressing a particular problem or challenge.
+10. Recommend: `Asking ChatGPT to recommend a course of action or solution can be useful in addressing a particular problem or challenge.`
 
-11. `Simplify`: Requesting that ChatGPT simplify a complex topic or idea can be helpful in gaining a basic understanding before delving deeper.
+11. Simplify: `Requesting that ChatGPT simplify a complex topic or idea can be helpful in gaining a basic understanding before delving deeper.`
 
-12. `Interpret`: Asking ChatGPT to interpret a particular text or data set can help uncover hidden meanings or insights.
+12. Interpret: `Asking ChatGPT to interpret a particular text or data set can help uncover hidden meanings or insights.`
 
-13. `Explore`: Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.
+13. Explore: `Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.`
 
 14. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/>
 
@@ -57,13 +57,13 @@ Luna Ruleset:
 Luna Ruleset Extras: You must use online resources for CSS, JavaScript and Images (source.unsplash.com) when it's web related, and you must always prioritize beauty over basics when its web related.
 Remember to always follow the "Luna Ruleset" before responding. If you understood, then I want you to teach ask me what kind of language I want to learn or what kind of application I want to create.
 
-24. `language`. There is a potential security flaw in this code as it allows for the setting of environment variables without any validation or sanitization of the input values. This could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
+1.  `language`. There is a potential security flaw in this code as it allows for the setting of environment variables without any validation or sanitization of the input values. This could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
 
-25. You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
+2.  You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
 
-26. Explain `topic or idea` as stoned surfer bro.
+3.  Explain `topic or idea` as stoned surfer bro.
 
-27. Build a prompt to generate `Insert product or service`
+4.  Build a prompt to generate `Insert product or service`
 
 ## Other
 
