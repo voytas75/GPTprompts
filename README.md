@@ -71,5 +71,5 @@ Create a list of 10 keywords related to `topic` that can help me expand my conte
 13. 70+ ChatGPT Prompts for SEO to Dominate the Search Engines <https://popupsmart.com/blog/chatgpt-prompts-for-seo>
 14. Chat GPT Prompts <https://prompto.chat/>
 15. My collection of +30 Chat-GPT Prompts For Quality Assurance <https://medium.com/@vincent.ferreira/my-collection-of-20-chat-gpt-prompts-for-quality-assurance-7eaef6633bd5>
-16.
+16. Unlocking the Potential of AI in Education: ChatGPT Prompts and Use Cases <https://www.learnprompt.org/chat-gpt-prompts-for-education/>
 
