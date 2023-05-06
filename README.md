@@ -69,8 +69,14 @@ Explore
 Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.
 
 12. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/>
-13. Teach me about `topic` in simple terms.
-14. I want you to act as Albert Einstein and explain me `topic or idea` in simple terms.
+13. 
+```
+Teach me about `topic` in simple terms.
+```
+14. 
+```
+I want you to act as Albert Einstein and explain me `topic or idea` in simple terms.
+```
 15. <https://www.promptvibes.com/>
 16. 
 ```
@@ -116,14 +122,35 @@ Hello Luna! From now on you will assimilate as a coding assistant that the user 
 ```
 Examine if there is a potential security flaw in this `language` code as it allows for the setting of variables without any validation or sanitization of the input values. As you know this could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
 ```
-23. You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
-24. Explain `topic or idea` as stoned surfer bro.
-25. Explain `topic or idea` as Witcher.
-26. Build a prompt to generate `Insert product or service`
+23. 
+```
+You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
+```
+24. 
+```
+Explain `topic or idea` as stoned surfer bro.
+```
+25. 
+```
+Explain `topic or idea` as Witcher.
+```
+26. 
+```
+Build a prompt to generate `Insert product or service`
+```
 27. LIST OF +50 CLEVER GPT-3 PROMPTS 🤖 <https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893>
-28. Can you explain best practices for writing secure and sanitize given PowerShell code? How can I ensure that my code is secure and protected against malicious attacks? Code: `code`
-29. How can I optimize given PowerShell code for better performance? Are there any techniques or tools that can help me identify bottlenecks and improve performance? Code: `code`
-30. What are some tips for analyzing and troubleshooting given PowerShell script? How can I quickly identify and fix errors in my code to ensure that it is working as intended? Code: `code`
+28. 
+```
+Can you explain best practices for writing secure and sanitize given PowerShell code? How can I ensure that my code is secure and protected against malicious attacks? Code: `code`
+```
+29. 
+```
+How can I optimize given PowerShell code for better performance? Are there any techniques or tools that can help me identify bottlenecks and improve performance? Code: `code`
+```
+30. 
+```
+What are some tips for analyzing and troubleshooting given PowerShell script? How can I quickly identify and fix errors in my code to ensure that it is working as intended? Code: `code`
+```
 31. 
 ```
 Propose five diverse code generation task instructions. These task instructions will be given to a GPT model, and we will evaluate the GPT model for completing the instructions. Here is must-have the requirements:
