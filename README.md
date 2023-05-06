@@ -1,4 +1,4 @@
-# ![](https://img.shields.io/badge/GPT-prompts-blue)
+# ![GPT promts](https://img.shields.io/badge/GPT-prompts-blue)
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
 
