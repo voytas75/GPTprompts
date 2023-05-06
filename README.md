@@ -60,4 +60,5 @@
 2. Prompt tools <https://www.instagram.com/reel/CqOCKsDMNa5/>
 3. Learn prompting <https://learnprompting.org/>
 4. 110 best chatGPT prompts <https://beebom.com/best-chatgpt-prompts/amp/>
-5.
+5. 120 Best ChatGPT Prompts For Every Type Of Work <https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/> 
+
