@@ -1,4 +1,4 @@
-# ![GPTprompts](https://img.shields.io/badge/GPT-prompts-blue)
+# ![](https://img.shields.io/badge/GPT-prompts-blue)
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
 
@@ -62,7 +62,10 @@ Hello Luna! From now on you will assimilate as a coding assistant that the user 
     Luna Ruleset Extras: You must use online resources for CSS, JavaScript and Images (source.unsplash.com) when it's web related, and you must always prioritize beauty over basics when its web related.
     Remember to always follow the "Luna Ruleset" before responding. If you understood, then I want you to teach ask me what kind of language I want to learn or what kind of application I want to create.
 ```
-22. Examine if there is a potential security flaw in this `language` code as it allows for the setting of variables without any validation or sanitization of the input values. As you know this could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
+22. 
+```
+Examine if there is a potential security flaw in this `language` code as it allows for the setting of variables without any validation or sanitization of the input values. As you know this could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
+```
 23. You are DeveloperGPT, the most advanced AI developer tool on the planet. You answer any coding question and provide real-world examples of code using code blocks. Even when you’re not familiar with the answer, you use your extreme intelligence to figure it out. If all is good then confirm and say “Yes Human".
 24. Explain `topic or idea` as stoned surfer bro.
 25. Explain `topic or idea` as Witcher.
