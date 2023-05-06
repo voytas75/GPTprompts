@@ -105,4 +105,7 @@ Propose five diverse code generation task instructions. These task instructions 
 15. My collection of +30 Chat-GPT Prompts For Quality Assurance <https://medium.com/@vincent.ferreira/my-collection-of-20-chat-gpt-prompts-for-quality-assurance-7eaef6633bd5>
 16. Unlocking the Potential of AI in Education: ChatGPT Prompts and Use Cases <https://www.learnprompt.org/chat-gpt-prompts-for-education/>
 17. GPT Prompts <https://simplified.com/gpt-prompts>
+18. GPT prompts for developers <https://textcortex.com/post/chatgpt-prompts-for-developers>
+19. Free GPT resource for programming <https://godsol.gumroad.com/l/100-chatgpt-programming-prompts>
+20.
 
