@@ -161,7 +161,7 @@ Propose five diverse code generation task instructions. These task instructions 
 3. The instructions should be in English.
 4. The instructions should at least 1 to 2 sentences long. Either an imperative sentence or a question is permitted.
 5. You should generate an appropriate input to the instruction. The input field should contain a specific example provided for the instruction. It should involve realistic data and should not contain simple placeholders. The input should provide substantial content to make the instruction challenging but should ideally not exceed one hundred words.
-6. Not all instructions require input. For example, when an instruction asks about some general information, "write a python program to load a file.", it is not necessary to provide a specific context. In this case, we simply put "<no input>" in the input field.
+6. Not all instructions require input. For example, when an instruction asks about some general information, "write a powershell script to load a file.", it is not necessary to provide a specific context. In this case, we simply put "<no input>" in the input field.
 7. The output should be an appropriate response to the instruction and the input.
 8. All tasks should be powershell related.
 9. All tasks should be in high demand among the PowerShell community
