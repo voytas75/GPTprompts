@@ -62,4 +62,5 @@
 4. 110 best chatGPT prompts <https://beebom.com/best-chatgpt-prompts/amp/>
 5. 120 Best ChatGPT Prompts For Every Type Of Work <https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/>
 6. 100 Best ChatGPT Prompts to Unleash AI’s Potential <https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/>
+7. 215+ ChatGPT prompts you can’t miss to try out in 2023 <https://writesonic.com/blog/chatgpt-prompts/>
 
