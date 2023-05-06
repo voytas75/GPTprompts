@@ -65,4 +65,5 @@ Create a list of 10 keywords related to `topic` that can help me expand my conte
 7. 215+ ChatGPT prompts you can’t miss to try out in 2023 <https://writesonic.com/blog/chatgpt-prompts/>
 8. <https://www.instagram.com/p/Crgob97JRqk/>
 9. <https://www.instagram.com/p/CriGOz3oWAA/>
+10. Search Chat <https://flowgpt.com/>
 
