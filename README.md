@@ -12,11 +12,26 @@ Create a list of 10 keywords related to `topic` that can help me expand my conte
 ```
 Explain
 ```
-`Asking ChatGPT to explain a concept or idea can be valuable in gaining a deeper understanding of a particular topic.`
+Asking ChatGPT to explain a concept or idea can be valuable in gaining a deeper understanding of a particular topic.
 
-3. Define : `Requesting a definition from ChatGPT can help clarify the meaning of a word or concept and provide a solid foundation for further exploration.`
-4. Compare: `Asking ChatGPT to compare two or more things can be useful in understanding the similarities and differences between them.`
-5. Analyze: `Requesting an analysis from ChatGPT can help break down a complex idea or situation into its component parts for better understanding.`
+3. 
+```
+Define
+```
+Requesting a definition from ChatGPT can help clarify the meaning of a word or concept and provide a solid foundation for further exploration.
+
+4. 
+```
+Compare
+```
+Asking ChatGPT to compare two or more things can be useful in understanding the similarities and differences between them.
+
+5. 
+```
+Analyze
+```
+Requesting an analysis from ChatGPT can help break down a complex idea or situation into its component parts for better understanding.
+
 6. Predict: `Asking ChatGPT to predict future outcomes based on available data or trends can provide valuable insights for decision-making.`
 7. Evaluate: `Requesting an evaluation from ChatGPT can help assess the effectiveness or value of a particular approach or strategy.`
 8. Recommend: `Asking ChatGPT to recommend a course of action or solution can be useful in addressing a particular problem or challenge.`
