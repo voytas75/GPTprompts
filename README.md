@@ -50,7 +50,7 @@
 27. Explain `topic or idea` as Witcher.
 28. Build a prompt to generate `Insert product or service`
 29. LIST OF +50 CLEVER GPT-3 PROMPTS 🤖 <https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893>
-30. Can you explain best practices for writing secure given PowerShell code? How can I ensure that my code is secure and protected against malicious attacks? Code: `code`
+30. Can you explain best practices for writing secure and sanitize given PowerShell code? How can I ensure that my code is secure and protected against malicious attacks? Code: `code`
 31. How can I optimize given PowerShell code for better performance? Are there any techniques or tools that can help me identify bottlenecks and improve performance? Code: `code`
 32. What are some tips for analyzing and troubleshooting given PowerShell script? How can I quickly identify and fix errors in my code to ensure that it is working as intended? Code: `code`
 
