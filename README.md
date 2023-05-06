@@ -68,4 +68,5 @@ Create a list of 10 keywords related to `topic` that can help me expand my conte
 10. Search Chat <https://flowgpt.com/>
 11. Top 12 CHAT GPT Prompts to Use in 2023 <https://www.linkedin.com/pulse/top-12-chat-gpt-prompts-use-2023-mary-vista>
 12. Best GPT-3 Prompts <https://promptbase.com/gpt3>
+13. 70+ ChatGPT Prompts for SEO to Dominate the Search Engines <https://popupsmart.com/blog/chatgpt-prompts-for-seo>
 
