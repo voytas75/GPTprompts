@@ -32,12 +32,42 @@ Analyze
 ```
 Requesting an analysis from ChatGPT can help break down a complex idea or situation into its component parts for better understanding.
 
-6. Predict: `Asking ChatGPT to predict future outcomes based on available data or trends can provide valuable insights for decision-making.`
-7. Evaluate: `Requesting an evaluation from ChatGPT can help assess the effectiveness or value of a particular approach or strategy.`
-8. Recommend: `Asking ChatGPT to recommend a course of action or solution can be useful in addressing a particular problem or challenge.`
-9. Simplify: `Requesting that ChatGPT simplify a complex topic or idea can be helpful in gaining a basic understanding before delving deeper.`
-10. Interpret: `Asking ChatGPT to interpret a particular text or data set can help uncover hidden meanings or insights.`
-11. Explore: `Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.`
+6. 
+```
+Predict
+```
+Asking ChatGPT to predict future outcomes based on available data or trends can provide valuable insights for decision-making.
+
+7. 
+```
+Evaluate
+```
+Requesting an evaluation from ChatGPT can help assess the effectiveness or value of a particular approach or strategy.
+
+8. 
+```
+Recommend
+```
+Asking ChatGPT to recommend a course of action or solution can be useful in addressing a particular problem or challenge.
+
+9. 
+```
+Simplify
+```
+Requesting that ChatGPT simplify a complex topic or idea can be helpful in gaining a basic understanding before delving deeper.
+
+10. 
+```
+Interpret
+```
+Asking ChatGPT to interpret a particular text or data set can help uncover hidden meanings or insights.
+
+11. 
+```
+Explore
+```
+Requesting that ChatGPT explore a particular topic or idea can be valuable in discovering new perspectives or avenues for inquiry.
+
 12. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/>
 13. Teach me about `topic` in simple terms.
 14. I want you to act as Albert Einstein and explain me `topic or idea` in simple terms.
