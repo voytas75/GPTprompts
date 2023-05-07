@@ -187,4 +187,4 @@
 21. LIST OF +50 CLEVER GPT-3 PROMPTS 🤖 <https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893>
 22. <https://www.promptvibes.com/>
 23. Awesome chat GPT prompts <https://github.com/f/awesome-chatgpt-prompts>
-
+24. Gold 10K Ultimate Prompts Bundle <https://miguelanticonam.gumroad.com/l/10k-prompts?ref=upstract.com> - 5$
