@@ -161,6 +161,11 @@
         10.  All tasks should be powershell related.
         11.  All tasks should be in high demand among the PowerShell community
     ```
+29. ```text
+   Whitch operations in powershell is better run using .net class than built-in cmlets? Give five opertions based on most time profit and give estimate time safe in percents if possible. Do not give examples.
+   Generate table with: opertion name, class name, estimated time profit.
+   First check if my query is write in optimal fashion to get best response from AI model. If not, give me fix query prompt. If is OK then give response for my question in first paragraph.
+   ```
 
 ## Other
 
