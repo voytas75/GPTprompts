@@ -168,6 +168,20 @@
       First check if my query is write in optimal fashion to get best response from AI model. If not, give me fix query prompt. If is OK then give response for my question in first paragraph.
     ```
 
+30. ```text
+    Wygeneruj dyktando z języka polskiego. Wymagane warunki dla wygenerowania dyktanda:
+
+    Wyrazy muszą zawierać spółgłoskę 'rz',
+    Wyrazy muszą zawierać spółgłoskę 'ż',
+    Wyrazy muszą zawierać spółgłoskę 'ź',
+    Dyktando ma być skierowane do ucznia klasy trzeciej szkoły podstawowej,
+    Każda ze spółgłosek: 'rz', 'ż' i 'ź' musi wystąpić przynajmniej jeden raz,
+    Dyktando ma być w języku polskim,
+    Dyktando musi składać się z maksymalnie z 30 słów,
+    Treść dyktanda ma mieć spójną historię,
+    Pod wygenerowanym tekstem wygeneruj tabelę z liczbą wystąpień wszystkich spółgłosek "rz", "ż" i "ź" z osobna.
+    ```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
