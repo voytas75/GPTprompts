@@ -1,4 +1,4 @@
-# GPT prompts
+# ![GPT Prompts](https://github.com/voytas75/GPTprompts/blob/main/OM_1683528517050_32x32.jpg?raw=true) GPT prompts
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6KYBUS)
 
