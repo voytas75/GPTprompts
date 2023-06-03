@@ -191,11 +191,11 @@ I have a project where I need assistance in writing a PowerShell script:
 - requirements of script.
 
    Here are some static details regarding the environment and requirements:
-   1.	PowerShell Version: I’m using PowerShell version 7.1.
-   2.	Operating System: The script will be executed on Windows Server 2019.
-   3.	Execution Policy: The execution policy is currently set to “RemoteSigned”.
-   4. Constraints or Limitations: The script will be run within a restricted environment, so access to external resources might be limited. It should also handle any errors gracefully and log them to a file.
-   5. Desired Output Format: The output should be in CSV format to easily import it into Excel or other tools for further analysis.
+      1.	PowerShell Version: I’m using PowerShell version 7.1.
+      2.	Operating System: The script will be executed on Windows Server 2019.
+      3.	Execution Policy: The execution policy is currently set to “RemoteSigned”.
+      4. Constraints or Limitations: The script will be run within a restricted environment, so access to external resources might be limited. It should also handle any errors gracefully and log them to a file.
+      5. Desired Output Format: The output should be in CSV format to easily import it into Excel or other tools for further analysis.
 
 	Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
