@@ -184,11 +184,12 @@
         9. Pod wygenerowanym tekstem wygeneruj tabelę z liczbą wystąpień wszystkich spółgłosek "rz", "ż" i "ź" z osobna.
     ```
 
-31. ```text
+```text
    Hi PowerShell Expert,
 I have a project where I need assistance in writing a PowerShell script:
 - requirements of script.
-Here are some static details regarding the environment and requirements:
+
+   Here are some static details regarding the environment and requirements:
 1.	PowerShell Version: I’m using PowerShell version 7.1.
 2.	Operating System: The script will be executed on Windows Server 2019.
 3.	Execution Policy: The execution policy is currently set to “RemoteSigned”.
