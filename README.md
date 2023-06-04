@@ -198,6 +198,30 @@
     Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
 
+32. ```text
+As a PowerShell enthusiast, I would like to request a code from a PowerShell expert that follows best practices and undergoes thorough script analysis. The purpose of the code is to [describe the specific purpose or problem you want to solve].
+
+Here are the requirements and expectations for the code:
+
+   1. Operating System: [Specify the relevant OS, e.g., Windows Server 2019]
+   2. PowerShell Version: [Specify the required PowerShell version]
+   3. Required Modules: [Specify any specific modules that should be used]
+
+To ensure adherence to best practices, please consider the following:
+
+   - Use clear and meaningful variable names.
+   - Follow consistent indentation and code formatting.
+   - Implement proper error handling and logging.
+   - Optimize memory and resource usage.
+   - Comply with PowerShell coding standards and conventions.
+
+Additionally, I would greatly appreciate if you could thoroughly analyze the code for potential issues, inefficiencies, and security vulnerabilities. Suggestions for optimization and alternative approaches would be valuable.
+
+If you need any further context or existing code that I have already written, please let me know, and I'll provide it promptly.
+
+Thank you in advance for your assistance, and I'm eager to learn from your expertise. If there are any questions or concerns regarding the requirements, please don't hesitate to reach out.
+   ```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
