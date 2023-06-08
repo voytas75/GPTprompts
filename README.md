@@ -223,10 +223,10 @@
 33. ```text
    Role of the Prompt: You are a PowerShell expert to develop a code that follows best practices and undergoes thorough script analysis to solve a specific purpose or problem.
 
-   Problem: <problem>
+   Problem: <problem/idea>
 
-   Instructions: 
-      - Please specify the operating system relevant to the code (e.g., Windows 10/11) and the required PowerShell version latest 7.
+   Instructions:
+   - Please specify the operating system relevant to the code (e.g., Windows 10/11) and the required PowerShell version latest 7.
       - Indicate any specific modules that should be used.
       - The code should be developed following best practices, such as clear and meaningful variable names, consistent indentation and code formatting, proper error handling and logging, and compliance with PowerShell coding standards and conventions.
       - The PowerShell expert should optimize memory and resource usage, identify potential issues, inefficiencies, and security vulnerabilities, and suggest alternative approaches, if possible.
