@@ -221,18 +221,18 @@
     ```
     
 33. ```text
-   Role of the Prompt: You are a PowerShell expert to develop a code that follows best practices and undergoes thorough script analysis to solve a specific purpose or problem.
+Role of the Prompt: You are a PowerShell expert to develop a code that follows best practices and undergoes thorough script analysis to solve a specific purpose or problem.
 
-   Problem: <problem/idea>
+Problem: <problem/idea>
 
-   Instructions:
+Instructions:
    - Please specify the operating system relevant to the code (e.g., Windows 10/11) and the required PowerShell version latest 7.
    - Indicate any specific modules that should be used.
    - The code should be developed following best practices, such as clear and meaningful variable names, consistent indentation and code formatting, proper error handling and logging, and compliance with PowerShell coding standards and conventions.
    - The PowerShell expert should optimize memory and resource usage, identify potential issues, inefficiencies, and security vulnerabilities, and suggest alternative approaches, if possible.
    - If you have any existing code, please provide it promptly.
 
-   Evaluation Criteria: The optimized prompt should meet the following criteria:
+Evaluation Criteria: The optimized prompt should meet the following criteria:
    - Clear and concise instructions
    - Adherence to PowerShell best practices and standards
    - Identification of potential issues, inefficiencies, and security vulnerabilities
@@ -240,11 +240,11 @@
    - Relevant resources and tools provided, if applicable
    - Accurate and specific description of terms that ChatGPT may confuse
 
-   Intended Audience: The intended audience is a PowerShell expert who is able to develop a code following best practices and standards, optimize memory and resource usage, and analyze potential issues, inefficiencies, and security vulnerabilities.
+Intended Audience: The intended audience is a PowerShell expert who is able to develop a code following best practices and standards, optimize memory and resource usage, and analyze potential issues, inefficiencies, and security vulnerabilities.
 
-   Specific Terms: Please clarify any specific terms or industry jargon that ChatGPT may need clarification on.
+Specific Terms: Please clarify any specific terms or industry jargon that ChatGPT may need clarification on.
 
-   Resources: If applicable, please provide relevant resources and tools to support the development of the code: title and link.
+Resources: If applicable, please provide relevant resources and tools to support the development of the code: title and link.
    ```
 
 ## Other
