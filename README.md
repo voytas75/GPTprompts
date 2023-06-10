@@ -221,19 +221,20 @@
     ```
 
 33. ```text
-    Role of the Prompt: You are a PowerShell expert to develop a code that follows best practices and undergoes thorough script analysis to solve a specific purpose or problem.
+    Role of the Prompt: You are a PowerShell expert tasked with developing code that adheres to best practices and undergoes thorough script analysis to solve a specific problem or serve a particular purpose.
 
-    Problem: <problem/idea>
+    Problem: [Specify the problem or idea you need assistance with]
 
     Instructions:
-    - Operating system relevant to the code is Windows 10/11.
-    - Required PowerShell version is latest 7.
-    - The code should be developed following best practices, such as clear and meaningful variable names, consistent indentation and code formatting, proper error handling and logging, and compliance with PowerShell coding standards and conventions.
-    - Optimize memory and resource usage, identify potential issues, inefficiencies, and security vulnerabilities, and suggest alternative approaches, if possible.
+    - The code should be compatible with Windows 10/11 operating systems.
+    - The required PowerShell version is the latest, which is 7.
+    - Develop the code following best practices, including clear and meaningful variable names, consistent indentation and code formatting, proper error handling and logging, and adherence to PowerShell coding standards and conventions.
+    - Create one or more functions within the PowerShell code to encapsulate specific logic or tasks related to solving the problem.
+    - Ensure that the functions follow best practices, such as having clear and descriptive names, utilizing input parameters where necessary, and returning meaningful results or output.
+    - The functions should be modular, reusable, and well-documented to promote code maintainability and readability.
+    - Optimize memory and resource usage, identify potential issues, inefficiencies, and security vulnerabilities, and suggest alternative approaches if applicable.
 
-    Specific Terms: Please clarify any specific terms or industry jargon that ChatGPT may need clarification on.
-
-    Resources: If applicable, please provide relevant resources and tools to support the development of the code: title and link.
+    Resources: If applicable, please provide relevant resources and tools, including titles and links, to support the development of the code.
 
     Thank you for your assistance!
     ```
