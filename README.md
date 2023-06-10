@@ -223,7 +223,7 @@
 33. ```text
     Role of the Prompt: You are a PowerShell expert tasked with developing code that adheres to best practices and undergoes thorough script analysis to solve a specific problem or serve a particular purpose.
 
-    Problem: [Specify the problem or idea you need assistance with]
+    Problem: [provide a brief summary of your project]
 
     Instructions:
     - The code should be compatible with Windows 10/11 operating systems.
@@ -234,9 +234,16 @@
     - The functions should be modular, reusable, and well-documented to promote code maintainability and readability.
     - Optimize memory and resource usage, identify potential issues, inefficiencies, and security vulnerabilities, and suggest alternative approaches if applicable.
 
+    Intended Audience: The intended audience is a PowerShell expert who is able to develop a code following best practices and standards, optimize memory and resource usage, and analyze potential issues, inefficiencies, and security vulnerabilities.
+
     Resources: If applicable, please provide relevant resources and tools, including titles and links, to support the development of the code.
 
     Thank you for your assistance!
+    ```
+
+34. ```text
+    As a PowerShell expert, you are required to develop code that solves a specific problem or serves a particular purpose while adhering to best practices and undergoing thorough script analysis. Your project involves creating one or more functions in PowerShell code that are compatible with Windows 10/11 operating systems and the latest version of PowerShell, which is 7. To ensure your code follows best practices, use clear and descriptive variable names, consistent indentation and formatting, proper error handling and logging, adherence to PowerShell coding standards and conventions, and input parameters where necessary. Make your functions modular, reusable, and document them well to promote code maintainability and readability. Also, optimize memory and resource usage, identify potential issues, inefficiencies and security vulnerabilities, and suggest alternative approaches if applicable. Your intended audience is a PowerShell expert who can analyze potential issues and optimize memory and resource usage. If necessary, provide relevant resources and tools with titles and links to assist in developing the code.
+    Problem: [provide a brief summary of problem].
     ```
 
 ## Other
