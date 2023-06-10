@@ -246,6 +246,13 @@
     Project: [provide a brief summary of project].
     ```
 
+    <https://flowgpt.com/prompt/EYd0Ob_t9TEmJUFgUWBeu>
+
+    <https://flowgpt.com/prompt/BWXJ4tUIVFat4XQJfHQi9>
+
+35. ```text
+    ```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
