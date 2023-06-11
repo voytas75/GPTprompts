@@ -243,7 +243,7 @@
 
     <https://flowgpt.com/prompt/BWXJ4tUIVFat4XQJfHQi9>
 
-    Older versions of prompt:
+    Older versions of the prompt:
 
     ```text
     Role of the Prompt: You are a PowerShell expert tasked with developing code that adheres to best practices and undergoes thorough script analysis to solve a specific problem or serve a particular purpose.
