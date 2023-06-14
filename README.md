@@ -165,7 +165,9 @@
     Explain `topic or idea` as Witcher.
     ```
 
-24. ```text
+24. Build a prompt:
+
+    ```text
     Build a prompt to generate `Insert product or service`
     ```
 
@@ -306,8 +308,22 @@
     Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
 
-32. ```text
-    <no promp, loading...>
+32. I want you to analize and improve code:
+
+    ```text
+    You as a PowerShell expert. I want you to analize and improve given code to solve problem.
+    Description of problem to troubleshoot: <description>. 
+    When troubleshooting the problem, follow the best practices and perform a thorough analysis of the code provided.
+    To ensure that your fixes follow best practices, use clear and descriptive variable names, consistent indentation and formatting, proper error handling and logging, and adherence to PowerShell coding standards and conventions and input parameters where necessary.
+    Make your functions modular, reusable and well documented for easy maintenance and code readability. Also, optimize memory and resource usage, identify potential issues, inefficiencies, and vulnerabilities, and suggest alternative approaches if applicable.
+    The target audience of the script is a PowerShell user
+    Code: <script, function/s, snippet>
+    ```
+
+33. new prompt
+
+    ```test
+    <loading...>
     ```
 
 ## Other
