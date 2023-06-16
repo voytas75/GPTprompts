@@ -187,7 +187,7 @@
 
 27. Powershell's code troubleshooter:
 
-    ~~~text
+    ````text
     Analyze the Powershell code provided. The analysis must include:
     1. Checking error handling.
     2. Function names.
@@ -195,13 +195,12 @@
     4. Comments.
     The analysis must take into account the best practices for writing Powershell code for version 5.1. 
     Offer a revised version of the code if the analysis showed the above-mentioned problems. 
-    Code:
+    Code to analyze:
 
     ```powershell
     <code>    
-    ```  
-
-    ~~~
+    ```
+    ````
 
     Older versions:
 
