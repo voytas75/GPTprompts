@@ -185,7 +185,7 @@
     How can I optimize given PowerShell code for better performance? Are there any techniques or tools that can help me identify bottlenecks and improve performance? Code: `code`
     ```
 
-27. Code troubleshooter:
+27. Powershell's code troubleshooter:
 
     ```text
     Analyze the Powershell code provided. The analysis must include checking error handling, comments, function names, help descriptions. The analysis must take into account the best practices for writing Powershell code for version 5.1. 
