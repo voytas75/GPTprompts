@@ -394,3 +394,4 @@
 23. Awesome chat GPT prompts <https://github.com/f/awesome-chatgpt-prompts>
 24. Gold 10K Ultimate Prompts Bundle <https://miguelanticonam.gumroad.com/l/10k-prompts?ref=upstract.com> - 5$
 25. <https://www.instagram.com/reel/Cr1lGaULYRy>
+26. <https://www.instagram.com/p/Cs_IDaBNsMK/?igshid=MzRlODBiNWFlZA==>
