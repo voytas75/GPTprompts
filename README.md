@@ -137,7 +137,7 @@
     Remember to always follow the "Luna Ruleset" before responding. If you understood, then I want you to teach ask me what kind of language I want to learn or what kind of application I want to create.
     ```
 
-20. Examine code:
+20. Security examine code:
 
     ```text
     Examine if there is a potential security flaw in this `language` code as it allows for the setting of variables without any validation or sanitization of the input values. As you know this could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
