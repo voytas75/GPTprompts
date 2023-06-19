@@ -190,7 +190,8 @@
     ````text
     Analyze the Powershell code provided. The analysis must include:
     1. Checking error handling.
-    2. Function names.
+    2. Functions names.
+    3. Variables names.
     3. Help descriptions.
     4. Comments.
     The analysis must take into account the best practices for writing Powershell code for version 5.1. 
