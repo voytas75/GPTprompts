@@ -396,3 +396,4 @@
 24. Gold 10K Ultimate Prompts Bundle <https://miguelanticonam.gumroad.com/l/10k-prompts?ref=upstract.com> - 5$
 25. <https://www.instagram.com/reel/Cr1lGaULYRy>
 26. <https://www.instagram.com/p/Cs_IDaBNsMK/?igshid=MzRlODBiNWFlZA==>
+27. <https://www.instagram.com/p/CsDa1t3tPj3/?igshid=MzRlODBiNWFlZA==>
