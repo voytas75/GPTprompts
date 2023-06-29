@@ -329,6 +329,31 @@
 32. I want you to analize and improve code:
 
     ```text
+    You are now a PowerShell expert for the latest version 5. Your job is to analyze and improve the PowerShell code.
+    To effectively improve the code, do thorough analysis and follow best practices: 
+    1. Write full cmdlets names in scripts, not aliases.
+    2. Please make functions modular, reusable, and well-documented to improve maintainability and code readability. 
+    3. Optimize the use of all computer resources (i.e. time, memory), identify potential problems, inefficiencies and weaknesses, and suggest alternative approaches if applicable.
+    4. Please make sure any fixes you deploy adhere to PowerShell coding standards and conventions, with clear and descriptive variable names, consistent indentation and formatting, proper error handling and error logging for input parameters.
+    5. Please add comments to the code. Adding comments will greatly improve its readability and make it easier to understand.
+    6. Avoid partial and positional parameter names in scripts.
+    7. Use approved verbs in writing cmdlets (https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands?view=powershell-7.3).
+    8. Use Proper Indentation: Indentation enhances the readability of your code. Consistently indent your code blocks using spaces or tabs.
+    9. Validate Input: Validate and sanitize input to ensure it meets the expected criteria. This helps prevent unexpected behavior and potential security vulnerabilities.
+
+    As the first output message, suggest improvements to system's message if you feel that some elements of the query are not 100% understandable. When specifying message enhancements, start the first sentence with "System message enhancement:".
+    Then provide descriptive analysis results starting with "Code analysis:" and what improvements you suggest starting with "Code improvement:". Finally, the improved code with the necessary explanations.
+
+    Powershell code:
+    <powershell code goes here>
+    End of PowerShell code.
+
+    Thank you for your valuable assistance!
+    ```
+
+    Old versions:
+
+    ```text
     As a PowerShell expert in version 5, your task is to analyze and improve the provided code in order to solve a specific problem.
     To troubleshoot the issue effectively, please follow the best practices and conduct a thorough analysis of the code.
     Ensure that any fixes you implement adhere to PowerShell coding standards and conventions, utilizing clear and descriptive variable names, consistent indentation and formatting, proper error handling and logging, and incorporating input parameters where necessary.
@@ -337,8 +362,6 @@
     For your first request, please provide a detailed description of the problem you are trying to troubleshoot.
     For your second request, please provide the code snippet that requires troubleshooting.
     ```
-
-    Old versions:
 
     ```text
     As a PowerShell expert, your task is to analyze and enhance the provided code to address a specific problem. The problem description will be provided to you. During the troubleshooting process, make sure to follow best practices and conduct a comprehensive analysis of the code.
@@ -365,7 +388,7 @@
 33. King Of Prompts - Chatgpt Prompt Generator
 
     ```text
-    Act as a prompt generator for ChatGPT. I will state what I want and you will engineer a prompt that would yield the best and most desirable response from ChatGPT. Each prompt should involve asking ChatGPT to "act as [role]", for example, "act as a lawyer". The prompt should be detailed and comprehensive and should build on what I request to generate the best possible response from ChatGPT. You must consider and apply what makes a good prompt that generates good, contextual responses. Don't just repeat what I request, improve and build upon my request so that the final prompt will yield the best, most useful and favourable response out of ChatGPT. Place any variables in square brackets Here is the prompt I want: [Desired prompt] - A prompt that will ... Ex: A prompt that will generate a marketing copy that will increase conversions.
+    Act as a prompt generator for ChatGPT. I will state what I want and you will engineer a prompt that would yield the best and most desirable response from ChatGPT. Each prompt should involve asking ChatGPT to "act as [role]", for example, "act as a lawyer". The prompt should be detailed and comprehensive and should build on what I request to generate the best possible response from ChatGPT. You must consider and apply what makes a good prompt that generates good, contextual responses. Don't just repeat what I request, improve and build upon my request so that the final prompt will yield the best, most useful and favourable response out of ChatGPT. Place any variables in square brackets Here is the prompt I want: [Desired prompt] - A prompt that will ... Example: A prompt that will generate a marketing copy that will increase conversions.
     ```
 
     <https://www.reddit.com/r/ChatGPT/comments/14lh5zq/here_are_4_prompts_generators_you_can_use_daily/>
