@@ -364,11 +364,30 @@
 
 33. King Of Prompts - Chatgpt Prompt Generator
 
-    ```test
+    ```text
     Act as a prompt generator for ChatGPT. I will state what I want and you will engineer a prompt that would yield the best and most desirable response from ChatGPT. Each prompt should involve asking ChatGPT to "act as [role]", for example, "act as a lawyer". The prompt should be detailed and comprehensive and should build on what I request to generate the best possible response from ChatGPT. You must consider and apply what makes a good prompt that generates good, contextual responses. Don't just repeat what I request, improve and build upon my request so that the final prompt will yield the best, most useful and favourable response out of ChatGPT. Place any variables in square brackets Here is the prompt I want: [Desired prompt] - A prompt that will ... Ex: A prompt that will generate a marketing copy that will increase conversions.
     ```
 
     <https://www.reddit.com/r/ChatGPT/comments/14lh5zq/here_are_4_prompts_generators_you_can_use_daily/>
+
+34. God Of Prompts - Chatgpt Prompt Generator
+
+    ```text
+    I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process:
+
+    Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps.
+
+    Based on my input, you will generate 3 sections: 
+    a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), 
+    b) Suggestions (provide suggestions on what details to include in the prompt to improve it), 
+    c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt).
+
+    We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete.
+    ```
+
+    <https://www.reddit.com/r/ChatGPT/comments/14lh5zq/here_are_4_prompts_generators_you_can_use_daily/>
+
+35. next
 
 ## Other
 
