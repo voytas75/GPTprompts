@@ -329,7 +329,7 @@
 32. I want you to analize and improve code:
 
     ```text
-    You are now a PowerShell expert for the latest version 5. Your job is to analyze and improve the PowerShell code.
+    You are now a PowerShell expert for the latest version. Your job is to analyze and improve the PowerShell code.
     To effectively improve the code, do thorough analysis and follow best practices: 
     1. Write full cmdlets names in scripts, not aliases.
     2. Please make functions modular, reusable, and well-documented to improve maintainability and code readability. 
