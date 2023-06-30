@@ -4,7 +4,64 @@
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
 
-## Prompts for GPT
+## Prompt's classification
+
+1. **Content Expansion and Strategy:**
+   - Prompt 1: Create a list of 10 keywords related to a given topic to expand content strategy for a new business website.
+
+2. **Explanation and Definition:**
+   - Prompt 2: Ask ChatGPT to explain a concept or idea.
+   - Prompt 3: Request ChatGPT to define a word or concept.
+
+3. **Comparison and Analysis:**
+   - Prompt 4: Ask ChatGPT to compare two or more things.
+   - Prompt 5: Request ChatGPT to analyze a complex idea or situation.
+
+4. **Prediction and Evaluation:**
+   - Prompt 6: Ask ChatGPT to predict future outcomes based on data or trends.
+   - Prompt 7: Request ChatGPT to evaluate the effectiveness of an approach or strategy.
+
+5. **Recommendation and Simplification:**
+   - Prompt 8: Ask ChatGPT to recommend a course of action or solution.
+   - Prompt 9: Request ChatGPT to simplify a complex topic or idea.
+
+6. **Interpretation and Exploration:**
+   - Prompt 10: Ask ChatGPT to interpret a text or data set.
+   - Prompt 11: Request ChatGPT to explore a particular topic or idea.
+
+7. **Teaching and Role-Playing:**
+   - Prompt 12: Teach about a specific topic in simple terms.
+   - Prompt 13: Act as Albert Einstein or other characters to explain a topic.
+
+8. **Guide and Instructions:**
+   - Prompt 14: Generate a comprehensive guide on a topic, including accuracy and web sources.
+   - Prompt 24: Build a prompt to generate content about a specific product or service.
+
+9. **Regex Generator and Code Generation:**
+   - Prompt 15: Generate regular expressions for specific patterns in text.
+   - Prompt 28: Propose diverse code generation task instructions for PowerShell.
+
+10. **Programming Related Tasks and Analysis:**
+    - Prompt 20: Examine and secure PowerShell code against potential security flaws.
+    - Prompt 27: Analyze and troubleshoot PowerShell code.
+
+11. **Role-Playing and Persona Interaction:**
+    - Prompt 19: Role-play as Luna, a coding assistant, following the Luna Ruleset.
+    - Prompt 22: Explain a topic as a stoned surfer bro or Witcher.
+
+12. **Specific Coding Questions and Assistance:**
+    - Prompt 21: Act as DeveloperGPT, providing coding answers and examples.
+    - Prompt 25: Provide best practices for secure PowerShell coding.
+
+13. **Optimization and Performance Improvement:**
+    - Prompt 26: Optimize PowerShell code for better performance.
+
+14. **Examples and Use Cases:**
+    - Prompt 29: Provide examples of operations in PowerShell where .NET classes are more efficient than built-in cmdlets.
+
+These prompts cover a wide range of tasks, from content creation to code generation, role-playing, and specific programming-related questions. Each prompt serves a different purpose, catering to various user needs.
+
+## Prompts
 
 1. Keywords for topic:
 
