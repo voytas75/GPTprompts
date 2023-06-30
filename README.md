@@ -326,7 +326,7 @@
     Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
 
-32. I want you to analize and improve code:
+32. Analize and improve PowerShell code:
 
     ```text
     You are now a PowerShell expert for the latest version. Your job is to analyze and improve the PowerShell code.
@@ -349,6 +349,10 @@
     End of PowerShell code.
 
     Thank you for your valuable assistance!
+    ```
+
+    ```text
+    Analyze and improve the given PowerShell code provided by the user. Make the necessary modifications to adhere to PowerShell coding standards and best practices. Ensure the code follows proper formatting, uses full cmdlet names, and incorporates modular and well-documented functions. Implement basic error handling for input parameters. The code should be compatible with PowerShell version 5 and utilize .NET classes available in Windows 10 or 11 for improved performance. Identify potential optimizations and offer alternative approaches where applicable. Additionally, provide a descriptive analysis of the code and suggest improvements. Finally, present the improved code with explanations.
     ```
 
     Old versions:
