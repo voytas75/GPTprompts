@@ -44,6 +44,7 @@
 10. **Programming Related Tasks and Analysis:**
     - Prompt 20: Examine and secure PowerShell code against potential security flaws.
     - Prompt 27: Analyze and troubleshoot PowerShell code.
+    - Prompt 35: Analyze and improve parts of PowerShell code.
 
 11. **Role-Playing and Persona Interaction:**
     - Prompt 19: Role-play as Luna, a coding assistant, following the Luna Ruleset.
@@ -383,9 +384,9 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
 
-32. Analize and improve PowerShell code:
+32. Analyze and improve PowerShell code:
 
-    ```text
+    ````text
     You are now a PowerShell expert for the latest version. Your job is to analyze and improve the PowerShell code.
     To effectively improve the code, do thorough analysis and follow best practices: 
     1. Write full cmdlets names in scripts, not aliases.
@@ -401,12 +402,12 @@ These prompts cover a wide range of tasks, from content creation to code generat
     As the first output message, suggest improvements to system's message if you feel that some elements of the query are not 100% understandable. When specifying message enhancements, start the first sentence with "System message enhancement:".
     Then provide descriptive analysis results starting with "Code analysis:" and what improvements you suggest starting with "Code improvement:". Finally, the improved code with the necessary explanations.
 
-    Powershell code:
+    ```Powershell
     <powershell code goes here>
-    End of PowerShell code.
+    ```
 
     Thank you for your valuable assistance!
-    ```
+    ````
 
     ```text
     Analyze and improve the given PowerShell code provided by the user. Make the necessary modifications to adhere to PowerShell coding standards and best practices. Ensure the code follows proper formatting, uses full cmdlet names, and incorporates modular and well-documented functions. Implement basic error handling for input parameters. The code should be compatible with PowerShell version 5 and utilize .NET classes available in Windows 10 or 11 for improved performance. Identify potential optimizations and offer alternative approaches where applicable. Additionally, provide a descriptive analysis of the code and suggest improvements. Finally, present the improved code with explanations.
@@ -471,7 +472,24 @@ These prompts cover a wide range of tasks, from content creation to code generat
 
     <https://www.reddit.com/r/ChatGPT/comments/14lh5zq/here_are_4_prompts_generators_you_can_use_daily/>
 
-35. next
+35. Analyze and improve parts of PowerShell code
+
+    ````text
+    ```powershell
+    <powershell code goes here>
+    ```
+
+    Analyze and improve parts of the given Powershell code. 
+    Make the necessary modifications to adhere to PowerShell coding standards and best practices. 
+    Ensure the whole code follows proper formatting, uses full cmdlet names, and incorporates modular and well-documented functions. 
+    Implement basic error handling for input parameters. 
+    The whole code should be compatible with PowerShell version 5 and utilize .NET classes available in Windows 10 or 11 for improved performance. 
+    Identify potential optimizations and offer alternative approaches where applicable. 
+    Provide a descriptive analysis of the whole code and suggest improvements. 
+    Present improved fragment of the code: [description of fragment]. Do not present improved code for the rest of the code.
+    ````
+
+36. next
 
 ## Other
 
