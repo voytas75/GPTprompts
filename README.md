@@ -271,7 +271,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
     ```
     ````
 
-    <details>>
+    <details>
     <summary>Older versions:</summary>
 
     ```text
