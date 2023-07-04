@@ -64,6 +64,9 @@
     - Prompt 33
     - Prompt 34
 
+16. **Classification**
+    - Prompt 36
+
 These prompts cover a wide range of tasks, from content creation to code generation, role-playing, and specific programming-related questions. Each prompt serves a different purpose, catering to various user needs.
 
 ## Prompts
