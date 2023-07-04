@@ -530,7 +530,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
 36. **Classification**
 
     ```text
-    below is NLP prompt:
+    Below is NLP prompt:
     "<copy prompt here>"
     Propose classification for the prompt.
     ```
