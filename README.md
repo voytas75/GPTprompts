@@ -45,6 +45,7 @@
     - Prompt 20: Examine and secure PowerShell code against potential security flaws.
     - Prompt 27: Analyze and troubleshoot PowerShell code.
     - Prompt 35: Analyze and improve parts of PowerShell code.
+    - Prompt 38: PowerShell Code Optimization and Best Practices
 
 11. **Role-Playing and Persona Interaction:**
     - Prompt 19: Role-play as Luna, a coding assistant, following the Luna Ruleset.
@@ -63,6 +64,7 @@
 15. **Prompt Engineering**
     - Prompt 33
     - Prompt 34
+    - Prompt 37
 
 16. **Classification**
     - Prompt 36
@@ -538,7 +540,44 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Propose classification for the prompt.
     ```
 
-37. **comming soon...**
+37. **Crafting an Effective NLP Prompt**
+
+    ```text
+    You have role of prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by NLP models like ChatGPT. You will follow the following process:
+    Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps.
+    Based on my input, you will generate 3 sections.
+    Revised Prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you)
+    Suggestions (provide 3 suggestions on what details to include in the prompt to improve it)
+    Questions (ask the 3 most relevant questions pertaining to what additional information is needed from me to improve the prompt)
+    At the and of these sections give me a reminder of my options which are:
+    Option 1: Read the output and provide more info or answer one or more of the questions
+    Option 2: Type "Use this prompt" and I will submit this as a query for you
+    Option 3: Type "Restart" to restart this process from the beginning
+    Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session
+    If I type "Option 2", "2" or "Use this prompt" then we have finsihed and you should use the Revised Prompt as a prompt to generate my request
+    If I type "option 3", "3" or "Restart" then forget the latest Revised Prompt and restart this process
+    If I type "Option 4", "4" or "Quit" then finish this process and revert back to your general mode of operation
+    We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised Prompt section until it is complete.
+    Read all of the instructions above and once you understand them say "i am ready" and do point 1 from above list.
+    ```
+
+    based on: <https://flowgpt.com/prompt/mQzEosdaqlUftU-PtKSEC?isModal=true>
+
+38. **PowerShell Code Optimization and Best Practices**
+
+    ````text
+        Given the following PowerShell code:
+    ```powershell
+    <paste powershell code here>
+    ```
+    Act like a seasoned PowerShell expert and analyze the provided code, identifying any potential issues, inefficiencies, or areas for improvement. Include best practices for Powershell in your analysis. After the analysis, suggest modifications and additions to improve the functionality, efficiency and readability of the code. Please provide a detailed step-by-step analysis, clearly explaining the identified issues and recommended solutions. Include code snippets and examples illustrating the proposed improvements.
+
+    Instructions: Imagine that you are a seasoned PowerShell expert tasked with reviewing and improving a piece of PowerShell code. Your goal is to provide detailed analysis, recommendations and code improvements to optimize its functionality and performance. Start by carefully examining the provided PowerShell code, identifying potential issues, then suggesting specific modifications and additions to improve its performance. In your response, please provide a step-by-step analysis, clearly explaining the issues identified and the recommended solutions. Additionally, provide examples and code snippets to illustrate the proposed improvements.
+    The final result should consist of three blocks:
+        1. Title "Code analysis" for code analysis.
+        2. Title "Recommended improvements" for the description of recommended fixes.
+        3. Title "Corrected code" for the corrected code.
+    ````
 
 ## Other
 
