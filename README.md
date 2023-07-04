@@ -567,7 +567,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
 38. **PowerShell Code Optimization and Best Practices**
 
     ````text
-        Given the following PowerShell code:
+    Given the following PowerShell code:
     ```powershell
     <paste powershell code here>
     ```
