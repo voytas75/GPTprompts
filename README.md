@@ -272,7 +272,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
     ````
 
     <details>
-    <summary>Older versions:</summary>
+    <summary>Older versions</summary>
 
     ```text
     What are some tips for analyzing and troubleshooting given PowerShell script? How can I quickly identify and fix errors in my code to ensure that it is working as intended? Code: `code`
