@@ -261,11 +261,14 @@ These prompts cover a wide range of tasks, from content creation to code generat
     ```
     ````
 
-    Older versions:
+    <details>>
+    <summary>Older versions:</summary>
 
     ```text
     What are some tips for analyzing and troubleshooting given PowerShell script? How can I quickly identify and fix errors in my code to ensure that it is working as intended? Code: `code`
     ```
+
+    </details>
 
 28. Diverse code generation task instructions for PowerShell:
 
@@ -286,11 +289,11 @@ These prompts cover a wide range of tasks, from content creation to code generat
 
 29. Examples of operations in PowerShell where using .NET classes is more efficient than using built-in cmdlets:
 
-    ```txt
+    ```text
     Compare which operations in PowerShell are better to run using .NET classes rather than built-in cmdlets? Please provide five examples of such operations, along with the corresponding class name and estimated time savings in percentages, if possible. Also, generate a table with the operation name, class name, and estimated time savings.
     ```
 
-    ```txt
+    ```text
     Can you provide examples of operations in PowerShell where using .NET classes is more efficient than using built-in cmdlets? Please list five examples along with the corresponding class names. Additionally, if possible, estimate the time savings in percentages. Finally, generate a table with the operation name, class name, and estimated time savings.
     ```
 
@@ -325,7 +328,8 @@ These prompts cover a wide range of tasks, from content creation to code generat
 
     <https://flowgpt.com/prompt/BWXJ4tUIVFat4XQJfHQi9>
 
-    Older versions of the prompt:
+    <details>
+    <summary>Older versions of the prompt:</summary>
 
     ```text
     Role of the Prompt: You are a PowerShell expert tasked with developing code that adheres to best practices and undergoes thorough script analysis to solve a specific problem or serve a particular purpose.
@@ -384,6 +388,8 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
 
+    <details>
+
 32. Analyze and improve PowerShell code:
 
     ````text
@@ -413,7 +419,8 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Analyze and improve the given PowerShell code provided by the user. Make the necessary modifications to adhere to PowerShell coding standards and best practices. Ensure the code follows proper formatting, uses full cmdlet names, and incorporates modular and well-documented functions. Implement basic error handling for input parameters. The code should be compatible with PowerShell version 5 and utilize .NET classes available in Windows 10 or 11 for improved performance. Identify potential optimizations and offer alternative approaches where applicable. Additionally, provide a descriptive analysis of the code and suggest improvements. Finally, present the improved code with explanations.
     ```
 
-    Old versions:
+    <details>
+    <summary>Older versions of the prompt:</summary>
 
     ```text
     As a PowerShell expert in version 5, your task is to analyze and improve the provided code in order to solve a specific problem.
@@ -447,6 +454,8 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Code: <script, function/s, snippet>
     ```
 
+    </details>
+
 33. King Of Prompts - Chatgpt Prompt Generator
 
     ```text
@@ -472,7 +481,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
 
     <https://www.reddit.com/r/ChatGPT/comments/14lh5zq/here_are_4_prompts_generators_you_can_use_daily/>
 
-35. Analyze and improve parts of PowerShell code
+35. Analyze and improve parts of long PowerShell code
 
     ````text
     ```powershell
