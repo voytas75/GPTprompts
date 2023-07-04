@@ -527,7 +527,15 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Present improved fragment of the code: [description of fragment]. Do not present improved code for the rest of the code.
     ````
 
-36. **next**
+36. **Classification**
+
+    ```text
+    below is NLP prompt:
+    "<copy prompt here>"
+    Propose classification for the prompt.
+    ```
+
+37. **comming soon...**
 
 ## Other
 
