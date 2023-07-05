@@ -645,3 +645,4 @@ These prompts cover a wide range of tasks, from content creation to code generat
 29. <https://www.instagram.com/p/CtMN67FgOVK/?igshid=MzRlODBiNWFlZA==>
 30. <https://www.instagram.com/p/CqiYlJXDvVY/?igshid=MzRlODBiNWFlZA==>
 31. <https://www.instagram.com/p/Cst3lfcAxoj/>
+32. [ShareGPT Chrome extension](https://sharegpt.com/)
