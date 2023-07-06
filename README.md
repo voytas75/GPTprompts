@@ -417,7 +417,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
 
     As the first output message, suggest improvements to system's message if you feel that some elements of the query are not 100% understandable. When specifying message enhancements, start the first sentence with "System message enhancement:".
     Then provide descriptive analysis results starting with "Code analysis:" and what improvements you suggest starting with "Code improvement:". Finally, the improved code with the necessary explanations.
-
+    
     ```Powershell
     <powershell code goes here>
     ```
