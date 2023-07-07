@@ -634,10 +634,10 @@ These prompts cover a wide range of tasks, from content creation to code generat
 18. GPT prompts for developers <https://textcortex.com/post/chatgpt-prompts-for-developers>
 19. Free GPT resource for programming <https://godsol.gumroad.com/l/100-chatgpt-programming-prompts>
 20. Grow your biz: <https://www.instagram.com/p/Cp7Xvwxo-MO/>
-21. LIST OF +50 CLEVER GPT-3 PROMPTS 🤖 <https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893>
+21. [LIST OF +50 CLEVER GPT-3 PROMPTS 🤖](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
 22. <https://www.promptvibes.com/>
-23. Awesome chat GPT prompts <https://github.com/f/awesome-chatgpt-prompts>
-24. Gold 10K Ultimate Prompts Bundle <https://miguelanticonam.gumroad.com/l/10k-prompts?ref=upstract.com> - 5$
+23. [Awesome chat GPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+24. [Gold 10K Ultimate Prompts Bundle](https://miguelanticonam.gumroad.com/l/10k-prompts?ref=upstract.com) - 5$
 25. <https://www.instagram.com/reel/Cr1lGaULYRy>
 26. <https://www.instagram.com/p/Cs_IDaBNsMK/?igshid=MzRlODBiNWFlZA==>
 27. <https://www.instagram.com/p/CsDa1t3tPj3/?igshid=MzRlODBiNWFlZA==>
