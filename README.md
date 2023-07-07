@@ -647,3 +647,4 @@ These prompts cover a wide range of tasks, from content creation to code generat
 31. <https://www.instagram.com/p/Cst3lfcAxoj/>
 32. [ShareGPT Chrome extension](https://sharegpt.com/)
 33. [FastChat](https://github.com/lm-sys/FastChat)
+34. [650+ Best Prompts for ChatGPT](https://www.writingbeginner.com/best-prompts-for-chatgpt/)
