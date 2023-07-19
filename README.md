@@ -47,6 +47,7 @@
     - Prompt 35: Analyze and improve parts of PowerShell code.
     - Prompt 38: PowerShell Code Optimization and Best Practices
     - Prompt 39: Secure PowerShell Code Analysis and Improvement
+    - Prompt 44
 
 11. **Role-Playing and Persona Interaction:**
     - Prompt 19: Role-play as Luna, a coding assistant, following the Luna Ruleset.
