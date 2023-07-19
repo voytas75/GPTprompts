@@ -858,6 +858,9 @@ These prompts cover a wide range of tasks, from content creation to code generat
    After all user answers you provide creative response. Add pseudo code of the app.
    All yours responses will be in MD format. User will response in standard text.
    ```
+
+   <https://flowgpt.com/prompt/VHlyadApbKSGbgG4ydHn->
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
