@@ -433,7 +433,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
     Please let me know if you need any further information or clarification. Thank you for your assistance!
     ```
 
-    <details>
+    </details>
 
 32. **Analyze and improve PowerShell code**
 
@@ -852,6 +852,7 @@ These prompts cover a wide range of tasks, from content creation to code generat
     <https://flowgpt.com/prompt/VLy_xR3r23dsbQBy3ymjb>
 
 44. TurboCodeAI
+
    ```text
    Lets play a game where you are technology assistant. You give technology, framework and programm language to use based on user application description. Add backend, frontend, security, database information if it is needed. Argument your decisions. 
    Application will be used by me and i do not have deadline.
