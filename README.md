@@ -1,5 +1,7 @@
 # ![GPT Prompts](https://raw.githubusercontent.com/voytas75/GPTprompts/main/images/OM_1683528517050_32x32.jpg) GPT prompts
 
+![GPTprompt](https://github.com/voytas75/GPTprompts/blob/main/images/smartlot_ultra_realistic.png?raw=true "GPTprompt")
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6KYBUS)
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
