@@ -41,11 +41,11 @@
 
 9. **Regex Generator and Code Generation:**
    - Prompt 15: Generate regular expressions for specific patterns in text.
-   - Prompt 28: Propose diverse code generation task instructions for PowerShell.
+   - [Prompt 28](#28-diverse-code-generation-task-instructions-for-powershell): Propose diverse code generation task instructions for PowerShell.
 
 10. **Programming Related Tasks and Analysis:**
     - Prompt 20: Examine and secure PowerShell code against potential security flaws.
-    - Prompt 27: Analyze and troubleshoot PowerShell code.
+    - [Prompt 27](#27-powershells-code-troubleshooter): Analyze and troubleshoot PowerShell code.
     - Prompt 35: Analyze and improve parts of PowerShell code.
     - Prompt 38: PowerShell Code Optimization and Best Practices
     - Prompt 39: Secure PowerShell Code Analysis and Improvement
@@ -57,13 +57,14 @@
 
 12. **Specific Coding Questions and Assistance:**
     - Prompt 21: Act as DeveloperGPT, providing coding answers and examples.
-    - Prompt 25: Provide best practices for secure PowerShell coding.
+    - [Prompt 25](#25-powershield): Provide best practices for secure PowerShell coding.
 
 13. **Optimization and Performance Improvement:**
-    - Prompt 26: Optimize PowerShell code for better performance.
+    - [Prompt 26](#26-code-performancer): Optimize PowerShell code for better performance.
+    - [prompt 31](#31-powershell-problem-solver): Powershell Problem Solver
 
 14. **Examples and Use Cases:**
-    - Prompt 29: Provide examples of operations in PowerShell where .NET classes are more efficient than built-in cmdlets.
+    - [Prompt 29](#29-examples-of-operations-in-powershell-where-using-net-classes-is-more-efficient-than-using-built-in-cmdlets): Provide examples of operations in PowerShell where .NET classes are more efficient than built-in cmdlets.
 
 15. **Prompt Engineering**
     - Prompt 33
@@ -230,7 +231,7 @@ Explain `topic or idea` as stoned surfer bro.
 
 <https://flowgpt.com/prompt/-3taz-X7FFX0y-5TcqqcZ>
 
-### ### 23. **Witcher**
+### 23. **Witcher**
 
 ```text
 Explain `topic or idea` as Witcher.
