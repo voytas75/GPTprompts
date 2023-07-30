@@ -465,7 +465,7 @@ OTHER FEATURES:
 Thank you for your valuable help!
 ```
 
-<https://flowgpt.com/prompt/EYd0Ob_t9TEmJUFgUWBeu>
+<https://flowgpt.com/p/powershell-code-analyzator-psca-v3>
 
 <details>
 <summary>Older versions of the prompt:</summary>
