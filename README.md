@@ -60,7 +60,7 @@
 12. **Specific Coding Questions and Assistance:**
     - [Prompt 21](#21-developergpt): Act as DeveloperGPT, providing coding answers and examples.
     - [Prompt 25](#25-powershield): Provide best practices for secure PowerShell coding.
-    - [prompt 47](#47-powershell-ad-course): Powershell AD course
+    - [prompt 47](#47-powershell-adds-course): Powershell AD course
 
 13. **Optimization and Performance Improvement:**
     - [Prompt 26](#26-code-performancer): Optimize PowerShell code for better performance.
