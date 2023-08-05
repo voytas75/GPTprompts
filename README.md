@@ -9,55 +9,56 @@
 ## Prompt's classification
 
 1. **Content Expansion and Strategy:**
-   - Prompt 1: Create a list of 10 keywords related to a given topic to expand content strategy for a new business website.
+   - [Prompt 1](#1-keywords-for-topic): Create a list of 10 keywords related to a given topic to expand content strategy for a new business website.
+   - [Prompt 50](#50-psdeveloper): PSDeveloper. Invent new aspect of provided product' (programming related) description.
 
 2. **Explanation and Definition:**
-   - Prompt 2: Ask ChatGPT to explain a concept or idea.
-   - Prompt 3: Request ChatGPT to define a word or concept.
+   - [Prompt 2](#2-asking-chatgpt-to-explain-a-concept-or-idea-can-be-valuable-in-gaining-a-deeper-understanding-of-a-particular-topic): Ask ChatGPT to explain a concept or idea.
+   - [Prompt 3](#3-requesting-a-definition-from-chatgpt-can-help-clarify-the-meaning-of-a-word-or-concept-and-provide-a-solid-foundation-for-further-exploration): Request ChatGPT to define a word or concept.
 
 3. **Comparison and Analysis:**
-   - Prompt 4: Ask ChatGPT to compare two or more things.
-   - Prompt 5: Request ChatGPT to analyze a complex idea or situation.
+   - [Prompt 4](#4-asking-chatgpt-to-compare-two-or-more-things-can-be-useful-in-understanding-the-similarities-and-differences-between-them): Ask ChatGPT to compare two or more things.
+   - [Prompt 5](#5-requesting-an-analysis-from-chatgpt-can-help-break-down-a-complex-idea-or-situation-into-its-component-parts-for-better-understanding): Request ChatGPT to analyze a complex idea or situation.
 
 4. **Prediction and Evaluation:**
-   - Prompt 6: Ask ChatGPT to predict future outcomes based on data or trends.
-   - Prompt 7: Request ChatGPT to evaluate the effectiveness of an approach or strategy.
+   - [Prompt 6](#6-asking-chatgpt-to-predict-future-outcomes-based-on-available-data-or-trends-can-provide-valuable-insights-for-decision-making): Ask ChatGPT to predict future outcomes based on data or trends.
+   - [Prompt 7](#7-requesting-an-evaluation-from-chatgpt-can-help-assess-the-effectiveness-or-value-of-a-particular-approach-or-strategy): Request ChatGPT to evaluate the effectiveness of an approach or strategy.
 
 5. **Recommendation and Simplification:**
-   - Prompt 8: Ask ChatGPT to recommend a course of action or solution.
-   - Prompt 9: Request ChatGPT to simplify a complex topic or idea.
+   - [Prompt 8](#8-asking-chatgpt-to-recommend-a-course-of-action-or-solution-can-be-useful-in-addressing-a-particular-problem-or-challenge): Ask ChatGPT to recommend a course of action or solution.
+   - [Prompt 9](#9-requesting-that-chatgpt-simplify-a-complex-topic-or-idea-can-be-helpful-in-gaining-a-basic-understanding-before-delving-deeper): Request ChatGPT to simplify a complex topic or idea.
 
 6. **Interpretation and Exploration:**
-   - Prompt 10: Ask ChatGPT to interpret a text or data set.
-   - Prompt 11: Request ChatGPT to explore a particular topic or idea.
+   - [Prompt 10](#10-asking-chatgpt-to-interpret-a-particular-text-or-data-set-can-help-uncover-hidden-meanings-or-insights): Ask ChatGPT to interpret a text or data set.
+   - [Prompt 11](#11-requesting-that-chatgpt-explore-a-particular-topic-or-idea-can-be-valuable-in-discovering-new-perspectives-or-avenues-for-inquiry): Request ChatGPT to explore a particular topic or idea.
 
 7. **Teaching and Role-Playing:**
-   - Prompt 12: Teach about a specific topic in simple terms.
-   - Prompt 13: Act as Albert Einstein or other characters to explain a topic.
+   - [Prompt 12](#12-teach-me): Teach about a specific topic in simple terms.
+   - [Prompt 13](#13-albert-einstein): Act as Albert Einstein or other characters to explain a topic.
 
 8. **Guide and Instructions:**
-   - Prompt 14: Generate a comprehensive guide on a topic, including accuracy and web sources.
-   - Prompt 24: Build a prompt to generate content about a specific product or service.
+   - [Prompt 14](#14-guide-of-topic): Generate a comprehensive guide on a topic, including accuracy and web sources.
+   - [Prompt 24](#24-build-a-prompt): Build a prompt to generate content about a specific product or service.
 
 9. **Regex Generator and Code Generation:**
-   - Prompt 15: Generate regular expressions for specific patterns in text.
+   - [Prompt 15](#15-regex-generator): Generate regular expressions for specific patterns in text.
    - [Prompt 28](#28-diverse-code-generation-task-instructions-for-powershell): Propose diverse code generation task instructions for PowerShell.
    - [Prompt 41](#41-powershellgpt-wizard): PowerShellGPT Wizard
 
 10. **Programming Related Tasks and Analysis:**
-    - Prompt 20: Examine and secure PowerShell code against potential security flaws.
+    - [Prompt 20](#20-security-examine-code): Examine and secure PowerShell code against potential security flaws.
     - [Prompt 27](#27-powershells-code-troubleshooter): Analyze and troubleshoot PowerShell code.
     - [Prompt 35](#35-analyze-and-improve-parts-of-long-powershell-code): Analyze and improve parts of PowerShell code.
     - [Prompt 38](#38-powershell-code-optimization-and-best-practices): PowerShell Code Optimization and Best Practices
     - [Prompt 39](#39-secure-powershell-code-analysis-and-improvement): Secure PowerShell Code Analysis and Improvement
-    - Prompt 44
+    - [Prompt 44](#44-turbocodeai): Turbo Code AI
 
 11. **Role-Playing and Persona Interaction:**
-    - Prompt 19: Role-play as Luna, a coding assistant, following the Luna Ruleset.
-    - Prompt 22: Explain a topic as a stoned surfer bro or Witcher.
+    - [Prompt 19](#19-luna): Role-play as Luna, a coding assistant, following the Luna Ruleset.
+    - [Prompt 22](#22-stoned-surfer-bro): Explain a topic as a stoned surfer bro or Witcher.
 
 12. **Specific Coding Questions and Assistance:**
-    - Prompt 21: Act as DeveloperGPT, providing coding answers and examples.
+    - [Prompt 21](#21-developergpt): Act as DeveloperGPT, providing coding answers and examples.
     - [Prompt 25](#25-powershield): Provide best practices for secure PowerShell coding.
     - [prompt 47](#47-powershell-ad-course): Powershell AD course
 
@@ -72,10 +73,10 @@
 15. **Prompt Engineering**
     - [Prompt 33](#33-king-of-prompts---chatgpt-prompt-generator): King of prompts - chatGPT prompt generator
     - [Prompt 34](#34-god-of-prompts---chatgpt-prompt-generator): God of prompts - chatGPT prompt generator
-    - Prompt 37
+    - [Prompt 37](#37-crafting-an-effective-nlp-prompt): Crafting prompt
 
 16. **Classification**
-    - Prompt 36
+    - [Prompt 36](#36-classification): Prompt classificator
 
 These prompts cover a wide range of tasks, from content creation to code generation, role-playing, and specific programming-related questions. Each prompt serves a different purpose, catering to various user needs.
 
@@ -1059,7 +1060,7 @@ You are a Azure Sentinel KQL Expert Assistant. You help the user understand how 
 
 <https://flowgpt.com/p/kqlsenbot>
 
-### 50. PSDeveloper (v1)
+### 50. PSDeveloper
 
 ```text
 ##### PSDeveloper (v1) by <https://flowgpt.com/@martinus-alexander-voytas-napier>
