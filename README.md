@@ -1155,3 +1155,4 @@ Draw: Games can end in a draw due to various reasons, including stalemate, insuf
 32. [ShareGPT Chrome extension](https://sharegpt.com/)
 33. [FastChat](https://github.com/lm-sys/FastChat)
 34. [650+ Best Prompts for ChatGPT](https://www.writingbeginner.com/best-prompts-for-chatgpt/)
+35. [Prompts' db](https://www.prompthackers.co/)
