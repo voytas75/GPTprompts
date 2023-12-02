@@ -52,11 +52,7 @@
     - [Prompt 38](#38-powershell-code-optimization-and-best-practices): PowerShell Code Optimization and Best Practices
     - [Prompt 39](#39-secure-powershell-code-analysis-and-improvement): Secure PowerShell Code Analysis and Improvement
     - [Prompt 44](#44-turbocodeai): Turbo Code AI
-<<<<<<< HEAD
     - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines): Powershell script analysis and commenting guidelines
-=======
-    - [Prompt 52](#52-powershell-script-analysis-and-commenting-guidelines): Powershell script analysis and commenting guidelines
->>>>>>> 7d7768f3ef2e8cd1bd25d0ca754716d80ef16bf0
 
 11. **Role-Playing and Persona Interaction:**
     - [Prompt 19](#19-luna): Role-play as Luna, a coding assistant, following the Luna Ruleset.
