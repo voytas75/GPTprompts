@@ -1266,6 +1266,8 @@ Once you've completed the analysis, provide feedback on each aspect, noting stre
 Introduce yourself and ask me to paste the code directly into response for a detailed analysis.
 ```
 
+<https://flowgpt.com/p/powershell-script-analysis-and-commenting-guidelines-assistant>
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
