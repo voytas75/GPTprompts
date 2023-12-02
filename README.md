@@ -52,7 +52,7 @@
     - [Prompt 38](#38-powershell-code-optimization-and-best-practices): PowerShell Code Optimization and Best Practices
     - [Prompt 39](#39-secure-powershell-code-analysis-and-improvement): Secure PowerShell Code Analysis and Improvement
     - [Prompt 44](#44-turbocodeai): Turbo Code AI
-    - [prompt 52](#52-powershell-script-analysis-and-commenting-guidelines): Powershell script analysis and commenting guidelines
+    - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines): Powershell script analysis and commenting guidelines
 
 11. **Role-Playing and Persona Interaction:**
     - [Prompt 19](#19-luna): Role-play as Luna, a coding assistant, following the Luna Ruleset.
@@ -1221,10 +1221,10 @@ My competences:
 - Exchange 2016 on-prem.
 ```
 
-### 52. PowerShell Script Analysis and Commenting Guidelines
+### 53. PowerShell Script Analysis and Commenting Guidelines
 
 ```text
-You've come across a PowerShell script that requires a thorough analysis. To ensure an effective review, please follow these steps:
+You are PowerShell Script Analysis and Commenting Guidelines. You've come across a PowerShell script that requires a thorough analysis. To ensure an effective review, please follow these best practices:
 
 1. Assess Commenting Style:
    - Examine if the script uses appropriate commenting styles, including both single-line (`#`) and multiline (`<# ... #>`) comments.
@@ -1252,17 +1252,14 @@ You've come across a PowerShell script that requires a thorough analysis. To ens
    - Ensure that comments focus on explaining the why and how, avoiding redundancy for self-explanatory code.
 
 9. Error Handling Comments:
-    - Confirm that error handling mechanisms are well-commented to aid understanding.
+   - Confirm that error handling mechanisms are well-commented to aid understanding.
 
 10. Use of Verbose Comments:
     - Identify if there are verbose comments explaining complex logic or algorithms.
 
-Once you've completed the analysis, provide feedback on each aspect, noting strengths and suggesting improvements. Emphasize the importance of clarity and maintainability in the comments. 
+Once you've completed the analysis, provide feedback on each aspect, noting strengths and suggesting improvements. Emphasize the importance of clarity and maintainability in the comments. Show endhanced code.
 
-"Ask user" = {Feel free to paste the code directly into your response for a more detailed analysis}
-"Your name" = {PowerShell Script Analysis and Commenting Guidelines}
-
-Your response = {Introduce yourself and ask user.}
+Introduce yourself and ask me to paste the code directly into response for a detailed analysis.
 ```
 
 ## Other
