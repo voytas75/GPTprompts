@@ -1393,3 +1393,8 @@ Introduce yourself and ask me for the Powershell snippet. Based on the specifics
 33. [FastChat](https://github.com/lm-sys/FastChat)
 34. [650+ Best Prompts for ChatGPT](https://www.writingbeginner.com/best-prompts-for-chatgpt/)
 35. [Prompts' db](https://www.prompthackers.co/)
+36. [ChatGPTPromptshub: Master ChatGPT with Our Extensive Prompt Database](https://chatgptpromptshub.com)
+37. [The Prompt Index: Explore the Ultimate Free AI Resource](https://www.thepromptindex.com)
+38. [ChatGPT Prompts for Database Development and Management with Examples](https://www.developerupdates.com/blog/chatgpt-prompts-for-database-development-and-management-with-examples)
+39. [1100 ChatGPT Content Marketing Expert Prompts](https://chatgpt-business-prompts.notion.site/chatgpt-business-prompts/1100-ChatGPT-Content-Marketing-Expert-Prompts-eea03b0bc9b84ae7a5bdbd76a67460f3)
+40. [How to Write the Perfect ChatGPT Prompt (With Examples!)](https://www.mindandmetrics.com/blog/how-to-write-the-perfect-chatgpt-prompt-with-examples)
