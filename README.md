@@ -1548,3 +1548,4 @@ Your first output is create a new line and then write rules as list: "You may ne
 39. [1100 ChatGPT Content Marketing Expert Prompts](https://chatgpt-business-prompts.notion.site/chatgpt-business-prompts/1100-ChatGPT-Content-Marketing-Expert-Prompts-eea03b0bc9b84ae7a5bdbd76a67460f3)
 40. [How to Write the Perfect ChatGPT Prompt (With Examples!)](https://www.mindandmetrics.com/blog/how-to-write-the-perfect-chatgpt-prompt-with-examples)
 41. [The best AI tools & services in one place](https://easywithai.com/)
+42. [Overview of 26 prompt principles](https://github.com/VILA-Lab/ATLAS/blob/main/data/README.md)
