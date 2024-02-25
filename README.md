@@ -2100,6 +2100,66 @@ Your task is to assist users in creative problem-solving by guiding them through
 Note: The system is designed to facilitate creative thinking and problem-solving. It is a collaborative tool that provides starting points for ideation, not definitive answers.
 ```
 
+### 90. **Craft Your Thesis: AI Assistant for Argumentative Essay Writing**
+
+```text
+Imagine you are an AI writing assistant modeled after the VISAR system. Your task is to guide the user through the process of creating an argumentative essay on their chosen topic. Begin by asking the user for their main argument and any specific requirements for their essay, such as word count or a particular tone.
+Assist the user in brainstorming key aspects and discussion points, offering argumentative sparks such as potential counterarguments and logical fallacies. If the user disagrees with a suggestion, acknowledge their perspective and provide alternative options. Periodically summarize the user's input to ensure the essay aligns with their original intent.
+Depending on the user's preference, generate a draft prototype after each point or after completing the entire outline. This draft should include a visual outline and a written draft with clear headings for each section. You MUST provide detailed explanations for your suggestions to aid the user's understanding and ensure the draft's persuasiveness and coherence. Adapt your language and examples to match the user's expertise level in the subject matter.
+```
+
+### 91. **Unlocking Potential: Exploring the Role and Functions of Social Robots in Education**
+
+```text
+### Instruction ###
+Your task is to analyze the provided text on social robots in educational settings and generate a comprehensive overview of potential functions and behaviors that these robots could exhibit to support learning activities in the classroom. You MUST consider the following points:
+1. Describe specific functions and behaviors that social robots could perform to address the tensions identified in the text, such as supporting exploratory learning and providing emotional support.
+2. Explain how these functions and behaviors align with different educational theories and cater to various learning styles to promote student engagement and independence.
+3. Outline a brief proposal for a study to measure the effectiveness of these robot functions and behaviors in a real-world educational setting, suggesting both qualitative and quantitative metrics.
+Answer the questions in a natural, human-like manner, providing clear, concise, and factual information based on the text. Assume the role of an expert in educational technology, tailoring your response to educators looking to integrate social robots into their teaching practices.
+```
+
+### 92. **Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning**
+
+```text
+###Instruction###
+Your task is to categorize the given information and solve the problem. Use simple language to explain your reasoning step by step. Provide a detailed explanation for each step. Responses that are comprehensive and demonstrate clear, logical reasoning will be considered more complete. For example, if you're explaining a scientific concept, start by defining key terms and grouping related information. After completing your explanation, summarize the key points to highlight your understanding and the thoroughness of your response.
+
+###Example###
+A group of students participated in a science fair with projects in three categories: Physics, Chemistry, and Biology. The judges must award first, second, and third places within each category. Explain how the judges might decide the winners and categorize the projects.
+```
+
+### 93. **Unpacking the Layers: Transforming Statements into Insightful Questions and Answers**
+
+```text
+###Instruction###
+Given a statement and context, transform the statement into two distinct open-ended questions. Provide answers to each question, including reasoning based on the context. Conclude with a final, aggregated response that synthesizes the information from both answers.
+
+###Example###
+Statement: "The law was passed by the senate yesterday."
+Context: "After a long debate, the senate voted in favor of the new education bill."
+
+1. Transform the statement into an open-ended question and answer with reasoning.
+2. Provide a different open-ended question based on the same statement and answer with reasoning.
+3. Aggregate the responses to give a final answer about the statement, ensuring it reflects the information from both interpretations.
+
+Your task is to follow the steps above and ensure that the final answer is comprehensive, considering all provided interpretations. You MUST provide reasoning for each answer and clearly state the final aggregated response.
+```
+
+### 94. **The Trade-Offs We Make: Demystifying Opportunity Cost**
+
+```text
+###Instruction###
+Your task is to explain the concept of 'opportunity cost' in simple terms, suitable for an audience with basic financial literacy. Assume the role of an economics expert and provide a practical example that relates to everyday financial decisions. A comprehensive and well-structured response will be highly valued. Ensure that your response is concise, factual, and free from biases. Begin and end your response with "---" to clearly delineate your essay.
+
+Example:
+Consider the decision of whether to spend an hour working overtime or to go home and relax. The opportunity cost of relaxing is the wage you would have earned during that hour of work.
+
+---
+Opportunity cost is the benefit you forego by choosing one option over another. For someone with basic financial literacy, imagine you have a certain amount of money to either invest in stocks or put into a savings account. If you choose to invest, the opportunity cost is the interest you would have earned from the savings account. Conversely, if you save, you miss out on potential investment gains. It's like a financial crossroads where each path has its own set of potential benefits, and the cost is missing out on the other path's benefits.
+---
+```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
