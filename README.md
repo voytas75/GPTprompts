@@ -1951,6 +1951,155 @@ Answer the following questions in a natural, human-like manner, ensuring your ex
 - Based on the study, what further research would be beneficial in understanding AI's decision-making and fairness?
 ```
 
+### 78. **Life event**
+
+```text
+**Your task is to generate a narrative based on a specified life event. You MUST create a coherent and engaging story that aligns with the chosen event type. Follow these steps to ensure the narrative meets the required standards:**
+1. **Specify the life event type**: Choose one of the following events for your narrative: birth, death, hiring, or firing.
+2. **Provide character background**: Give a brief introduction to the characters involved in the event.
+3. **Craft the narrative**: Write a story that captures the essence of the chosen life event, ensuring it is appropriate for the characters' ages and contextually relevant.
+4. **Evaluate the narrative**: After creating the narrative, assess its validity by answering the following questions:
+   - Does the narrative clearly and accurately convey the chosen life event?
+   - Are the characters' actions and the storyline consistent with the event's context?
+   - Is the narrative engaging and coherent from start to finish?
+**Write in a style that is accessible to a broad audience, avoiding technical jargon and explaining any necessary terms in simple language.**
+
+### Example for a Hiring Event Narrative ###
+"John had always dreamed of working in software development. When he received the call from Tech Innovators Inc., offering him the position of junior developer, he was over the moon. The narrative would then describe John's excitement, his preparation for the first day, and the warm welcome he received from his new team."
+```
+
+### 79. **Code refactoring**
+
+```text
+Your task is to assist with code refactoring. Provide a detailed description of the code you wish to refactor, including any specific issues you're facing and the quality attributes you aim to improve. Include code fragments or examples of similar refactorings to guide the suggestions. For each refactoring suggestion you make, explain your reasoning process, identifying and describing the quality attributes involved. You MUST consider both internal and external factors, such as readability, maintainability, and performance, as well as common code smells. List the refactoring suggestions in order of impact, starting with the most significant. You will be penalized if the refactoring suggestions do not adequately address the described issues and quality attributes.
+```
+
+### 80. **E(3)-Equivariant Mesh Neural Networks: A Comprehensive Explanation**
+
+```text
+###Instruction###
+In the field of machine learning, geometric deep learning has emerged as a crucial area for analyzing 3D shapes and structures. One of the recent advancements in this field is the development of Equivariant Mesh Neural Networks (EMNN). Your task is to provide a detailed yet accessible explanation of the research paper 'E(3)-Equivariant Mesh Neural Networks.' You MUST cover the following points:
+1. Summarize the motivation behind the development of EMNN and their significance in the field of geometric deep learning. Use analogies where appropriate to clarify complex concepts.
+2. Explain how EMNN incorporates mesh face information into its architecture and the advantages this provides over traditional graph neural networks, ensuring technical accuracy while maintaining readability.
+3. Describe the key methodological steps taken in the EMNN approach and the performance improvements observed compared to other equivariant methods, highlighting the practical implications of these findings.
+4. Discuss the potential future applications of EMNN and how it might influence the advancement of 3D geometric deep learning, speculating on the broader impact of this research.
+```
+
+### 81. **Understanding Automatic Behavior Optimization (ABO): A Step-by-Step Guide**
+
+```text
+###Instruction###
+Your task is to explain the concept of Automatic Behavior Optimization (ABO) as it is described in recent AI research. You MUST include a step-by-step explanation of the ABO process, highlight the differences between ABO and traditional prompt optimization methods, and discuss the advantages of ABO, especially for enhancing the performance of less powerful language models. Additionally, provide a specific example to illustrate the ABO process in action.
+```
+
+### 82. **The Reasoning Chain Verifier: Deep Dive into Evidence and Logic**
+
+```text
+Your task is to act as a verifier for the following reasoning chain related to the given question. You will be provided with a series of statements that form a reasoning chain, along with evidence passages that may support or contradict the statements. For each statement in the reasoning chain, you MUST:
+1. Determine if the statement is relevant to answering the question and explain why.
+2. Assess if the statement is factually accurate by comparing it to the provided evidence passages and justify your assessment.
+3. Evaluate the logical correctness of the statement based on the information in the preceding statements and justify your evaluation.
+4. Provide clear and concise justifications for each of your assessments, offering insight into your thought process as a verifier.
+Remember to explicitly reference the evidence passages when assessing factual accuracy and to ensure that your justifications reflect a deep understanding of the reasoning chain's components.
+```
+
+### 83. **Mastering Multi-Step Word Problems: Breakdown and Solution with Clear Explanations**
+
+```text
+###Instruction###
+You are given a math word problem involving multiple steps. Your task is to first break down the problem into simpler subproblems and list them. Then, solve each subproblem in sequence, providing a clear and coherent explanation for each step. Answer the questions in a natural, human-like manner, ensuring that each step logically follows from the previous one. Use the answers from the previous steps to assist in solving the next one.
+
+###Example###
+A farmer starts with 20 apples. He sells 5 apples, then buys 12 more. Finally, he gives away 3 apples to his neighbor. Break down this problem into subproblems and solve it using the least-to-most prompting strategy, ensuring you explain each step of your reasoning.
+
+###Subproblem Identification###
+1. Determine the number of apples the farmer has after selling some.
+2. Calculate the new total after the farmer buys more apples.
+3. Find the final count after the farmer gives away apples to his neighbor.
+
+###Subproblem Solving###
+1. Starting with 20 apples and selling 5 means the farmer has 20 - 5 = 15 apples left. This is the solution to the first subproblem, and I calculated it by performing a simple subtraction.
+2. The farmer then buys 12 more apples, so he has 15 + 12 = 27 apples in total. I added the number of apples bought to the remaining apples from the first step.
+3. Finally, the farmer gives away 3 apples to his neighbor, which means he has 27 - 3 = 24 apples remaining. This subtraction gives us the final answer.
+The farmer has 24 apples in the end, and this is the final answer to the problem.
+```
+
+### 84. **Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization**
+
+```text
+###Instruction###
+Your task is to optimize a conversational AI's responses using the Listwise Preference Optimization (LiPO) framework. Explain the process of utilizing listwise data to train the AI, highlighting the advantages over pairwise comparisons. Then, detail a sophisticated weighting mechanism for ranking the AI's responses based on human feedback. Use a Chain of Thought approach to provide a clear, step-by-step explanation of this process, including an example to illustrate the application of LiPO in a real-world scenario.
+```
+
+### 85. **Beyond Traditional Metrics: Analyzing Document Processing with ANLS and Specialized Prompting**
+
+```text
+Your task is to explain the ANLS* metric for evaluating generative large language models (GLLMs) in document processing tasks. You MUST compare ANLS* to previous evaluation metrics, emphasizing the types of tasks it can evaluate and its benefits. Furthermore, discuss the impact of specialized prompting techniques, such as the SFT method, on the performance of GLLMs. Provide concrete examples to illustrate the advantages of these techniques in improving document processing tasks.
+```
+
+### 86. **Dorm Room Revolution: Design Products to Empower College Students**
+
+```text
+###Instruction###
+Your task is to generate new product ideas targeting college students in the United States, with each product priced under $50. You MUST approach this task as if you are a creative product designer and college student entrepreneur, focusing on the needs and interests of your peers. Follow these steps to ensure a diverse and valuable set of ideas:
+1. List 10 brief product ideas that are distinct from each other, each addressing different needs or categories relevant to college students, such as sustainability, technology, health, and wellness.
+2. Expand on each idea, providing a name and a short description of the product. Ensure that each idea is unique and explain how it caters to college students.
+3. Provide a detailed justification for why each product would be appealing to college students and how it fits the price point of under $50, considering factors like cost of materials, design simplicity, and potential demand.
+4. Conduct a thorough feasibility analysis for each idea, considering the practicality of production and market introduction.
+5. You will be rewarded for the creativity, feasibility, and diversity of your ideas. Remember, quality is as important as quantity.
+Your final output should consist of 10 well-defined product ideas, each with a name, description, detailed justification for appeal, and a comprehensive feasibility analysis.
+```
+
+### 87. **The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity**
+
+```text
+### Instruction ###
+Your task is to analyze the research study "How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment" and explain its findings. You MUST use simple language for clarity.
+1. Define individual creativity and collective idea diversity, and explain their differences.
+2. Describe a scenario illustrating how high exposure to AI-generated ideas can increase collective diversity but not individual creativity.
+3. Analyze why individuals who consider themselves highly creative may be less influenced by the AI-origin of an idea.
+4. Identify types of creative tasks where AI-generated ideas are more likely to be adopted, especially when the tasks are challenging.
+5. Propose methods for incorporating AI into creative processes that can enhance collective diversity without diminishing individual creativity.
+You MUST answer in a natural, human-like manner, using the Chain of Thought technique to demonstrate your reasoning process clearly.
+```
+
+### 88. **Building Better Together: A Guide to AI-Powered Product Copilot Development**
+
+```text
+###Instruction###
+Your task is to explain the challenges and best practices in building AI-powered product copilots, focusing on prompt engineering, testing, and continuous learning. You MUST provide a structured list of points that cater to both beginners and experienced software engineers. Include examples and actionable advice where appropriate. Comprehensive and well-structured responses will be highly valued.
+
+###Questions###
+1. What are the main challenges in prompt engineering for AI-powered product copilots, and how can they be addressed?
+2. How can software engineers effectively test and benchmark AI applications, considering the lack of standardized metrics?
+3. What strategies can software engineers use to stay up-to-date with rapidly evolving AI technologies, and why is this important?
+4. Explain the significance of safety and compliance in AI-powered product development and provide guidance on how engineers can ensure these aspects are adequately addressed.
+```
+
+### 89. **Unlocking Innovation: Supercharge Your Problem-Solving with Supermind Design**
+
+```text
+###Instruction###
+Your task is to assist users in creative problem-solving by guiding them through the Supermind Design methodology. Encourage users to generate innovative ideas for their problems and adjust the level of creativity as requested.
+
+1. Begin by asking the user to describe their problem. Provide an example to illustrate the expected format.
+   - Example: "I am trying to improve the efficiency of remote team collaboration."
+2. Guide the user through the following conceptual moves to explore the problem and stimulate idea generation:
+   - Zoom In - Parts: "Let's break down the problem. What components of remote team collaboration are most challenging for you?"
+   - Zoom In - Types: "Can you identify different categories within this problem?"
+   - Zoom Out - Parts: "Consider the larger context. What larger system is this problem a part of?"
+   - Zoom Out - Types: "What broader category does this problem belong to?"
+   - Analogize: "Think of a similar challenge in a different context. What analogies come to mind?"
+   - Groupify: "Imagine various groups tackling this issue. How might a hierarchy, democracy, market, or community approach it?"
+   - Cognify: "What cognitive processes could be applied here? Consider creation, decision-making, sensing, remembering, and learning."
+   - Technify: "What role could technology play in addressing this problem?"
+3. Offer the user options to select the level of creativity for the ideas generated (Low, Medium, High), corresponding to temperatures of 0.7, 1.0, and 1.3.
+4. Prompt the user to rate each idea with a Thumbs Up or Thumbs Down and ask for a brief explanation of their rating to collect qualitative feedback.
+5. Emphasize that the system's outputs are meant to inspire further thought and are not final solutions. The user is responsible for evaluating and refining the ideas.
+
+Note: The system is designed to facilitate creative thinking and problem-solving. It is a collaborative tool that provides starting points for ideation, not definitive answers.
+```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
