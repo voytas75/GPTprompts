@@ -2160,6 +2160,155 @@ Opportunity cost is the benefit you forego by choosing one option over another. 
 ---
 ```
 
+### 95. **Bookworm Buddy: Your Online Bookstore Chatbot Assistant**
+
+```text
+### Instruction ###
+Your task is to create a chatbot that assists with customer service inquiries for an online bookstore. Follow the steps below to design your chatbot's conversation flow:
+
+1. Define the chatbot's main function (e.g., order tracking, product recommendations). Keep this function in mind throughout the following steps.
+2. Provide three examples of common customer inquiries related to the function you chose. Ensure each inquiry reflects a different aspect of the main function.
+3. Describe how you want the chatbot to respond to these inquiries. Use affirmative language and avoid negative constructs. Mimic the polite and helpful tone typical of customer service interactions.
+4. After each example, ask the LLM to generate a response based on the information provided.
+5. Evaluate the LLM's response: Does it align with your desired outcome in terms of accuracy, tone, and helpfulness? If not, refine your examples and try again, focusing on the areas that need improvement.
+
+Remember, the more specific and detailed your examples, the more accurately the LLM can assist customers. Your goal is to create a chatbot that provides helpful and accurate information to customers while maintaining a friendly and professional tone.
+```
+
+### 96. **Understanding Your Needs: Analyzing User Requests with MoPs**
+
+```text
+### Instruction ###
+
+You, the LLM, function as an intelligent system with the capability to adapt to diverse tasks using a Mixture of Prompts (MoPs) approach. Your task is to analyze the user input provided below. Identify the type of task, consider the data source (centralized or federated), and explicitly state which set of 'expert' skills or knowledge you are activating to address the task. Provide a detailed response that includes your reasoning for the choices made, ensuring consistency and tailoring your answer to the specific task and data context. Conclude with a summary statement of your reasoning process.
+
+### Example ###
+
+If the task is to summarize a text, state that you are activating your 'summarization expert' skills and then condense the main points into a concise format. If the task is to answer a question, state that you are using your 'question-answering expert' skills, provide a direct answer followed by an explanation, and summarize why this approach was suitable.
+
+### User Input ###
+
+{Insert user input here}
+
+### Your Response ###
+
+1. Task Identification: [Your identification of the task type here]
+2. Data Source Consideration: [Your assessment of the data source here]
+3. Expert Skill Activation: [Your explicit statement of the 'expert' skills or knowledge activated here]
+4. Detailed Response: [Your detailed response with reasoning here]
+5. Summary Statement: [Your summary of the reasoning process here]
+```
+
+### 97. **Balancing Accuracy and Density: Mastering the Task Spectrum**
+
+```text
+### Instruction ###
+
+Your task is to analyze the given input and categorize it as either 'Analytical' or 'Language Modeling'. Based on the category, provide an appropriate response. For 'Analytical' tasks, focus on accuracy and conciseness. For 'Language Modeling' tasks, prioritize information density and coherence. Include your reasoning process for complex queries.
+
+Example 1: [Mathematical problem]
+- Category: Analytical
+- Desired Response: [Concise solution with brief reasoning]
+
+Example 2: [Text summary request]
+- Category: Language Modeling
+- Desired Response: [Information-dense summary]
+
+Remember, the quality of your response will be evaluated based on accuracy for 'Analytical' tasks and information density for 'Language Modeling' tasks.
+```
+
+### 98. **Keyphrase Catalyst: Extracting Intent Through Chain of Thought**
+
+```text
+Your task is to assist in semi-supervised text clustering by generating keyphrases that capture the intent of the following queries. Use the Chain of Thought technique to explain your reasoning for each set of keyphrases. After your explanation, provide the keyphrases in a JSON-formatted list. Example: Query: 'How do I locate my card?' Reasoning: 'The query is about the current status and location of a card, which are key aspects of the query's intent.' Keyphrases: ['card status', 'card location'].
+```
+
+### 99. **Crafting Solutions: A User-Centric Approach to Problem-Solving**
+
+```text
+###Instruction###
+
+Your task is to assist users in solving problems by generating structured and logical outputs. To achieve this, you MUST:
+1. Establish a clear understanding of any domain-specific language or symbols used by the user. For example, "In the context of graph theory, when I say 'A - B', it represents an edge between nodes A and B."
+2. Before generating a guide or script, inquire about any specific user constraints, preferences, or environmental factors that could influence the solution.
+3. Generate a step-by-step guide or script that automates the process or solves the problem, ensuring that each step is actionable and within the capabilities of the user.
+4. After providing a solution, reflect on the output by explaining the reasoning, assumptions, and any domain-specific knowledge you used. For instance, "I suggested this approach because it aligns with the latest best practices in the field."
+5. Offer alternative approaches when possible, detailing the pros and cons of each to enable informed decision-making by the user.
+6. If certain information is required for a complete response but is missing, ask targeted questions to gather the necessary details.
+7. Always prioritize the accuracy of information by providing a list of key facts that should be verified for the validity of your output. Include a simple mechanism for users to confirm or correct these facts.
+8. If at any point the user introduces new information or requests a change in direction, adapt your responses accordingly while maintaining the logical flow of the conversation.
+```
+
+### 100. **Guiding the User: Crafting Clear and Contextual Instructions**
+
+```text
+### Instruction ###
+Your task is to generate a human-readable instruction for a specified task within a given domain. Use the soft prompt provided to guide your response, and include a self-evaluation mechanism to assess the instruction's effectiveness. Ensure the instruction is clear, concise, and tailored to the domain context. Provide an example that is relevant to the specific application.
+
+1. Soft Prompt: [Insert adaptable soft prompt here, relevant to the task]
+2. Domain Context: [Insert domain-specific context here, detailing the audience and purpose]
+3. Example: [Insert a relevant example or task scenario here]
+4. Self-Evaluation: Evaluate the clarity and effectiveness of the instruction within the given domain. Rate the instruction on a scale from 1 to 5, with 5 being very clear and highly effective. Provide a brief justification for your rating.
+```
+
+### 101. **Understanding Your Needs: Clarifying Refund Requests Effectively**
+
+```text
+Your task is to assist the customer with their refund request. Please ask the following questions to understand their situation better:
+1. What product or service are you requesting a refund for?
+2. What is the reason for your request?
+3. When did you purchase the product or service?
+4. Have you already contacted our customer service team about this issue?
+```
+
+### 102. **Optimizing Through Iteration: Learning from Past Solutions**
+
+```text
+### Instruction ###
+Your task is to iteratively optimize a given problem described in natural language. Review the previous solutions and their evaluations to inform your generation of an improved solution.
+
+### Problem Description ###
+[Insert natural language description of the optimization problem here.]
+
+### Previous Solutions and Evaluations ###
+- Solution 1: [Description] | Evaluation: [Score]
+- Solution 2: [Description] | Evaluation: [Score]
+{...}
+- Solution N: [Description] | Evaluation: [Score]
+
+Based on the above solutions and their evaluations, propose a new solution that seeks to enhance the objective function's performance. Aim to generate a solution that builds upon the strengths of high-scoring solutions while exploring new, untested strategies.
+
+### Your New Solution ###
+[Provide your new solution here. Justify your choice based on the problem description and previous solutions, explaining how it is expected to improve upon them and impact the evaluation score. Aim for solutions that are not only innovative but also feasible and practical within the given constraints.]
+
+Note: You must rely solely on the information provided within this prompt and not perform any external computation or retrieval. Your output should be clear, concise, and directly related to the problem description and previous solutions. Strive for consistent improvement and reduced variance in evaluation scores.
+```
+
+### 103. **Unraveling Complexities: Logical Reasoning on Knowledge Graphs**
+
+```text
+### Instruction ###
+Your task is to perform logical reasoning over a knowledge graph (KG) to answer a complex query. You MUST follow these steps:
+1. Identify the relevant entities and relations in the KG based on the provided query.
+2. Use placeholders for entities and relations to abstract the query from specific KG contexts.
+3. Decompose the complex query into simpler, logically-ordered queries.
+4. Answer each decomposed query sequentially, using the results of previous queries when necessary.
+5. Explain your reasoning for each step to ensure clarity and logical coherence.
+
+After completing your reasoning, compare your final answer to the sample correct response provided. Your performance will be evaluated based on the accuracy and logical coherence of your answers compared to the sample response.
+
+Note: If applying to a specific domain, such as healthcare, adapt your reasoning to include relevant terminologies and hierarchies. This step is optional and should only be applied if domain-specific context is provided.
+
+### Query ###
+(Placeholder for a complex query)
+
+### Relevant KG Context ###
+(Placeholder for relevant subgraph context)
+
+### Sample Correct Response ###
+(Placeholder for a sample correct response)
+```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
