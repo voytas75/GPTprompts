@@ -2327,6 +2327,74 @@ For example, if the system is a smart irrigation controller, an adaptive require
 Remember to think about domain-specific triggers and adaptations, scalability of requirements, implications on system design, stakeholder communication, and regulatory compliance factors that might not be immediately obvious. Start each requirement fragment with a bullet point and provide a brief rationale for clarity.
 ```
 
+### 105. **Expert Panel Synthesis with Authority Regularization**
+
+```text
+You are participating in a virtual roundtable discussion as an expert panel with four distinct roles: a cybersecurity expert, a user experience designer, a business strategist, and a legal expert. Your task is to provide insights from each expert's perspective on the implementation of a new technology platform. After presenting each perspective, synthesize the insights into a comprehensive recommendation. Ensure that you weigh each perspective equally to achieve a balanced approach to the technology's implementation.
+
+Additionally, as you gather information from various sources to inform your perspectives, you must evaluate the reliability of each source. Assign a confidence level to the information you provide, stating whether it is based on well-established facts, widely accepted theories, emerging research, or anecdotal evidence. Use this assessment to guide the authority you give to each piece of information in your final recommendation.
+
+1. As the cybersecurity expert, discuss the security implications of the new technology platform. Highlight potential risks and suggest mitigation strategies. Indicate the confidence level of your assertions based on the source of your information.
+2. As the user experience designer, evaluate how the new technology will impact user interaction and satisfaction. Propose design principles that should be followed to ensure a positive user experience. State the confidence level of your design recommendations.
+3. As the business strategist, analyze the potential business impact of adopting the new technology. Consider factors such as market competitiveness, cost, and ROI. Assign a confidence level to your business analysis.
+4. As the legal expert, identify any legal and regulatory considerations that must be addressed in the deployment of the new technology. Provide guidance on compliance with relevant laws and industry standards, and express the confidence level of your legal advice.
+5. Synthesize the insights from all four perspectives into a final recommendation that addresses the concerns and objectives of each expert, ensuring a balanced approach to the technology's implementation. Remember to give equal consideration to each perspective and clearly state the overall confidence level of your final recommendation based on the authority of the information used.
+```
+
+### 106. **Optimization Algorithm Simulation**
+
+```text
+### Instruction ###
+
+You are to simulate the role of an optimization algorithm inspired by the Simplex-BSO method. Your objective is to optimize a hypothetical scenario involving delivery route planning, considering various constraints and aiming for maximum efficiency.
+
+Scenario: A company seeks to optimize delivery routes to reduce travel time and fuel usage while adhering to delivery schedules.
+
+Step 1: Global Exploration - Outline a general strategy for route optimization, considering factors like traffic, delivery priority, and vehicle types.
+Step 2: Local Exploitation - Refine your strategy by addressing specific challenges such as road closures and urgent delivery additions.
+Step 3: Performance Estimation - Quantify the benefits of your strategy, focusing on the percentage reduction in travel time and fuel usage.
+
+Explain your thought process at each step, showcasing the logical progression from broad exploration to detailed exploitation. Provide clear and concise responses applicable to the optimization scenario.
+```
+
+### 107. **Scholarly Synthesis**
+
+```text
+###Instruction###
+Your task is to synthesize information from a set of provided citations related to a specific research topic into a coherent narrative for a Related Work section in an academic paper. Follow these steps:
+
+1. Identify key themes within the provided citations and abstracts, considering the evolution of the topic and debates among scholars.
+2. Organize the citations into thematic groups, providing a descriptive name and detailed rationale for each group.
+3. For each thematic group, draft a paragraph that synthesizes the information, critically evaluates the contributions, and discusses the interactions and implications of the cited works.
+4. Highlight any consensus or disagreements among the works and their significance in relation to the broader research question.
+5. Format the output to facilitate easy review and refinement by a human collaborator, using citation IDs for references.
+
+Remember to maintain a scholarly tone and adhere to the conventions of academic writing, providing a deep analysis that reflects the complexity of human-written texts.
+```
+
+### 108. **Co-Create Spectrum: A Value-Driven Brainstorming Prompt**
+
+```text
+Your task is to collaborate with the user in brainstorming a solution for a specific scenario. You will present ideas from different value perspectives, fostering a reflective dialogue to explore the user's values and creative process. After the brainstorming session, you will gather user feedback on their experience.
+
+### Instruction ###
+
+1. Scenario: [Insert a creative problem-solving scenario here, relevant to the user's context]
+2. Value Perspectives: Present ideas from the following value perspectives:
+   - Economic (Pro-Market vs. Pro-Equality)
+   - Automation (Pro-Efficiency vs. Pro-Job Retention)
+   - Hierarchy (Pro-Hierarchical Structure vs. Pro-Flat Structure)
+3. Reflective Dialogue: Engage the user with questions to encourage reflection on the presented ideas:
+   - How do these ideas align with your personal values?
+   - How do the suggested ideas influence your creative process?
+4. User Feedback: After brainstorming, ask the user to provide feedback on the session:
+   - How helpful was the AI in generating ideas? (Rate 1-5, where 1 is not helpful and 5 is very helpful)
+   - Rate the quality of the ideas produced, considering creativity, novelty, usefulness, and clarity. (Rate 1-5)
+   - How strong is your sense of ownership over the brainstormed solutions? (Rate 1-5)
+
+Ensure to maintain a neutral and unbiased tone throughout the interaction, allowing the user to express their thoughts freely. Your responses should be concise, factual, and presented in a human-like style.
+```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
