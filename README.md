@@ -2419,6 +2419,86 @@ Your primary goal is to facilitate a personalized learning experience that is ad
 Your task is to explain the concept of Dynamic Transaction Storage (DTS) strategies and Verkle trees in the context of blockchain technology. You MUST detail how these strategies and mechanisms contribute to minimizing block incentive volatility, particularly in consortium blockchains. Additionally, discuss the implications of the study's findings, such as the effectiveness of time-based transaction incorporation priority and the absence of designated space for small-fee transactions. Conclude by providing a quantifiable analysis of the potential impact of these strategies on transaction processing efficiency, including specific metrics such as block propagation time and the rate of orphaned blocks. Finally, suggest actionable insights with concrete examples on how these strategies might be adapted to other domains or systems that face similar challenges with transaction processing and data storage. Your response should be informative, detailed, and reflect a deep understanding of the research methodologies and findings presented in the text.
 ```
 
+### 111. **Advanced Guide to Machine Learning in Survey Sampling and Estimation**
+
+```text
+### Instruction ###
+
+Your task is to provide a detailed explanation of how gradient-boosting regression trees can be applied to survey sampling and small area estimation, with an emphasis on practical implementation and accuracy estimation. You MUST address the following points:
+1. Elaborate on the gradient-boosting regression tree methodology, emphasizing its suitability for modeling complex relationships in survey sampling and small area estimation data.
+2. Highlight the robustness of machine learning methods, particularly gradient-boosting regression trees, against small deviations from traditional statistical model assumptions.
+3. Clarify the role of bootstrap techniques, including parametric and residual bootstrap methods, in quantifying the accuracy and reliability of machine learning model predictions.
+4. Compare the performance of machine learning predictors with classical statistical methods, both under ideal conditions and when faced with model deviations.
+5. Discuss the practical steps involved in implementing gradient-boosting regression trees, such as data preprocessing, model tuning, and interpretation of bootstrap accuracy estimates, while considering the potential limitations and the need for domain expertise.
+6. Provide guidance on selecting appropriate machine learning models and evaluating their predictions within the context of survey sampling and small area estimation.
+
+Ensure that your explanation is clear, factual, and tailored for an audience with an intermediate to advanced understanding of statistics and machine learning, enabling them to apply these insights effectively in their work.
+```
+
+### 112. **Cross-Domain Application of Machine Learning and Bootstrap Techniques**
+
+```text
+### Instruction ###
+
+Your task is to adapt the machine learning techniques and bootstrap methods for accuracy estimation, as discussed in the context of survey sampling and small area estimation, to a new domain of your choice. You MUST address the following points:
+1. Identify the key characteristics of the new problem and explain how they align with the use of gradient-boosting regression trees and bootstrap techniques for accuracy estimation.
+2. Describe how gradient-boosting regression trees can be tailored to model the specific data relationships and patterns present in the new domain.
+3. Discuss the application of parametric and residual bootstrap methods to estimate the accuracy of machine learning model predictions in the new context, highlighting any domain-specific considerations.
+4. Compare the potential benefits and limitations of using machine learning predictors in the new domain against traditional methods that may be currently in use.
+5. Provide a step-by-step guide on implementing these techniques, from data preprocessing to model evaluation, ensuring that the explanation is accessible to users with varying levels of expertise in the new domain.
+6. Offer insights on how to select appropriate machine learning models and evaluate their predictions, taking into account the unique challenges and data characteristics of the new domain.
+
+Your response should be informative, practical, and tailored to assist users in effectively applying machine learning and bootstrap methods to their specific problem, regardless of the domain.
+```
+
+### 113. **Adversarial Robustness Evaluation Prompt**
+
+```text
+### Instruction ###
+You will be provided with a piece of text. Your task is to evaluate this text for its quality and robustness against potential adversarial attacks. Address the following points distinctly:
+1. Analyze the provided text for inconsistencies or unnatural patterns that could indicate an adversarial attack, providing examples to support your evaluation.
+2. Discuss the concept of attack transferability, considering observed data from similar models, and explain the potential risks and limitations of this phenomenon.
+3. Explain how you would calculate the perplexity of the provided text to determine if it suggests a normal range or a potential adversarial attack, considering the data you would need for such a calculation.
+4. Propose practical and actionable methods for safeguarding LLMs in high-stakes environments, such as educational assessments, drawing on insights from the provided research and considering specific real-world scenarios.
+
+Ensure your response is comprehensive, evidence-based, and considers the implications of adversarial robustness in practical applications.
+```
+
+### 114. **Cross-Domain AI-Resilient Test Analysis**
+
+```text
+### Instruction ###
+
+Your task is to generate five test questions across different domains: humanities, technology, natural sciences, and any two other fields of your choice. For each question, you MUST NOT provide a direct answer. Instead, you will analyze the question's structure and content to explain why it is not vulnerable to AI cheating, drawing on insights from a study on ChatGPT's performance with test questions. Rate the difficulty of each question on a scale from 1 (easy) to 5 (hard) and predict the likelihood of ChatGPT answering it correctly, using a percentage scale. Justify your predictions based on the study's findings, and ensure that the questions are general enough to be applicable in a standard testing environment.
+
+### Questions ###
+
+1. [Humanities Question]
+   - Structure and Content Analysis:
+   - Difficulty Rating:
+   - Likelihood of ChatGPT Answering Correctly (Percentage):
+
+2. [Technology Question]
+   - Structure and Content Analysis:
+   - Difficulty Rating:
+   - Likelihood of ChatGPT Answering Correctly (Percentage):
+
+3. [Natural Sciences Question]
+   - Structure and Content Analysis:
+   - Difficulty Rating:
+   - Likelihood of ChatGPT Answering Correctly (Percentage):
+
+4. [Question from Another Field]
+   - Structure and Content Analysis:
+   - Difficulty Rating:
+   - Likelihood of ChatGPT Answering Correctly (Percentage):
+
+5. [Question from Another Field]
+   - Structure and Content Analysis:
+   - Difficulty Rating:
+   - Likelihood of ChatGPT Answering Correctly (Percentage):
+```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
