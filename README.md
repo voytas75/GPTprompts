@@ -52,6 +52,7 @@
        - [prompt 41](#41-powershellgpt-wizard) PowerShellGPT Wizard
        - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
        - [prompt 50](#50-psdeveloper) PSDeveloper
+       - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
     5. Computer Systems and Networks.
        - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
@@ -59,6 +60,7 @@
        - [prompt 25](#25-powershield) PowerShield
        - [prompt 39](#39-secure-powershell-code-analysis-and-improvement) Secure PowerShell Code Analysis and Improvement
        - [prompt 52](#52-it-administrator-assistant) IT Administrator' Assistant
+       - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
     7. Database Management and Data Retrieval:
         1. Relational Database Design and Optimization.
         2. NoSQL Databases and Data Stores.
@@ -97,6 +99,7 @@
         - [prompt 41](#41-powershellgpt-wizard) PowerShellGPT Wizard
         - [prompt 45](#45-taskcraftopia) TaskCraftopia
         - [prompt 52](#52-it-administrator-assistant) IT Administrator' Assistant
+        - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
     14. Educational Technology
         - [prompt 40](#40-powerpoint-gpt-assistant) PowerPoint GPT assistant
     15. Computer Game Design and Development
