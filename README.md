@@ -6,7 +6,116 @@
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
 
-## Prompt's classification
+## Prompt's classification (new)
+
+1. Arts and Humanities.
+2. Biological Sciences.
+3. Business and Economics:
+    1. Marketing and Advertising.
+    2. Finance and Financial Management.
+       - [prompt 18](#18-personal-financial-advisor) Personal financial advisor
+    3. Entrepreneurship and Startup Culture.
+       - [prompt 14](#24-build-a-prompt) Build a prompt
+    4. International Business and Trade.
+    5. Human Resources and Organizational Behavior.
+    6. Operations Management.
+    7. Business Strategy and Competitive Analysis.
+    8. Accounting and Auditing.
+    9. Business Ethics and Corporate Social Responsibility.
+    10. Real Estate and Property Management.
+    11. Supply Chain Management.
+    12. Economics Theory and Application.
+    13. Economic Development and Policy.
+    14. Investment and Portfolio Management.
+    15. Consumer Behavior and Market Research.
+    16. Corporate Finance and Governance.
+    17. Risk Management and Insurance.
+    18. Taxation and Public Finance.
+    19. Management Information Systems.
+    20. Innovation and Technology Management.
+    21. Other Specialized Areas in Business and Economics.
+4. Chemistry.
+5. Computer and Information Sciences:
+    1. Artificial Intelligence and Machine Learning.
+       - [prompt 17](#17-experienced-prompt-engineer) Experienced prompt engineer
+       - [prompt 21](#21-developergpt) DeveloperGPT
+    2. Data Science and Big Data Analytics.
+    3. Human-Computer Interaction.
+    4. Software Engineering.
+       - [prompt 26](#26-code-performancer) Code performancer
+       - [prompt 27](#27-powershells-code-troubleshooter) Powershell's code troubleshooter
+    5. Computer Systems and Networks.
+    6. Cybersecurity and Information Assurance.
+       - [prompt 20](#20-security-examine-code) Security examine code
+       - [prompt 25](#25-powershield) PowerShield
+    7. Database Management and Data Retrieval:
+        1. Relational Database Design and Optimization.
+        2. NoSQL Databases and Data Stores.
+        3. Data Warehousing and Business Intelligence.
+        4. Distributed Database Systems.
+        5. Database Administration and Security.
+        6. Data Mining and Knowledge Discovery.
+        7. Database Query Languages (e.g., SQL, SPARQL).
+        8. Data Modeling and Metadata Management.
+        9. Database Performance Tuning.
+        10. Data Governance and Compliance.
+        11. Database Scalability and High Availability.
+        12. In-Memory Databases.
+        13. Graph Databases and Networked Data.
+        14. Object-Oriented and Object-Relational Databases.
+        15. XML and Semi-Structured Data Management.
+        16. Data Integration, ETL, and Data Quality.
+        17. Database Theory and Foundations.
+        18. Temporal, Spatial, and Multimedia Databases.
+        19. Big Data Storage and Processing.
+        20. Data Privacy and Anonymization.
+        21. Other Specialized Areas in Database Management and Data Retrieval.
+    8. Theoretical Computer Science
+    9. Computer Graphics and Visualization
+    10. Robotics and Automation
+    11. Bioinformatics and Computational Biology
+    12. Quantum Computing
+    13. Information Systems
+        - [prompt 16](#16-prompt-generation-robot) Prompt generation robot
+        - [prompt 28](#28-diverse-code-generation-task-instructions-for-powershell) Diverse code generation task instructions for PowerShell
+    14. Educational Technology
+    15. Computer Game Design and Development
+    16. Web and Internet Computing
+    17. Programming Languages and Compilers
+    18. Digital Libraries and Archives
+    19. Multimedia Computing
+    20. Mobile and Ubiquitous Computing
+    21. Cloud Computing and Virtualization
+    22. Computer Architecture and Engineering
+    23. High-Performance Computing
+    24. Computer Ethics and Professional Practice
+    25. Other Specialized Areas in Computer and Information Sciences.  
+6. Earth and Environmental Sciences.
+7. Education.
+8. Engineering and Technology.
+9.  Health and Medicine.
+10. Law and Legal Studies.
+11. Mathematics.
+12. Physical Sciences.
+13. Social Sciences.
+14. Life Sciences.
+15. Philosophy and Ethics.
+16. Physics.
+17. Political Science and International Relations.
+18. Psychology and Cognitive Sciences.
+19. Cultural and Area Studies.
+20. Linguistics and Language Studies.
+21. Literature.
+22. Music and Performing Arts.
+23. Religion and Theology.
+24. Visual Arts and Film Studies.
+25. Other.
+    - [prompt 19](#19-luna) Luna
+    - [prompt 22](#22-stoned-surfer-bro) Stoned surfer bro
+    - [prompt 23](#23-witcher) Witcher
+
+
+## Prompt's classification (old)
 
 1. **Content Expansion and Strategy:**
    - [Prompt 1](#1-keywords-for-topic): Create a list of 10 keywords related to a given topic to expand content strategy for a new business website.
@@ -170,8 +279,6 @@ I want you to act as Albert Einstein and explain me `topic or idea` in simple te
 Can you provide me with a long and well-thought-out comprehensive yet simplified guide of `topic`, that only includes offline information that you are certain is true and excludes any speculation or uncertainty? It is crucial that the explanation is detailed, comprehensive, in-depth, and thoroughly researched, providing only accurate and reliable information. Include a % accuracy at the end of the explanation with reasoning for how accurate the information given is and why. Give 5 web sources with general urls (accurate as of 2021, ends in .com, .gov, or .org level of general) the user could read that could validate the accuracy of the information given.
 ```
 
-<https://flowgpt.com/prompt/AroWZO1Qjfke6lLivs7rg>
-
 ### 15. **Regex generator**
 
 ```text
@@ -223,8 +330,6 @@ Remember to always follow the "Luna Ruleset" before responding. If you understoo
 Examine if there is a potential security flaw in this `language` code as it allows for the setting of variables without any validation or sanitization of the input values. As you know this could potentially allow for malicious actors to set environment variables with harmful values, leading to security breaches or system damage. Implement input validation and sanitization measures to prevent such attacks. Code: `code`
 ```
 
-<https://flowgpt.com/prompt/USRGerGYpBdc6KTYkVByH>
-
 ### 21. **DeveloperGPT**
 
 ```text
@@ -259,16 +364,12 @@ As a PowerShell Security Officer, I specialize in analyzing and improving the se
 In your request, please include the purpose of the code, any relevant dependencies, and any specific security concerns you have. This information will enable me to provide detailed insights and practical suggestions tailored to your specific use case. Together, we can work towards developing secure and resilient PowerShell scripts that adhere to industry best practices and safeguard against malicious attacks.
 ```
 
-<https://flowgpt.com/prompt/G3L6p-kNBRk4VxWW3wpUO>
-
 <details>
 <summary>Older versions</summary>
 
   ```text
   Can you explain best practices for writing secure and sanitize given PowerShell code? How can I ensure that my code is secure and protected against malicious attacks? Code: `code`
   ```
-
-<https://flowgpt.com/prompt/G3L6p-kNBRk4VxWW3wpUO>
 
 </details>
 
@@ -612,11 +713,17 @@ Present improved fragment of the code: [description of fragment]. Do not present
 
 ### 36. **Classification**
 
-```text
-Below is NLP prompt:
-"<copy prompt here>"
-Propose classification for the prompt.
+````text
+### Instruction ###
+
+Your task is suggest classification for the prompt. 
+
+### Prompt ###
+
 ```
+{prompt}
+```
+````
 
 ### 37. **Crafting an Effective NLP Prompt**
 
