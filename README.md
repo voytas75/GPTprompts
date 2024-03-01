@@ -44,8 +44,13 @@
        - [prompt 42](#42-optimo) Optimo
        - [prompt 57](#57-lark-prompt) LARK Prompt
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
+       - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
+       - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
+       - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
+       - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
+       - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
     3. Human-Computer Interaction.
     4. Software Engineering.
        - [prompt 26](#26-code-performancer) Code performancer
@@ -58,6 +63,7 @@
        - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
        - [prompt 50](#50-psdeveloper) PSDeveloper
        - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
+       - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
     5. Computer Systems and Networks.
        - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
@@ -73,6 +79,7 @@
         4. Distributed Database Systems.
         5. Database Administration and Security.
         6. Data Mining and Knowledge Discovery.
+           - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -124,46 +131,51 @@
         - [prompt 50](#50-psdeveloper) PSDeveloper
         - [prompt 52](#52-it-administrator-assistant) IT Administrator' Assistant
         - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
+        - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
     26. Other Specialized Areas in Computer and Information Sciences.
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell code
         - [prompt 42](#42-optimo) Optimo
         - [prompt 44](#44-turbocodeai) TurboCodeAI
         - [prompt 45](#45-taskcraftopia) TaskCraftopia
+        - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
 6. Earth and Environmental Sciences.
 7. Education:
-    7.1. Educational Psychology and Learning Theories.
-         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-    7.2. Curriculum Development and Instructional Design.
+   7.1. Educational Psychology and Learning Theories.
+      - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+   7.2. Curriculum Development and Instructional Design.
+      - [prompt 43](#43-coursecraftopia) CourseCraftopia
+      - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
+      - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+      - [prompt 61](#61-claritychain) ClarityChain
+   7.3. Educational Technology and Digital Learning.
+      - [prompt 55](#55-promptperfector) PromptPerfector
+      - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+      - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
+   7.4. Teaching Methods and Pedagogy.
+   7.5. Assessment and Evaluation in Education.
+   7.6. Special Education and Inclusive Practices.
+   7.7. Higher Education Administration and Policy.
+   7.8. Early Childhood Education.
+   7.9. Adult Education and Lifelong Learning.
+   7.10. Educational Leadership and Management.
+   7.11. Multicultural Education and Diversity in Learning.
+   7.12. Language Education and Linguistics in Education.
+   7.13. Educational Research Methods and Statistics.
+   7.14. Education Law and Policy.
+   7.15. International and Comparative Education.
+   7.16. STEM Education (Science, Technology, Engineering, and Mathematics).
+   7.17. Arts Education and Creativity in Learning.
+   7.18. Health Education and Wellness Promotion.
+   7.19. Environmental Education and Sustainability.
+   7.20. Career and Technical Education.
+   7.21. Education for Sustainable Development.
+   7.22. Online and Distance Learning.
          - [prompt 43](#43-coursecraftopia) CourseCraftopia
          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
-         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-         - [prompt 61](#61-claritychain) ClarityChain
-    7.3. Educational Technology and Digital Learning.
-         - [prompt 55](#55-promptperfector) PromptPerfector
-         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-    7.4. Teaching Methods and Pedagogy.
-    7.5. Assessment and Evaluation in Education.
-    7.6. Special Education and Inclusive Practices.
-    7.7. Higher Education Administration and Policy.
-    7.8. Early Childhood Education.
-    7.9. Adult Education and Lifelong Learning.
-    7.10. Educational Leadership and Management.
-    7.11. Multicultural Education and Diversity in Learning.
-    7.12. Language Education and Linguistics in Education.
-    7.13. Educational Research Methods and Statistics.
-    7.14. Education Law and Policy.
-    7.15. International and Comparative Education.
-    7.16. STEM Education (Science, Technology, Engineering, and Mathematics).
-    7.17. Arts Education and Creativity in Learning.
-    7.18. Health Education and Wellness Promotion.
-    7.19. Environmental Education and Sustainability.
-    7.20. Career and Technical Education.
-    7.21. Education for Sustainable Development.
-    7.22. Online and Distance Learning.
-          - [prompt 43](#43-coursecraftopia) CourseCraftopia
-          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
-    7.23. Social and Emotional Learning.
-    7.24. Critical Pedagogy and Education for Social Justice.
+   7.23. Social and Emotional Learning.
+   7.24. Critical Pedagogy and Education for Social Justice.
+   7.25. Other Specialized Areas in Education.
+         - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
 8. Engineering and Technology.
    - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
 9. Health and Medicine.
