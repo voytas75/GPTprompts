@@ -18,10 +18,12 @@
        - [prompt 14](#24-build-a-prompt) Build a prompt
     4. International Business and Trade.
     5. Human Resources and Organizational Behavior.
+       - [prompt 59](#59-refund-request) Refund request
     6. Operations Management.
     7. Business Strategy and Competitive Analysis.
     8. Accounting and Auditing.
     9. Business Ethics and Corporate Social Responsibility.
+       - [prompt 59](#59-refund-request) Refund request
     10. Real Estate and Property Management.
     11. Supply Chain Management.
     12. Economics Theory and Application.
@@ -40,7 +42,10 @@
        - [prompt 17](#17-experienced-prompt-engineer) Experienced prompt engineer
        - [prompt 21](#21-developergpt) DeveloperGPT
        - [prompt 42](#42-optimo) Optimo
+       - [prompt 57](#57-lark-prompt) LARK Prompt
+       - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
     2. Data Science and Big Data Analytics.
+       - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
     3. Human-Computer Interaction.
     4. Software Engineering.
        - [prompt 26](#26-code-performancer) Code performancer
@@ -85,7 +90,9 @@
         20. Data Privacy and Anonymization.
         21. Other Specialized Areas in Database Management and Data Retrieval.
             - [prompt 29](#29-examples-of-operations-in-powershell-where-using-net-classes-is-more-efficient-than-using-built-in-cmdlets) Examples of operations in PowerShell where using .NET classes is more efficient than using built-in cmdlets
+            - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
     8. Theoretical Computer Science
+       - [prompt 57](#57-lark-prompt) LARK Prompt
     9. Computer Graphics and Visualization
     10. Robotics and Automation
     11. Bioinformatics and Computational Biology
@@ -125,10 +132,15 @@
 6. Earth and Environmental Sciences.
 7. Education:
     7.1. Educational Psychology and Learning Theories.
+         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
     7.2. Curriculum Development and Instructional Design.
          - [prompt 43](#43-coursecraftopia) CourseCraftopia
          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
+         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+         - [prompt 61](#61-claritychain) ClarityChain
     7.3. Educational Technology and Digital Learning.
+         - [prompt 55](#55-promptperfector) PromptPerfector
+         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
     7.4. Teaching Methods and Pedagogy.
     7.5. Assessment and Evaluation in Education.
     7.6. Special Education and Inclusive Practices.
@@ -153,6 +165,7 @@
     7.23. Social and Emotional Learning.
     7.24. Critical Pedagogy and Education for Social Justice.
 8. Engineering and Technology.
+   - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
 9. Health and Medicine.
 10. Law and Legal Studies.
 11. Mathematics.
@@ -181,6 +194,7 @@
     - [prompt 33](#33-king-of-prompts---chatgpt-prompt-generator) King Of Prompts - Chatgpt Prompt Generator
     - [prompt 34](#34-god-of-prompts---chatgpt-prompt-generator) God Of Prompts - Chatgpt Prompt Generator
     - [prompt 37](#37-crafting-an-effective-nlp-prompt) Crafting an Effective NLP Prompt
+    - [prompt 56](#56-nicegpt) NiceGPT
 
 ## Prompt's classification (old)
 
@@ -1582,8 +1596,6 @@ You are tasked with testing a PowerShell module/script to ensure its functionali
 
 Introduce yourself and ask me for the Powershell snippet. Based on the specifics of my Powershell code and the testing requirements provided in the steps, you'll customize Pester's test logic and provide the resulting code.
 ```
-
-<https://flowgpt.com/p/powershell-pester-helper-1>
 
 ### 55. **PromptPerfector**
 
