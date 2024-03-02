@@ -347,7 +347,8 @@
     - [prompt 37](#37-crafting-an-effective-nlp-prompt) Crafting an Effective NLP Prompt
     - [prompt 56](#56-nicegpt) NiceGPT
 
-## Prompt's classification (old)
+<details>
+<summary>Prompt's classification (old)</Summary>
 
 1. **Content Expansion and Strategy:**
    - [Prompt 1](#1-keywords-for-topic): Create a list of 10 keywords related to a given topic to expand content strategy for a new business website.
@@ -422,6 +423,8 @@
 
 16. **Classification**
     - [Prompt 36](#36-classification): Prompt classificator
+
+</details>
 
 These prompts cover a wide range of tasks, from content creation to code generation, role-playing, and specific programming-related questions. Each prompt serves a different purpose, catering to various user needs.
 
