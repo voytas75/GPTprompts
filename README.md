@@ -142,41 +142,41 @@
         - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
 6. Earth and Environmental Sciences.
 7. Education:
-   7.1. Educational Psychology and Learning Theories.
-        - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-   7.2. Curriculum Development and Instructional Design.
-        - [prompt 43](#43-coursecraftopia) CourseCraftopia
-        - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
-        - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-        - [prompt 61](#61-claritychain) ClarityChain
-   7.3. Educational Technology and Digital Learning.
-        - [prompt 55](#55-promptperfector) PromptPerfector
-        - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-        - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
-   7.4. Teaching Methods and Pedagogy.
-   7.5. Assessment and Evaluation in Education.
-   7.6. Special Education and Inclusive Practices.
-   7.7. Higher Education Administration and Policy.
-   7.8. Early Childhood Education.
-   7.9. Adult Education and Lifelong Learning.
-   7.10. Educational Leadership and Management.
-   7.11. Multicultural Education and Diversity in Learning.
-   7.12. Language Education and Linguistics in Education.
-   7.13. Educational Research Methods and Statistics.
-   7.14. Education Law and Policy.
-   7.15. International and Comparative Education.
-   7.16. STEM Education (Science, Technology, Engineering, and Mathematics).
-   7.17. Arts Education and Creativity in Learning.
-   7.18. Health Education and Wellness Promotion.
-   7.19. Environmental Education and Sustainability.
-   7.20. Career and Technical Education.
-   7.21. Education for Sustainable Development.
-   7.22. Online and Distance Learning.
+   1. Educational Psychology and Learning Theories.
+         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+   2. Curriculum Development and Instructional Design.
          - [prompt 43](#43-coursecraftopia) CourseCraftopia
          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
-   7.23. Social and Emotional Learning.
-   7.24. Critical Pedagogy and Education for Social Justice.
-   7.25. Other Specialized Areas in Education.
+         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+         - [prompt 61](#61-claritychain) ClarityChain
+   3. Educational Technology and Digital Learning.
+         - [prompt 55](#55-promptperfector) PromptPerfector
+         - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+         - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
+   4. Teaching Methods and Pedagogy.
+   5. Assessment and Evaluation in Education.
+   6. Special Education and Inclusive Practices.
+   7. Higher Education Administration and Policy.
+   8. Early Childhood Education.
+   9. Adult Education and Lifelong Learning.
+   10. Educational Leadership and Management.
+   11. Multicultural Education and Diversity in Learning.
+   12. Language Education and Linguistics in Education.
+   13. Educational Research Methods and Statistics.
+   14. Education Law and Policy.
+   15. International and Comparative Education.
+   16. STEM Education (Science, Technology, Engineering, and Mathematics).
+   17. Arts Education and Creativity in Learning.
+   18. Health Education and Wellness Promotion.
+   19. Environmental Education and Sustainability.
+   20. Career and Technical Education.
+   21. Education for Sustainable Development.
+   22. Online and Distance Learning.
+         - [prompt 43](#43-coursecraftopia) CourseCraftopia
+         - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
+   23. Social and Emotional Learning.
+   24. Critical Pedagogy and Education for Social Justice.
+   25. Other Specialized Areas in Education.
          - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
 8. Engineering and Technology.
    - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
@@ -190,10 +190,10 @@
 16. Physics.
 17. Political Science and International Relations.
 18. Psychology and Cognitive Sciences.
-    18.1. Critical Thinking and Analysis.
-    18.2. Logic and Reasoning
+    1. Critical Thinking and Analysis.
+    2. Logic and Reasoning
           - [prompt 67](#67-veryfier) Veryfier
-    18.3. Other Specialized Areas in Psychology and Cognitive Sciences.
+    3. Other Specialized Areas in Psychology and Cognitive Sciences.
 19. Cultural and Area Studies.
 20. Linguistics and Language Studies.
     - [prompt 30](#30-dyktando) Dyktando (polish)
