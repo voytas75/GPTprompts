@@ -29,8 +29,10 @@
     12. Economics Theory and Application.
     13. Economic Development and Policy.
     14. Investment and Portfolio Management.
+        - [prompt 68](#68-financial-sentiment) Financial Sentiment
     15. Consumer Behavior and Market Research.
     16. Corporate Finance and Governance.
+        - [prompt 68](#68-financial-sentiment) Financial Sentiment
     17. Risk Management and Insurance.
     18. Taxation and Public Finance.
     19. Management Information Systems.
@@ -141,16 +143,16 @@
 6. Earth and Environmental Sciences.
 7. Education:
    7.1. Educational Psychology and Learning Theories.
-      - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+        - [prompt 60](#60-instructadapt) INSTRUCTADAPT
    7.2. Curriculum Development and Instructional Design.
-      - [prompt 43](#43-coursecraftopia) CourseCraftopia
-      - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
-      - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-      - [prompt 61](#61-claritychain) ClarityChain
+        - [prompt 43](#43-coursecraftopia) CourseCraftopia
+        - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
+        - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+        - [prompt 61](#61-claritychain) ClarityChain
    7.3. Educational Technology and Digital Learning.
-      - [prompt 55](#55-promptperfector) PromptPerfector
-      - [prompt 60](#60-instructadapt) INSTRUCTADAPT
-      - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
+        - [prompt 55](#55-promptperfector) PromptPerfector
+        - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+        - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
    7.4. Teaching Methods and Pedagogy.
    7.5. Assessment and Evaluation in Education.
    7.6. Special Education and Inclusive Practices.
@@ -188,6 +190,10 @@
 16. Physics.
 17. Political Science and International Relations.
 18. Psychology and Cognitive Sciences.
+    18.1. Critical Thinking and Analysis.
+    18.2. Logic and Reasoning
+          - [prompt 67](#67-veryfier) Veryfier
+    18.3. Other Specialized Areas in Psychology and Cognitive Sciences.
 19. Cultural and Area Studies.
 20. Linguistics and Language Studies.
     - [prompt 30](#30-dyktando) Dyktando (polish)
