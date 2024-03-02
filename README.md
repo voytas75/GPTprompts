@@ -13,6 +13,8 @@
       - [prompt 78](#78-life-event) Life event
       - [prompt 87](#87-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
       - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
+      - [prompt 93](#93-unpacking-the-layers-transforming-statements-into-insightful-questions-and-answers) Unpacking the Layers: Transforming Statements into Insightful Questions and Answers
+      - [prompt 100](#100-guiding-the-user-crafting-clear-and-contextual-instructions) Guiding the User: Crafting Clear and Contextual Instructions
    2. Other Specialized Areas in Arts and Humanities.
 2. Biological Sciences.
 3. Business and Economics:
@@ -25,6 +27,7 @@
     4. International Business and Trade.
     5. Human Resources and Organizational Behavior.
        - [prompt 59](#59-refund-request) Refund request
+       - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
     6. Operations Management.
     7. Business Strategy and Competitive Analysis.
     8. Accounting and Auditing.
@@ -33,11 +36,13 @@
     10. Real Estate and Property Management.
     11. Supply Chain Management.
     12. Economics Theory and Application.
+        - [prompt 94](#94-the-trade-offs-we-make-demystifying-opportunity-cost) The Trade-Offs We Make: Demystifying Opportunity Cost
     13. Economic Development and Policy.
     14. Investment and Portfolio Management.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
     15. Consumer Behavior and Market Research.
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
+        - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
     16. Corporate Finance and Governance.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
     17. Risk Management and Insurance.
@@ -47,6 +52,7 @@
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
     21. Other Specialized Areas in Business and Economics.
 4. Chemistry.
+   - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 5. Computer and Information Sciences:
     1. Artificial Intelligence and Machine Learning.
        - [prompt 17](#17-experienced-prompt-engineer) Experienced prompt engineer
@@ -71,6 +77,8 @@
        - [prompt 85](#85-beyond-traditional-metrics-analyzing-document-processing-with-anls-and-specialized-prompting) Beyond Traditional Metrics: Analyzing Document Processing with ANLS and Specialized Prompting
        - [prompt 87](#87-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
        - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
+       - [prompt 97](#97-balancing-accuracy-and-density-mastering-the-task-spectrum) Balancing Accuracy and Density: Mastering the Task Spectrum
+       - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -110,6 +118,8 @@
            - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
            - [prompt 71](#71-olmo) OLMo
            - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
+           - [prompt 98](#98-keyphrase-catalyst-extracting-intent-through-chain-of-thought) Keyphrase Catalyst: Extracting Intent Through Chain of Thought
+           - [prompt 103](#103-unraveling-complexities-logical-reasoning-on-knowledge-graphs) Unraveling Complexities: Logical Reasoning on Knowledge Graphs
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -131,6 +141,7 @@
             - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
     8. Theoretical Computer Science
        - [prompt 57](#57-lark-prompt) LARK Prompt
+       - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
     9. Computer Graphics and Visualization
     10. Robotics and Automation
         - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
@@ -148,6 +159,8 @@
         - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
         - [prompt 71](#71-olmo) OLMo
         - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
+        - [prompt 95](#95-bookworm-buddy-your-online-bookstore-chatbot-assistant) Bookworm Buddy: Your Online Bookstore Chatbot Assistant
+        - [prompt 97](#97-balancing-accuracy-and-density-mastering-the-task-spectrum) Balancing Accuracy and Density: Mastering the Task Spectrum
     14. Educational Technology
         - [prompt 40](#40-powerpoint-gpt-assistant) PowerPoint GPT assistant
     15. Computer Game Design and Development
@@ -176,10 +189,12 @@
         - [prompt 44](#44-turbocodeai) TurboCodeAI
         - [prompt 45](#45-taskcraftopia) TaskCraftopia
         - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
+        - [prompt 96](#96-understanding-your-needs-analyzing-user-requests-with-mops) Understanding Your Needs: Analyzing User Requests with MoPs
 6. Earth and Environmental Sciences.
 7. Education:
    1. Educational Psychology and Learning Theories.
          - [prompt 60](#60-instructadapt) INSTRUCTADAPT
+         - [prompt 93](#93-unpacking-the-layers-transforming-statements-into-insightful-questions-and-answers) Unpacking the Layers: Transforming Statements into Insightful Questions and Answers
    2. Curriculum Development and Instructional Design.
          - [prompt 43](#43-coursecraftopia) CourseCraftopia
          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
@@ -187,11 +202,15 @@
          - [prompt 61](#61-claritychain) ClarityChain
          - [prompt 89](#89-unlocking-innovation-supercharge-your-problem-solving-with-supermind-design) Unlocking Innovation: Supercharge Your Problem-Solving with Supermind Design
          - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
+         - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
+         - [prompt 100](#100-guiding-the-user-crafting-clear-and-contextual-instructions) Guiding the User: Crafting Clear and Contextual Instructions
    3. Educational Technology and Digital Learning.
          - [prompt 55](#55-promptperfector) PromptPerfector
          - [prompt 60](#60-instructadapt) INSTRUCTADAPT
          - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
          - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
+         - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
+         - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
    4. Teaching Methods and Pedagogy.
    5. Assessment and Evaluation in Education.
    6. Special Education and Inclusive Practices.
@@ -199,13 +218,16 @@
    8. Early Childhood Education.
    9. Adult Education and Lifelong Learning.
    10. Educational Leadership and Management.
+       - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
    11. Multicultural Education and Diversity in Learning.
    12. Language Education and Linguistics in Education.
    13. Educational Research Methods and Statistics.
    14. Education Law and Policy.
    15. International and Comparative Education.
    16. STEM Education (Science, Technology, Engineering, and Mathematics).
+       - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
    17. Arts Education and Creativity in Learning.
+       - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
    18. Health Education and Wellness Promotion.
    19. Environmental Education and Sustainability.
    20. Career and Technical Education.
@@ -219,14 +241,17 @@
          - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
 8. Engineering and Technology.
    - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
+   - [prompt 104](#104-adaptive-requirements-exploration-prompt) Adaptive Requirements Exploration Prompt
 9. Health and Medicine.
 10. Law and Legal Studies.
 11. Mathematics.
     - [prompt 83](#83-mastering-multi-step-word-problems-breakdown-and-solution-with-clear-explanations) Mastering Multi-Step Word Problems: Breakdown and Solution with Clear Explanations
 12. Physical Sciences.
+    - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 13. Social Sciences.
     - [prompt 73](#73-beyond-humanity) Beyond Humanity
 14. Life Sciences.
+    - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 15. Philosophy and Ethics.
     1. Responsible AI practices and ethical use of language models.
        - [prompt 71](#71-olmo) OLMo
@@ -235,6 +260,7 @@
        - [prompt 77](#77-decoding-fairness-exploring-ai-decision-making-in-the-dictator-game) Decoding Fairness: Exploring AI Decision-Making in the Dictator Game
        - [prompt 82](#82-the-reasoning-chain-verifier-deep-dive-into-evidence-and-logic) The Reasoning Chain Verifier: Deep Dive into Evidence and Logic
        - [prompt 89](#89-unlocking-innovation-supercharge-your-problem-solving-with-supermind-design) Unlocking Innovation: Supercharge Your Problem-Solving with Supermind Design
+       - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
     2. Other Specialized Areas in Philosophy and Ethics.
 16. Physics.
 17. Political Science and International Relations.
@@ -258,7 +284,17 @@
     - [prompt 46](#46-game-lost-in-the-enchanted-forest) Game "Lost in the Enchanted Forest"
     - [prompt 48](#48-formula-1-game) Formula 1 game
     - [prompt 51](#51-chess) Chess
-26. Other.
+26. General Templates or Frameworks:
+    1. Problem-Solving and Optimization Templates.
+       - [prompt 102](#102-optimizing-through-iteration-learning-from-past-solutions) Optimizing Through Iteration: Learning from Past Solutions
+    2. Project Management Frameworks.
+    3. Instructional Design and Educational Frameworks.
+    4. Strategic Planning and Analysis Templates.
+    5. Research Methodology and Experimental Design Templates.
+    6. Creative and Ideation Frameworks.
+    7. Decision-Making and Analysis Templates.
+    8. Other Specialized Templates or Frameworks.
+27. Other.
     - [prompt 19](#19-luna) Luna
     - [prompt 22](#22-stoned-surfer-bro) Stoned surfer bro
     - [prompt 23](#23-witcher) Witcher
