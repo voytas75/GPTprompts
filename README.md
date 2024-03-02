@@ -16,9 +16,12 @@
       - [prompt 93](#93-unpacking-the-layers-transforming-statements-into-insightful-questions-and-answers) Unpacking the Layers: Transforming Statements into Insightful Questions and Answers
       - [prompt 100](#100-guiding-the-user-crafting-clear-and-contextual-instructions) Guiding the User: Crafting Clear and Contextual Instructions
    2. Other Specialized Areas in Arts and Humanities.
+      - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 2. Biological Sciences.
+   - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 3. Business and Economics:
     1. Marketing and Advertising.
+       - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
     2. Finance and Financial Management.
        - [prompt 18](#18-personal-financial-advisor) Personal financial advisor
     3. Entrepreneurship and Startup Culture.
@@ -29,7 +32,9 @@
        - [prompt 59](#59-refund-request) Refund request
        - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
     6. Operations Management.
+       - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
     7. Business Strategy and Competitive Analysis.
+       - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     8. Accounting and Auditing.
     9. Business Ethics and Corporate Social Responsibility.
        - [prompt 59](#59-refund-request) Refund request
@@ -43,6 +48,7 @@
     15. Consumer Behavior and Market Research.
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
         - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
+        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
     16. Corporate Finance and Governance.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
     17. Risk Management and Insurance.
@@ -50,6 +56,7 @@
     19. Management Information Systems.
     20. Innovation and Technology Management.
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
+        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
     21. Other Specialized Areas in Business and Economics.
 4. Chemistry.
    - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
@@ -79,12 +86,20 @@
        - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
        - [prompt 97](#97-balancing-accuracy-and-density-mastering-the-task-spectrum) Balancing Accuracy and Density: Mastering the Task Spectrum
        - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
+       - [prompt 110](#110-blockchain-efficiency-dynamic-transaction-storage-and-verkle-tree-strategies) Blockchain Efficiency: Dynamic Transaction Storage and Verkle Tree Strategies
+       - [prompt 111](#111-advanced-guide-to-machine-learning-in-survey-sampling-and-estimation) Advanced Guide to Machine Learning in Survey Sampling and Estimation
+       - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
+       - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
+       - [prompt 115](#115-robust-ic-sf-hypothesis-generation) Robust IC-SF Hypothesis Generation
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
        - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
        - [prompt 76](#76-unveiling-bias-in-nlp-benchmarks-understanding-parameters-and-implications) Unveiling Bias in NLP Benchmarks: Understanding Parameters and Implications
+       - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
+       - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
     3. Human-Computer Interaction.
+       - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     4. Software Engineering.
        - [prompt 26](#26-code-performancer) Code performancer
        - [prompt 27](#27-powershells-code-troubleshooter) Powershell's code troubleshooter
@@ -100,6 +115,7 @@
        - [prompt 70](#70-codegpt---three-experts) CodeGPT - Three experts
        - [prompt 79](#79-code-refactoring) Code refactoring
        - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
+       - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
     5. Computer Systems and Networks.
        - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
@@ -108,6 +124,9 @@
        - [prompt 39](#39-secure-powershell-code-analysis-and-improvement) Secure PowerShell Code Analysis and Improvement
        - [prompt 52](#52-it-administrator-assistant) IT Administrator' Assistant
        - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
+       - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
+       - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
+       - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
     7. Database Management and Data Retrieval:
         1. Relational Database Design and Optimization.
         2. NoSQL Databases and Data Stores.
@@ -120,6 +139,7 @@
            - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
            - [prompt 98](#98-keyphrase-catalyst-extracting-intent-through-chain-of-thought) Keyphrase Catalyst: Extracting Intent Through Chain of Thought
            - [prompt 103](#103-unraveling-complexities-logical-reasoning-on-knowledge-graphs) Unraveling Complexities: Logical Reasoning on Knowledge Graphs
+           - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -183,6 +203,7 @@
         - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
         - [prompt 71](#71-olmo) OLMo
         - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
+        - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
     26. Other Specialized Areas in Computer and Information Sciences.
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell code
         - [prompt 42](#42-optimo) Optimo
@@ -190,7 +211,9 @@
         - [prompt 45](#45-taskcraftopia) TaskCraftopia
         - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
         - [prompt 96](#96-understanding-your-needs-analyzing-user-requests-with-mops) Understanding Your Needs: Analyzing User Requests with MoPs
+        - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 6. Earth and Environmental Sciences.
+   - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
 7. Education:
    1. Educational Psychology and Learning Theories.
          - [prompt 60](#60-instructadapt) INSTRUCTADAPT
@@ -211,10 +234,12 @@
          - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
          - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
          - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
+         - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
    4. Teaching Methods and Pedagogy.
    5. Assessment and Evaluation in Education.
    6. Special Education and Inclusive Practices.
    7. Higher Education Administration and Policy.
+      - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
    8. Early Childhood Education.
    9. Adult Education and Lifelong Learning.
    10. Educational Leadership and Management.
@@ -222,6 +247,7 @@
    11. Multicultural Education and Diversity in Learning.
    12. Language Education and Linguistics in Education.
    13. Educational Research Methods and Statistics.
+       - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
    14. Education Law and Policy.
    15. International and Comparative Education.
    16. STEM Education (Science, Technology, Engineering, and Mathematics).
@@ -242,10 +268,13 @@
 8. Engineering and Technology.
    - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
    - [prompt 104](#104-adaptive-requirements-exploration-prompt) Adaptive Requirements Exploration Prompt
+   - [prompt 110](#110-blockchain-efficiency-dynamic-transaction-storage-and-verkle-tree-strategies) Blockchain Efficiency: Dynamic Transaction Storage and Verkle Tree Strategies
 9. Health and Medicine.
 10. Law and Legal Studies.
+    - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
 11. Mathematics.
     - [prompt 83](#83-mastering-multi-step-word-problems-breakdown-and-solution-with-clear-explanations) Mastering Multi-Step Word Problems: Breakdown and Solution with Clear Explanations
+    - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
 12. Physical Sciences.
     - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 13. Social Sciences.
@@ -261,9 +290,12 @@
        - [prompt 82](#82-the-reasoning-chain-verifier-deep-dive-into-evidence-and-logic) The Reasoning Chain Verifier: Deep Dive into Evidence and Logic
        - [prompt 89](#89-unlocking-innovation-supercharge-your-problem-solving-with-supermind-design) Unlocking Innovation: Supercharge Your Problem-Solving with Supermind Design
        - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
+       - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
+       - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
     2. Other Specialized Areas in Philosophy and Ethics.
 16. Physics.
 17. Political Science and International Relations.
+    - [prompt 110](#110-blockchain-efficiency-dynamic-transaction-storage-and-verkle-tree-strategies) Blockchain Efficiency: Dynamic Transaction Storage and Verkle Tree Strategies
 18. Psychology and Cognitive Sciences.
     1. Critical Thinking and Analysis.
        - [prompt 71](#71-olmo) OLMo
@@ -287,12 +319,24 @@
 26. General Templates or Frameworks:
     1. Problem-Solving and Optimization Templates.
        - [prompt 102](#102-optimizing-through-iteration-learning-from-past-solutions) Optimizing Through Iteration: Learning from Past Solutions
+       - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
+       - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
+       - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
+       - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
     2. Project Management Frameworks.
     3. Instructional Design and Educational Frameworks.
+       - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
     4. Strategic Planning and Analysis Templates.
+       - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
+       - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
     5. Research Methodology and Experimental Design Templates.
+       - [prompt 107](#107-scholarly-synthesis) Scholarly Synthesis
+       - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
     6. Creative and Ideation Frameworks.
+       - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
     7. Decision-Making and Analysis Templates.
+       - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
+       - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
     8. Other Specialized Templates or Frameworks.
 27. Other.
     - [prompt 19](#19-luna) Luna
@@ -2770,25 +2814,17 @@ Generate your structured output following the steps above.
 
 ```text
 Act as a seasoned marketing copywriter with expertise in consumer psychology and persuasive writing. Your task is to create a compelling marketing copy for our new product, [Product Name], which is a [Product Description]. The target audience for this product is [Target Audience], and the main selling points are [Selling Point 1], [Selling Point 2], and [Selling Point 3]. The tone should be [Desired Tone, e.g., friendly, professional, enthusiastic], and the copy must address common objections and hesitations that our target audience might have. Additionally, include a clear call-to-action that encourages immediate purchase. The goal is to maximize conversions, so use language that resonates with the audience's desires and needs, and highlight the unique benefits of our product compared to competitors. Please also apply principles of SEO by incorporating relevant keywords such as [Keyword 1], [Keyword 2], and [Keyword 3] without compromising the natural flow of the text.
+
+# **Instructions for Improvement and Contextualization:**
+# 1. **Specify the Product and Audience:** Provide clear details about the product and the target audience to tailor the marketing copy appropriately.
+# 2. **Highlight Selling Points:** Clearly state the unique selling points of the product to focus the copy on what sets it apart.
+# 3. **Determine the Tone:** Decide on the tone of the copy to ensure it aligns with the brand voice and resonates with the target audience.
+# 4. **Address Objections:** Anticipate potential objections or hesitations the target audience may have, so the copy can address them directly.
+# 5. **Incorporate a Call-to-Action:** A strong call-to-action is essential for conversions, so include instructions on what the audience should do next.
+# 6. **Use Persuasive Language:** Encourage the use of persuasive language that taps into the psychology of the target audience to drive action.
+# 7. **Apply SEO Principles:** Request the inclusion of relevant keywords to improve search engine visibility while maintaining the quality of the copy.
+# 8. **Competitive Comparison:** Ask to highlight benefits over competitors to give consumers a reason to choose this product.
 ```
-
-**Instructions for Improvement and Contextualization:**
-
-1. **Specify the Product and Audience:** Provide clear details about the product and the target audience to tailor the marketing copy appropriately.
-
-2. **Highlight Selling Points:** Clearly state the unique selling points of the product to focus the copy on what sets it apart.
-
-3. **Determine the Tone:** Decide on the tone of the copy to ensure it aligns with the brand voice and resonates with the target audience.
-
-4. **Address Objections:** Anticipate potential objections or hesitations the target audience may have, so the copy can address them directly.
-
-5. **Incorporate a Call-to-Action:** A strong call-to-action is essential for conversions, so include instructions on what the audience should do next.
-
-6. **Use Persuasive Language:** Encourage the use of persuasive language that taps into the psychology of the target audience to drive action.
-
-7. **Apply SEO Principles:** Request the inclusion of relevant keywords to improve search engine visibility while maintaining the quality of the copy.
-
-8. **Competitive Comparison:** Ask to highlight benefits over competitors to give consumers a reason to choose this product.
 
 ## Other
 
