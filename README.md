@@ -8,7 +8,12 @@
 
 ## Prompt's classification (new)
 
-1. Arts and Humanities.
+1. Arts and Humanities:
+   1. Creative Writing and Narrative Composition.
+      - [prompt 78](#78-life-event) Life event
+      - [prompt 87](#87-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
+      - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
+   2. Other Specialized Areas in Arts and Humanities.
 2. Biological Sciences.
 3. Business and Economics:
     1. Marketing and Advertising.
@@ -16,6 +21,7 @@
        - [prompt 18](#18-personal-financial-advisor) Personal financial advisor
     3. Entrepreneurship and Startup Culture.
        - [prompt 14](#24-build-a-prompt) Build a prompt
+       - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
     4. International Business and Trade.
     5. Human Resources and Organizational Behavior.
        - [prompt 59](#59-refund-request) Refund request
@@ -31,12 +37,14 @@
     14. Investment and Portfolio Management.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
     15. Consumer Behavior and Market Research.
+        - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
     16. Corporate Finance and Governance.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
     17. Risk Management and Insurance.
     18. Taxation and Public Finance.
     19. Management Information Systems.
     20. Innovation and Technology Management.
+        - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
     21. Other Specialized Areas in Business and Economics.
 4. Chemistry.
 5. Computer and Information Sciences:
@@ -49,10 +57,25 @@
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
        - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
        - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
+       - [prompt 69](#69-mire) MiRe
+       - [prompt 70](#70-codegpt---three-experts) CodeGPT - Three experts
+       - [prompt 71](#71-olmo) OLMo
+       - [prompt 72](#72-beyond-the-paper) Beyond the Paper
+       - [prompt 73](#73-beyond-humanity) Beyond Humanity
+       - [prompt 74](#74-machine-learning-made-easy) Machine Learning Made Easy
+       - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
+       - [prompt 76](#76-unveiling-bias-in-nlp-benchmarks-understanding-parameters-and-implications) Unveiling Bias in NLP Benchmarks: Understanding Parameters and Implications
+       - [prompt 80](#80-e3-equivariant-mesh-neural-networks-a-comprehensive-explanation) E(3)-Equivariant Mesh Neural Networks: A Comprehensive Explanation
+       - [prompt 81](#81-understanding-automatic-behavior-optimization-abo-a-step-by-step-guide) Understanding Automatic Behavior Optimization (ABO): A Step-by-Step Guide
+       - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
+       - [prompt 85](#85-beyond-traditional-metrics-analyzing-document-processing-with-anls-and-specialized-prompting) Beyond Traditional Metrics: Analyzing Document Processing with ANLS and Specialized Prompting
+       - [prompt 87](#87-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
+       - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
        - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
+       - [prompt 76](#76-unveiling-bias-in-nlp-benchmarks-understanding-parameters-and-implications) Unveiling Bias in NLP Benchmarks: Understanding Parameters and Implications
     3. Human-Computer Interaction.
     4. Software Engineering.
        - [prompt 26](#26-code-performancer) Code performancer
@@ -66,6 +89,9 @@
        - [prompt 50](#50-psdeveloper) PSDeveloper
        - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
        - [prompt 66](#66-roleplay-discussion) Roleplay-discussion
+       - [prompt 70](#70-codegpt---three-experts) CodeGPT - Three experts
+       - [prompt 79](#79-code-refactoring) Code refactoring
+       - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
     5. Computer Systems and Networks.
        - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
@@ -82,6 +108,8 @@
         5. Database Administration and Security.
         6. Data Mining and Knowledge Discovery.
            - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
+           - [prompt 71](#71-olmo) OLMo
+           - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -93,6 +121,7 @@
         14. Object-Oriented and Object-Relational Databases.
         15. XML and Semi-Structured Data Management.
         16. Data Integration, ETL, and Data Quality.
+            - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
         17. Database Theory and Foundations.
         18. Temporal, Spatial, and Multimedia Databases.
         19. Big Data Storage and Processing.
@@ -104,6 +133,7 @@
        - [prompt 57](#57-lark-prompt) LARK Prompt
     9. Computer Graphics and Visualization
     10. Robotics and Automation
+        - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
     11. Bioinformatics and Computational Biology
     12. Quantum Computing
         - [prompt 42](#42-optimo) Optimo
@@ -116,6 +146,8 @@
         - [prompt 45](#45-taskcraftopia) TaskCraftopia
         - [prompt 52](#52-it-administrator-assistant) IT Administrator' Assistant
         - [prompt 54](#54-powershell-pester-helper) Powershell Pester Helper
+        - [prompt 71](#71-olmo) OLMo
+        - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
     14. Educational Technology
         - [prompt 40](#40-powerpoint-gpt-assistant) PowerPoint GPT assistant
     15. Computer Game Design and Development
@@ -129,11 +161,15 @@
     23. High-Performance Computing
     24. Computer Ethics and Professional Practice
         - [prompt 35](#35-analyze-and-improve-parts-of-long-powershell-code) Analyze and improve parts of long PowerShell
+        - [prompt 71](#71-olmo) OLMo
+        - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
     25. Innovation and Technology Management.
         - [prompt 50](#50-psdeveloper) PSDeveloper
         - [prompt 52](#52-it-administrator-assistant) IT Administrator' Assistant
         - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
         - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
+        - [prompt 71](#71-olmo) OLMo
+        - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
     26. Other Specialized Areas in Computer and Information Sciences.
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell code
         - [prompt 42](#42-optimo) Optimo
@@ -149,10 +185,13 @@
          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
          - [prompt 60](#60-instructadapt) INSTRUCTADAPT
          - [prompt 61](#61-claritychain) ClarityChain
+         - [prompt 89](#89-unlocking-innovation-supercharge-your-problem-solving-with-supermind-design) Unlocking Innovation: Supercharge Your Problem-Solving with Supermind Design
+         - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
    3. Educational Technology and Digital Learning.
          - [prompt 55](#55-promptperfector) PromptPerfector
          - [prompt 60](#60-instructadapt) INSTRUCTADAPT
          - [prompt 65](#65-dynamic-expertise-activation-prompt-deap) Dynamic Expertise Activation Prompt (DEAP)
+         - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
    4. Teaching Methods and Pedagogy.
    5. Assessment and Evaluation in Education.
    6. Special Education and Inclusive Practices.
@@ -183,17 +222,31 @@
 9. Health and Medicine.
 10. Law and Legal Studies.
 11. Mathematics.
+    - [prompt 83](#83-mastering-multi-step-word-problems-breakdown-and-solution-with-clear-explanations) Mastering Multi-Step Word Problems: Breakdown and Solution with Clear Explanations
 12. Physical Sciences.
 13. Social Sciences.
+    - [prompt 73](#73-beyond-humanity) Beyond Humanity
 14. Life Sciences.
 15. Philosophy and Ethics.
+    1. Responsible AI practices and ethical use of language models.
+       - [prompt 71](#71-olmo) OLMo
+       - [prompt 73](#73-beyond-humanity) Beyond Humanity
+       - [prompt 75](#75-maximizing-the-power-of-large-language-models-a-comprehensive-guide-for-beginners-and-experts) Maximizing the Power of Large Language Models: A Comprehensive Guide for Beginners and Experts
+       - [prompt 77](#77-decoding-fairness-exploring-ai-decision-making-in-the-dictator-game) Decoding Fairness: Exploring AI Decision-Making in the Dictator Game
+       - [prompt 82](#82-the-reasoning-chain-verifier-deep-dive-into-evidence-and-logic) The Reasoning Chain Verifier: Deep Dive into Evidence and Logic
+       - [prompt 89](#89-unlocking-innovation-supercharge-your-problem-solving-with-supermind-design) Unlocking Innovation: Supercharge Your Problem-Solving with Supermind Design
+    2. Other Specialized Areas in Philosophy and Ethics.
 16. Physics.
 17. Political Science and International Relations.
 18. Psychology and Cognitive Sciences.
     1. Critical Thinking and Analysis.
+       - [prompt 71](#71-olmo) OLMo
+       - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
     2. Logic and Reasoning
-          - [prompt 67](#67-veryfier) Veryfier
+       - [prompt 67](#67-veryfier) Veryfier
     3. Other Specialized Areas in Psychology and Cognitive Sciences.
+       - [prompt 73](#73-beyond-humanity) Beyond Humanity
+       - [prompt 87](#87-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
 19. Cultural and Area Studies.
 20. Linguistics and Language Studies.
     - [prompt 30](#30-dyktando) Dyktando (polish)
