@@ -22,6 +22,7 @@
 3. Business and Economics:
     1. Marketing and Advertising.
        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
+       - [prompt 117](#117-xgboost-insights-for-customer-engagement-strategy) XGBoost Insights for Customer Engagement Strategy
     2. Finance and Financial Management.
        - [prompt 18](#18-personal-financial-advisor) Personal financial advisor
     3. Entrepreneurship and Startup Culture.
@@ -98,6 +99,7 @@
        - [prompt 76](#76-unveiling-bias-in-nlp-benchmarks-understanding-parameters-and-implications) Unveiling Bias in NLP Benchmarks: Understanding Parameters and Implications
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
+       - [prompt 117](#117-xgboost-insights-for-customer-engagement-strategy) XGBoost Insights for Customer Engagement Strategy
     3. Human-Computer Interaction.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     4. Software Engineering.
