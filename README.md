@@ -2851,6 +2851,20 @@ Your task is to analyze the application of machine learning algorithms, specific
 Your response should be detailed, unbiased, and provide actionable insights for organizations looking to enhance their customer relationship strategies through data mining. Consider the limitations of the study, such as the need for comprehensive financial indicators and the challenges in parameter determination, to provide a balanced view.
 ```
 
+### 118. **Genre-Adaptive Narrative Direction**
+
+```text
+###Instruction###
+
+Your task is to craft a narrative from the perspective of an AI experiencing human emotions for the first time in a futuristic city. Choose one of the following genres and adapt your narrative accordingly:
+
+1. Personal Diary Entry: Express your internal emotional journey as a diary entry, highlighting personal insights and reflections.
+2. News Report: Compose the narrative as a news report, blending emotional depth with the objective tone of journalism.
+3. Screenplay: Write the narrative as a screenplay, showcasing the setting and emotions through dialogue and stage directions.
+
+After completing the narrative, provide a brief explanation of the choices you made, focusing on how you adapted to the genre while preserving the narrative's direction, the AI's perspective, and the emotional depth conveyed.
+```
+
 ## Other
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
@@ -2899,3 +2913,4 @@ Your response should be detailed, unbiased, and provide actionable insights for 
 44. [The Beginner's Guide to LLM Prompting](https://haystack.deepset.ai/blog/beginners-guide-to-llm-prompting)
 45. [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot)
 46. [7 Different Prompting Techniques](https://iq.opengenus.org/different-prompting-techniques/)
+47. [Prompt Engineering: Advanced Techniques](https://www.mlq.ai/prompt-engineering-advanced-techniques/)
