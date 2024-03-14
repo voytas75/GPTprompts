@@ -2896,3 +2896,4 @@ Your response should be detailed, unbiased, and provide actionable insights for 
 41. [The best AI tools & services in one place](https://easywithai.com/)
 42. [Overview of 26 prompt principles](https://github.com/VILA-Lab/ATLAS/blob/main/data/README.md)
 43. [Mastering Prompt Engineering for LLMs: Best Practices and Advanced Techniques](https://blog.dynopii.com/tutorials/mastering-prompt-engineering-for-llms-best-practices-and-advanced-techniques/)
+44. [The Beginner's Guide to LLM Prompting](https://haystack.deepset.ai/blog/beginners-guide-to-llm-prompting)
