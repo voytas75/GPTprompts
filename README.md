@@ -172,7 +172,7 @@
         - [prompt 42](#42-optimo) Optimo
     13. Information Systems
         - [prompt 16](#16-prompt-generation-robot) Prompt generation robot
-        - [prompt 28](#28-diverse-code-generation-task-instructions-for-powershell) 
+        - [prompt 28](#28-diverse-code-generation-task-instructions-for-powershell)
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell codeDiverse code generation task instructions for PowerShell
         - [prompt 35](#35-analyze-and-improve-parts-of-long-powershell-code) Analyze and improve parts of long PowerShell
         - [prompt 41](#41-powershellgpt-wizard) PowerShellGPT Wizard
