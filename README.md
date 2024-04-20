@@ -2944,3 +2944,4 @@ Please provide your analysis in a structured format, starting with an overview o
 45. [Zero Shot Chain of Thought](https://learnprompting.org/docs/intermediate/zero_shot_cot)
 46. [7 Different Prompting Techniques](https://iq.opengenus.org/different-prompting-techniques/)
 47. [Prompt Engineering: Advanced Techniques](https://www.mlq.ai/prompt-engineering-advanced-techniques/)
+48. [12 ChatGPT Prompts for Text Analysis](https://mimlearnovate.com/chatgpt-prompts-for-text-analysis/#:~:text=12%20ChatGPT%20Prompts%20for%20Text%20Analysis%201%2012,ChatGPT%20to%20analyze%20multiple%20texts%20at%20once%3F%20)
