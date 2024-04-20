@@ -15,6 +15,7 @@
       - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
       - [prompt 93](#93-unpacking-the-layers-transforming-statements-into-insightful-questions-and-answers) Unpacking the Layers: Transforming Statements into Insightful Questions and Answers
       - [prompt 100](#100-guiding-the-user-crafting-clear-and-contextual-instructions) Guiding the User: Crafting Clear and Contextual Instructions
+      - [prompt 118](#118-genre-adaptive-narrative-direction)
    2. Other Specialized Areas in Arts and Humanities.
       - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 2. Biological Sciences.
@@ -32,13 +33,16 @@
     5. Human Resources and Organizational Behavior.
        - [prompt 59](#59-refund-request) Refund request
        - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
+       - [prompt 121](#121-organizational-knowledge-management-analysis)
     6. Operations Management.
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
+       - [prompt 121](#121-organizational-knowledge-management-analysis)
     7. Business Strategy and Competitive Analysis.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     8. Accounting and Auditing.
     9. Business Ethics and Corporate Social Responsibility.
        - [prompt 59](#59-refund-request) Refund request
+       - [prompt 121](#121-organizational-knowledge-management-analysis)
     10. Real Estate and Property Management.
     11. Supply Chain Management.
     12. Economics Theory and Application.
@@ -58,6 +62,7 @@
     20. Innovation and Technology Management.
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
         - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
+        - [prompt 121](#121-organizational-knowledge-management-analysis)
     21. Other Specialized Areas in Business and Economics.
 4. Chemistry.
    - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
@@ -92,6 +97,7 @@
        - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
        - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
        - [prompt 115](#115-robust-ic-sf-hypothesis-generation) Robust IC-SF Hypothesis Generation
+       - [prompt 120](#120-actionsense-insight-generator)
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -142,6 +148,7 @@
            - [prompt 98](#98-keyphrase-catalyst-extracting-intent-through-chain-of-thought) Keyphrase Catalyst: Extracting Intent Through Chain of Thought
            - [prompt 103](#103-unraveling-complexities-logical-reasoning-on-knowledge-graphs) Unraveling Complexities: Logical Reasoning on Knowledge Graphs
            - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
+           - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -161,12 +168,15 @@
         21. Other Specialized Areas in Database Management and Data Retrieval.
             - [prompt 29](#29-examples-of-operations-in-powershell-where-using-net-classes-is-more-efficient-than-using-built-in-cmdlets) Examples of operations in PowerShell where using .NET classes is more efficient than using built-in cmdlets
             - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
+            - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
     8. Theoretical Computer Science
        - [prompt 57](#57-lark-prompt) LARK Prompt
        - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
     9. Computer Graphics and Visualization
     10. Robotics and Automation
         - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
+        - [prompt 120](#120-actionsense-insight-generator)
+        - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
     11. Bioinformatics and Computational Biology
     12. Quantum Computing
         - [prompt 42](#42-optimo) Optimo
@@ -206,6 +216,7 @@
         - [prompt 71](#71-olmo) OLMo
         - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
         - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
+        - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
     26. Other Specialized Areas in Computer and Information Sciences.
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell code
         - [prompt 42](#42-optimo) Optimo
@@ -216,6 +227,7 @@
         - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 6. Earth and Environmental Sciences.
    - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
+   - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
 7. Education:
    1. Educational Psychology and Learning Theories.
          - [prompt 60](#60-instructadapt) INSTRUCTADAPT
@@ -271,12 +283,17 @@
    - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
    - [prompt 104](#104-adaptive-requirements-exploration-prompt) Adaptive Requirements Exploration Prompt
    - [prompt 110](#110-blockchain-efficiency-dynamic-transaction-storage-and-verkle-tree-strategies) Blockchain Efficiency: Dynamic Transaction Storage and Verkle Tree Strategies
+   - [prompt 119](#119-iterative-refinement-application-guide-for-linear-systems)
+   - [prompt 120](#120-actionsense-insight-generator)
+   - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
+   - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
 9. Health and Medicine.
 10. Law and Legal Studies.
     - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
 11. Mathematics.
     - [prompt 83](#83-mastering-multi-step-word-problems-breakdown-and-solution-with-clear-explanations) Mastering Multi-Step Word Problems: Breakdown and Solution with Clear Explanations
     - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
+    - [prompt 119](#119-iterative-refinement-application-guide-for-linear-systems)
 12. Physical Sciences.
     - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 13. Social Sciences.
@@ -339,6 +356,7 @@
     7. Decision-Making and Analysis Templates.
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
+       - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
     8. Other Specialized Templates or Frameworks.
 27. Other.
     - [prompt 19](#19-luna) Luna
@@ -2893,6 +2911,65 @@ Your task is to analyze the ActionSense dataset, which includes multimodal data 
 3. Based on the dataset, suggest potential improvements for smart wearable technologies that could support human activities in the kitchen.
 
 Please provide your analysis in a structured format, starting with an overview of the dataset, followed by your insights for each question, and concluding with recommendations for future research directions.
+```
+
+### 121. **Organizational Knowledge Management Analysis**
+
+```text
+### Instruction ###
+
+Your task is to analyze the concept of knowledge management and its impact on organizational performance. Using the insights from the provided text, answer the following questions in a structured and logical manner:
+
+1. Define knowledge management and explain its critical role in enhancing organizational performance.
+2. Describe the benefits of fostering a culture of learning and knowledge sharing within an organization.
+3. Discuss the importance of advanced knowledge management systems and how they support the management and distribution of knowledge.
+4. Explain how rewards and recognition programs can motivate employees to share knowledge and contribute to an organization's knowledge base.
+5. Reflect on the purpose and benefits of conducting regular knowledge audits in an organization.
+
+Provide your analysis in a clear, concise, and factual manner, offering examples where appropriate to illustrate your points. Ensure that your responses are unbiased and based on the information provided in the text.
+```
+
+### 122. **Robotic Recovery Plan Generation Prompt**
+
+```text
+### Instruction ###
+
+You are an AI modeled after the Recover framework, specializing in robotic task execution and failure recovery. A failure has occurred during a kitchen task, and your role is to generate a recovery plan. Here are the details:
+
+- Task: Prepare a simple salad.
+- Failure: A glass bowl has been dropped and broken.
+
+**Your task is to:**
+
+1. Identify the failure and its impact on the task.
+2. Use the OntoThor ontology to inform your recovery plan, considering available objects and safety conditions.
+3. Create a step-by-step recovery plan that a single-armed robot can execute.
+4. Provide reasoning for each step, focusing on safety and efficiency.
+5. Evaluate the plan's effectiveness based on failure detection accuracy and task completion.
+
+**Respond in a structured, step-by-step format, ensuring your explanation is clear and actionable.**
+```
+
+### 123. **Vector Field Analysis and Cyclone Tracking**
+
+```text
+### Instruction ###
+
+Your task is to analyze a provided discrete planar vector field dataset to extract singular patterns using the method of persistent path homology. Execute the following steps in a written report format, including visual diagrams where beneficial:
+
+1. Convert the vector field into an angle-based grid digraph. Detail this process, addressing the implications of vector field density and noise. If assumptions are made due to limitations in the dataset, explicitly state and rationalize them.
+
+2. Compute the one-dimensional persistent path homology of the digraph. Describe the construction of the digraph filtration and the computation of the persistence diagram. Ensure your explanation is self-consistent and logically sequenced.
+
+3. Interpret the persistence diagram to determine the location of singularities and segment the region of the singular pattern, referred to as a singular polygon. Discuss the potential impact of dataset limitations on the accuracy of this analysis.
+
+4. Apply this method to a practical example within the domain of meteorology, such as tracking the center and impact area of a tropical cyclone, based on provided wind field data. Provide a step-by-step explanation of your analysis, including any assumptions made and their potential impact on the results.
+
+5. Translate the findings from the persistence diagram into actionable insights for decision-making within the specified domain. Provide specific examples of how these insights can be applied.
+
+6. Discuss how the singular polygon is determined and used to assess the impact area of the tropical cyclone. Ensure the output includes actionable insights that are directly useful for domain-specific decision-making.
+
+Your response must be structured logically, with clear reasoning at each step. Include a flowchart or pseudocode to illustrate the method where appropriate. If additional information is required to complete the task, specify what data is needed.
 ```
 
 ## Other
