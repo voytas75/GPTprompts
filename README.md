@@ -30,6 +30,7 @@
     3. Entrepreneurship and Startup Culture.
        - [prompt 14](#24-build-a-prompt) Build a prompt
        - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
+       - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
     4. International Business and Trade.
     5. Human Resources and Organizational Behavior.
        - [prompt 59](#59-refund-request) Refund request
@@ -40,6 +41,7 @@
        - [prompt 121](#121-organizational-knowledge-management-analysis)
     7. Business Strategy and Competitive Analysis.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
+       - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
     8. Accounting and Auditing.
     9. Business Ethics and Corporate Social Responsibility.
        - [prompt 59](#59-refund-request) Refund request
@@ -48,9 +50,11 @@
     11. Supply Chain Management.
     12. Economics Theory and Application.
         - [prompt 94](#94-the-trade-offs-we-make-demystifying-opportunity-cost) The Trade-Offs We Make: Demystifying Opportunity Cost
+        - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
     13. Economic Development and Policy.
     14. Investment and Portfolio Management.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
+        - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
     15. Consumer Behavior and Market Research.
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
         - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
@@ -205,6 +209,7 @@
     19. Multimedia Computing
     20. Mobile and Ubiquitous Computing
     21. Cloud Computing and Virtualization
+         - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
     22. Computer Architecture and Engineering
     23. High-Performance Computing
     24. Computer Ethics and Professional Practice
@@ -279,6 +284,7 @@
    22. Online and Distance Learning.
          - [prompt 43](#43-coursecraftopia) CourseCraftopia
          - [prompt 47](#47-powershell-adds-course) Powershell ADDS course
+         - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
    23. Social and Emotional Learning.
    24. Critical Pedagogy and Education for Social Justice.
    25. Other Specialized Areas in Education.
@@ -306,6 +312,7 @@
     - [prompt 73](#73-beyond-humanity) Beyond Humanity
     - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
     - [prompt 125](#125-structural-causal-inquiry) Structural Causal Inquiry
+    - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
 14. Life Sciences.
     - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 15. Philosophy and Ethics.
@@ -323,6 +330,7 @@
 16. Physics.
 17. Political Science and International Relations.
     - [prompt 110](#110-blockchain-efficiency-dynamic-transaction-storage-and-verkle-tree-strategies) Blockchain Efficiency: Dynamic Transaction Storage and Verkle Tree Strategies
+    - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
 18. Psychology and Cognitive Sciences.
     1. Critical Thinking and Analysis.
        - [prompt 71](#71-olmo) OLMo
@@ -3014,6 +3022,20 @@ Proceed to simulate the experiment, embodying the roles of the agents according 
 4. Offer strategic advice for decision-makers in the financial industry operating under stochastic conditions. Incorporate the implications of 'random moves' and 'oracle updates' from the stochastic decision forests theory into your advice. Discuss how these concepts can influence risk assessment and decision-making strategies, providing specific examples.
 
 Ensure your response is logical, structured, and accessible to those without a background in stochastic models.
+```
+
+### 127. **Ascending Auction Analysis and Application**
+
+```text
+###Instruction###
+
+Your task is to explain the concept of an ascending auction for selling a matroid base, as simplified by the analysis using matroid folklore theorems. Use an analogy or a simple real-world scenario to illustrate the auction mechanism, emphasizing economic efficiency and the role of matroid theory in simplifying the auction's understanding.
+
+Compare this auction type with a sealed-bid auction, highlighting the benefits of transparency and efficiency. Specifically, discuss the concept of Vickrey prices and how they encourage truthful signaling in the context of the ascending auction.
+
+Then, apply the principles of the ascending auction to design a hypothetical auction for allocating bandwidth in a telecommunications network. Address the indivisibility of bandwidth units and the varying demands of network users in your design. Explain how your auction design ensures that the allocation of bandwidth is welfare-maximizing, fair among users, and economically efficient for the network provider.
+
+You MUST answer in a natural, human-like manner, providing a concise yet comprehensive explanation. Your response should be structured with clear headings for each section: "Ascending Auction Explanation," "Comparison with Other Auction Types," and "Hypothetical Auction Design for Telecommunications Bandwidth Allocation."
 ```
 
 ## Other
