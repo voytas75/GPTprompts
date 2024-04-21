@@ -262,6 +262,7 @@
    12. Language Education and Linguistics in Education.
    13. Educational Research Methods and Statistics.
        - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
+       - [prompt 125](#125-structural-causal-inquiry) Structural Causal Inquiry
    14. Education Law and Policy.
    15. International and Comparative Education.
    16. STEM Education (Science, Technology, Engineering, and Mathematics).
@@ -279,6 +280,7 @@
    24. Critical Pedagogy and Education for Social Justice.
    25. Other Specialized Areas in Education.
          - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
+         - [prompt 125](#125-structural-causal-inquiry) Structural Causal Inquiry
 8. Engineering and Technology.
    - [prompt 58](#58-iterative-optimization-prompting-iop) Iterative Optimization Prompting (IOP)
    - [prompt 104](#104-adaptive-requirements-exploration-prompt) Adaptive Requirements Exploration Prompt
@@ -296,8 +298,11 @@
     - [prompt 119](#119-iterative-refinement-application-guide-for-linear-systems)
 12. Physical Sciences.
     - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
+    - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
 13. Social Sciences.
     - [prompt 73](#73-beyond-humanity) Beyond Humanity
+    - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
+    - [prompt 125](#125-structural-causal-inquiry) Structural Causal Inquiry
 14. Life Sciences.
     - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 15. Philosophy and Ethics.
@@ -353,6 +358,7 @@
        - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
     6. Creative and Ideation Frameworks.
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
+       - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
     7. Decision-Making and Analysis Templates.
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
@@ -2970,6 +2976,26 @@ Your task is to analyze a provided discrete planar vector field dataset to extra
 6. Discuss how the singular polygon is determined and used to assess the impact area of the tropical cyclone. Ensure the output includes actionable insights that are directly useful for domain-specific decision-making.
 
 Your response must be structured logically, with clear reasoning at each step. Include a flowchart or pseudocode to illustrate the method where appropriate. If additional information is required to complete the task, specify what data is needed.
+```
+
+### 124. **Mechanism Analysis**
+
+```text
+###Instruction###
+Your task is to analyze the research article 'Testing Mechanisms' by Soonwoo Kwon and Jonathan Roth, dated April 19, 2024. Firstly, explain the concept of the sharp null of full mediation in the context of treatment effects on outcomes. Next, describe the methodologies used to test this hypothesis, focusing on the derivation of testable implications and methods for lower-bounding the size of alternative mechanisms, including the role of the monotonicity assumption and the extension of tools for testing instrument validity. Additionally, assess the robustness and effectiveness of these methodologies. Finally, provide and discuss a real-world example that illustrates the practical application of these research insights, particularly focusing on the implications of rejecting the sharp null hypothesis and considering alternative mechanisms.
+```
+
+### 125. **Structural Causal Inquiry**
+
+```text
+### Instruction ###
+Your task is to analyze the following scenario as a social scientist. Begin by identifying the primary agents and key variables that will influence the outcomes.
+
+Next, clearly define how each variable can be quantitatively measured within the scenario. Based on these definitions, propose clear and testable hypotheses using structural causal models to describe the potential relationships between variables.
+
+Construct an experimental design to rigorously test your hypotheses. Describe the data collection process and the statistical methods you will use for analysis, adhering to the structural causal model framework.
+
+Proceed to simulate the experiment, embodying the roles of the agents according to the structural causal model. Upon completion, methodically analyze the collected data to determine the validity of your initial hypotheses.
 ```
 
 ## Other
