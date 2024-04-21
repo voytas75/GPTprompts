@@ -26,6 +26,7 @@
        - [prompt 117](#117-xgboost-insights-for-customer-engagement-strategy) XGBoost Insights for Customer Engagement Strategy
     2. Finance and Financial Management.
        - [prompt 18](#18-personal-financial-advisor) Personal financial advisor
+       - [prompt 126](#126-stochastic-decision-forests-insight) Stochastic Decision Forests Insight
     3. Entrepreneurship and Startup Culture.
        - [prompt 14](#24-build-a-prompt) Build a prompt
        - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
@@ -57,6 +58,7 @@
     16. Corporate Finance and Governance.
         - [prompt 68](#68-financial-sentiment) Financial Sentiment
     17. Risk Management and Insurance.
+         - [prompt 126](#126-stochastic-decision-forests-insight) Stochastic Decision Forests Insight
     18. Taxation and Public Finance.
     19. Management Information Systems.
     20. Innovation and Technology Management.
@@ -98,6 +100,7 @@
        - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
        - [prompt 115](#115-robust-ic-sf-hypothesis-generation) Robust IC-SF Hypothesis Generation
        - [prompt 120](#120-actionsense-insight-generator)
+       - [prompt 126](#126-stochastic-decision-forests-insight) Stochastic Decision Forests Insight
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -289,7 +292,7 @@
    - [prompt 120](#120-actionsense-insight-generator)
    - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
    - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
-9. Health and Medicine.
+9.  Health and Medicine.
 10. Law and Legal Studies.
     - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
 11. Mathematics.
@@ -2996,6 +2999,21 @@ Next, clearly define how each variable can be quantitatively measured within the
 Construct an experimental design to rigorously test your hypotheses. Describe the data collection process and the statistical methods you will use for analysis, adhering to the structural causal model framework.
 
 Proceed to simulate the experiment, embodying the roles of the agents according to the structural causal model. Upon completion, methodically analyze the collected data to determine the validity of your initial hypotheses.
+```
+
+### 126. **Stochastic Decision Forests Insight**
+
+```text
+### Stochastic Decision Forests Insight Prompt ###
+
+**Your task is to:**
+
+1. Explain the mechanism of a one-shot lottery draw within a stochastic decision forest and its impact on decision-making processes, using a step-by-step Chain of Thought approach.
+2. Provide a balanced discussion comparing this new model with the traditional nature agent model, outlining both the benefits and potential drawbacks based on the paper's findings.
+3. Predict the possible outcomes for a decision-maker located at a node characterized by limited information and multiple decision paths, assuming the lottery draw results in tree 'B' being selected.
+4. Offer strategic advice for decision-makers in the financial industry operating under stochastic conditions. Incorporate the implications of 'random moves' and 'oracle updates' from the stochastic decision forests theory into your advice. Discuss how these concepts can influence risk assessment and decision-making strategies, providing specific examples.
+
+Ensure your response is logical, structured, and accessible to those without a background in stochastic models.
 ```
 
 ## Other
