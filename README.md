@@ -105,6 +105,9 @@
        - [prompt 115](#115-robust-ic-sf-hypothesis-generation) Robust IC-SF Hypothesis Generation
        - [prompt 120](#120-actionsense-insight-generator)
        - [prompt 126](#126-stochastic-decision-forests-insight) Stochastic Decision Forests Insight
+       - [prompt 128](#128-academic-paper-structure-comprehension-and-model-enhancement) Academic Paper Structure Comprehension and Model Enhancement
+       - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
+       - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -142,6 +145,7 @@
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
        - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
+       - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
     7. Database Management and Data Retrieval:
         1. Relational Database Design and Optimization.
         2. NoSQL Databases and Data Stores.
@@ -156,6 +160,7 @@
            - [prompt 103](#103-unraveling-complexities-logical-reasoning-on-knowledge-graphs) Unraveling Complexities: Logical Reasoning on Knowledge Graphs
            - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
            - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
+           - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -172,6 +177,7 @@
         18. Temporal, Spatial, and Multimedia Databases.
         19. Big Data Storage and Processing.
         20. Data Privacy and Anonymization.
+            - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
         21. Other Specialized Areas in Database Management and Data Retrieval.
             - [prompt 29](#29-examples-of-operations-in-powershell-where-using-net-classes-is-more-efficient-than-using-built-in-cmdlets) Examples of operations in PowerShell where using .NET classes is more efficient than using built-in cmdlets
             - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
@@ -179,6 +185,7 @@
     8. Theoretical Computer Science
        - [prompt 57](#57-lark-prompt) LARK Prompt
        - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
+       - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
     9. Computer Graphics and Visualization
     10. Robotics and Automation
         - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
@@ -233,6 +240,7 @@
         - [prompt 64](#64-dual-category-task-optimizer-dcto-prompt) Dual-Category Task Optimizer (DCTO) Prompt
         - [prompt 96](#96-understanding-your-needs-analyzing-user-requests-with-mops) Understanding Your Needs: Analyzing User Requests with MoPs
         - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
+        - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
 6. Earth and Environmental Sciences.
    - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
    - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
@@ -271,6 +279,7 @@
    13. Educational Research Methods and Statistics.
        - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
        - [prompt 125](#125-structural-causal-inquiry) Structural Causal Inquiry
+       - [prompt 128](#128-academic-paper-structure-comprehension-and-model-enhancement) Academic Paper Structure Comprehension and Model Enhancement
    14. Education Law and Policy.
    15. International and Comparative Education.
    16. STEM Education (Science, Technology, Engineering, and Mathematics).
@@ -358,6 +367,7 @@
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
        - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
+       - [prompt 130](#130-strategic-reasoning-via-predictive-planning) Strategic Reasoning via Predictive Planning
     2. Project Management Frameworks.
     3. Instructional Design and Educational Frameworks.
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
@@ -367,6 +377,7 @@
     5. Research Methodology and Experimental Design Templates.
        - [prompt 107](#107-scholarly-synthesis) Scholarly Synthesis
        - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
+       - [prompt 128](#128-academic-paper-structure-comprehension-and-model-enhancement) Academic Paper Structure Comprehension and Model Enhancement
     6. Creative and Ideation Frameworks.
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
@@ -3036,6 +3047,67 @@ Compare this auction type with a sealed-bid auction, highlighting the benefits o
 Then, apply the principles of the ascending auction to design a hypothetical auction for allocating bandwidth in a telecommunications network. Address the indivisibility of bandwidth units and the varying demands of network users in your design. Explain how your auction design ensures that the allocation of bandwidth is welfare-maximizing, fair among users, and economically efficient for the network provider.
 
 You MUST answer in a natural, human-like manner, providing a concise yet comprehensive explanation. Your response should be structured with clear headings for each section: "Ascending Auction Explanation," "Comparison with Other Auction Types," and "Hypothetical Auction Design for Telecommunications Bandwidth Allocation."
+```
+
+### 128. **Academic Paper Structure Comprehension and Model Enhancement**
+
+```text
+### Instruction ###
+Your task is to analyze a structured academic paper. You MUST summarize the key points from each primary section. Additionally, discuss the role of the document's hierarchical organization in enhancing comprehension and explain how language models can use structural indicators to improve their performance in natural language understanding tasks. Ensure your analysis is clear and concise.
+
+1. Identify the title and authors of the paper.
+2. Summarize the abstract, highlighting the main objective of the research.
+3. Extract and summarize the essential points from the introduction.
+4. Summarize the methodology, including the approach and techniques used.
+5. Outline the results and their significance.
+6. Discuss the conclusions and their implications.
+7. Explain the importance of the document's structure in aiding comprehension.
+8. Describe how language models can leverage structural indicators to enhance natural language understanding.
+```
+
+### 129. **Understanding Individual Fairest Community Search in HINs**
+
+```text
+### Instruction ###
+Your task is to explain the concept of individual fairest community search (IFCS) in heterogeneous information networks (HINs). You MUST outline its importance in ensuring fairness within communities and describe the methodologies developed to solve the IFCS problem, such as exploration-based filters and optimization strategies. Discuss the computational challenges due to the NP-hardness of the problem and summarize the experimental results and their impact on the field of community search in HINs.
+
+### Question ###
+1. What is individual fairest community search (IFCS) in the context of heterogeneous information networks (HINs)?
+2. Why is IFCS important for fairness in communities?
+3. What methodologies have been developed to address the IFCS problem?
+4. What computational challenges are posed by the NP-hardness of the IFCS problem?
+5. Can you summarize the experimental results and their significance in the field of community search in HINs?
+```
+
+### 130. **Strategic Reasoning via Predictive Planning**
+
+```text
+### Instruction ###
+
+Your task is to act as a reasoning agent and a world model to solve a complex problem. Engage in strategic planning and predictive reasoning to achieve a specified goal from a given initial state. Proceed as follows:
+
+1. Define the initial state and the goal.
+2. List all possible actions from the initial state.
+3. Simulate each action's outcome, providing detailed predictions.
+4. Assign a confidence score from 0 to 1 for each action's likelihood of success.
+5. Select the action with the highest score, update the state accordingly, and record the new state.
+6. Continue this reasoning process for up to 10 steps or until the goal is reached.
+
+Articulate each reasoning step with clarity and precision, based on logical deductions from the current state and potential actions. If you fail to follow these instructions or the logical sequence, you will be penalized.
+```
+
+### 131. **Privacy-Conscious OOV Discovery for Language Model Enhancement**
+
+```text
+### Instruction ###
+Analyze a simulated dataset to identify out-of-vocabulary (OOV) words for a virtual keyboard's language model using local differential privacy (LDP). Aggregate the results with central differential privacy guarantees.
+
+1. Describe the LDP analysis process for OOV word identification. Choose privacy parameters that balance user privacy and word utility.
+2. Select a secure multi-party computation protocol for central differential privacy in result aggregation. Discuss its efficiency and scalability.
+3. Calculate the coverage of OOV words found. Explain how privacy parameters affect the utility of these words.
+4. Suggest methods to expand the language model's vocabulary with the new OOV words, considering user privacy and model performance.
+
+Provide a step-by-step response, including a list of OOV words, their coverage, and recommendations for vocabulary expansion. Assess the impact on the language model.
 ```
 
 ## Other
