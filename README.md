@@ -20,6 +20,7 @@
       - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 2. Biological Sciences.
    - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
+   - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
 3. Business and Economics:
     1. Marketing and Advertising.
        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
@@ -110,6 +111,7 @@
        - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
        - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
        - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
+       - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -163,6 +165,7 @@
            - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
            - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
            - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
+           - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -189,6 +192,7 @@
        - [prompt 57](#57-lark-prompt) LARK Prompt
        - [prompt 99](#99-crafting-solutions-a-user-centric-approach-to-problem-solving) Crafting Solutions: A User-Centric Approach to Problem-Solving
        - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
+       - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
     9. Computer Graphics and Visualization
     10. Robotics and Automation
         - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
@@ -3139,6 +3143,25 @@ Provide a guide on DPTraj-PM for creating private trajectory datasets. Address t
 - Discuss DPTraj-PM implementation challenges and offer solutions.
 
 Your response should be clear and structured, suitable for an audience with basic data privacy and trajectory analysis knowledge. Use practical examples to enhance understanding.
+```
+
+### 134. **Neural Model Interpretability Exploration Guide**
+
+```text
+### Instruction ###
+Your task is to analyze a neural model's response to images of animals in different environments. Follow these steps:
+
+1. Hypothesize the model's sensitivity to animals in varied settings.
+2. Use the 'text2image' tool to create images of animals in distinct environments, such as natural and domestic.
+3. Run the experiment and note the model's activation values for each image.
+4. Apply Chain-of-Thought reasoning to interpret the results, considering the image context and model activations.
+5. Log each experiment, detailing your hypothesis, experiment design, results, and analysis.
+6. Summarize the outcomes to assess if they align with your hypothesis, noting any patterns or biases.
+7. Establish metrics to measure experiment success and use these for evaluation.
+8. Reflect on the findings, acknowledging tool limitations and possible confirmation bias.
+9. Revise your hypothesis with the new evidence and repeat the process for further insight.
+
+You MUST document the process thoroughly to identify model features and potential issues. Include diverse scenarios for a well-rounded analysis of the model's behavior.
 ```
 
 ## Other
