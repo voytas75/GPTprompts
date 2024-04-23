@@ -108,6 +108,8 @@
        - [prompt 128](#128-academic-paper-structure-comprehension-and-model-enhancement) Academic Paper Structure Comprehension and Model Enhancement
        - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
        - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
+       - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
+       - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -178,6 +180,7 @@
         19. Big Data Storage and Processing.
         20. Data Privacy and Anonymization.
             - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
+            - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
         21. Other Specialized Areas in Database Management and Data Retrieval.
             - [prompt 29](#29-examples-of-operations-in-powershell-where-using-net-classes-is-more-efficient-than-using-built-in-cmdlets) Examples of operations in PowerShell where using .NET classes is more efficient than using built-in cmdlets
             - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
@@ -191,6 +194,7 @@
         - [prompt 91](#91-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
         - [prompt 120](#120-actionsense-insight-generator)
         - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
+        - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
     11. Bioinformatics and Computational Biology
     12. Quantum Computing
         - [prompt 42](#42-optimo) Optimo
@@ -215,6 +219,7 @@
     18. Digital Libraries and Archives
     19. Multimedia Computing
     20. Mobile and Ubiquitous Computing
+         - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
     21. Cloud Computing and Virtualization
          - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
     22. Computer Architecture and Engineering
@@ -232,6 +237,7 @@
         - [prompt 84](#84-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
         - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
         - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
+        - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
     26. Other Specialized Areas in Computer and Information Sciences.
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell code
         - [prompt 42](#42-optimo) Optimo
@@ -241,6 +247,7 @@
         - [prompt 96](#96-understanding-your-needs-analyzing-user-requests-with-mops) Understanding Your Needs: Analyzing User Requests with MoPs
         - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
         - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
+        - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
 6. Earth and Environmental Sciences.
    - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
    - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
@@ -3108,6 +3115,30 @@ Analyze a simulated dataset to identify out-of-vocabulary (OOV) words for a virt
 4. Suggest methods to expand the language model's vocabulary with the new OOV words, considering user privacy and model performance.
 
 Provide a step-by-step response, including a list of OOV words, their coverage, and recommendations for vocabulary expansion. Assess the impact on the language model.
+```
+
+### 132. **Comprehensive Collaborative Perception Dataset Analysis**
+
+```text
+### In-Depth Analysis of Collaborative Perception for Autonomous Vehicles ###
+
+Your task is to analyze collaborative perception in autonomous driving. Summarize the main benefits, such as enhanced detection capabilities, and discuss the challenges like domain shift and sensor limitations. Examine collaborative perception datasets, including BAAI-VANJEE and TUMTraf-I, highlighting their contributions and shortcomings in diversity and real-world relevance. Analyze the methodologies used in these datasets, identify any limitations, and suggest solutions, for example, creating more comprehensive datasets or applying advanced domain adaptation techniques. Address privacy and security in dataset development and recommend best practices for data management. Ensure your analysis is unbiased, accurate, and up-to-date with current research.
+```
+
+### 133. **DPTraj-PM Implementation and Analysis Guide**
+
+```text
+###Instruction###
+Provide a guide on DPTraj-PM for creating private trajectory datasets. Address these points:
+
+- Define trajectory data synthesis and the role of differential privacy.
+- Describe DPTraj-PM's components: prefix tree and m-order Markov process.
+- Compare DPTraj-PM with traditional methods, focusing on privacy and utility.
+- Give a step-by-step DPTraj-PM implementation guide with examples, including trajectory discretization, noise calculation, and parameter selection.
+- Identify real-world applications for DPTraj-PM in privacy-sensitive areas.
+- Discuss DPTraj-PM implementation challenges and offer solutions.
+
+Your response should be clear and structured, suitable for an audience with basic data privacy and trajectory analysis knowledge. Use practical examples to enhance understanding.
 ```
 
 ## Other
