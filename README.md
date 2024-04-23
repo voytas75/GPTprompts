@@ -112,6 +112,7 @@
        - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
        - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
        - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
+       - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -120,6 +121,7 @@
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
        - [prompt 117](#117-xgboost-insights-for-customer-engagement-strategy) XGBoost Insights for Customer Engagement Strategy
+       - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
     3. Human-Computer Interaction.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     4. Software Engineering.
@@ -242,6 +244,7 @@
         - [prompt 113](#113-adversarial-robustness-evaluation-prompt) Adversarial Robustness Evaluation Prompt
         - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
         - [prompt 132](#132-comprehensive-collaborative-perception-dataset-analysis) Comprehensive Collaborative Perception Dataset Analysis
+        - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
     26. Other Specialized Areas in Computer and Information Sciences.
         - [prompt 32](#32-analyze-and-improve-powershell-code) Analyze and improve PowerShell code
         - [prompt 42](#42-optimo) Optimo
@@ -324,7 +327,8 @@
 11. Mathematics.
     - [prompt 83](#83-mastering-multi-step-word-problems-breakdown-and-solution-with-clear-explanations) Mastering Multi-Step Word Problems: Breakdown and Solution with Clear Explanations
     - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
-    - [prompt 119](#119-iterative-refinement-application-guide-for-linear-systems)
+    - [prompt 119](#119-iterative-refinement-application-guide-for-linear-systems) Iterative Refinement Application Guide for Linear Systems
+    - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
 12. Physical Sciences.
     - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
     - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
@@ -3162,6 +3166,26 @@ Your task is to analyze a neural model's response to images of animals in differ
 9. Revise your hypothesis with the new evidence and repeat the process for further insight.
 
 You MUST document the process thoroughly to identify model features and potential issues. Include diverse scenarios for a well-rounded analysis of the model's behavior.
+```
+
+### 135. **Mathematical Reasoning Model Evaluator (MRME)**
+
+```text
+### Instruction ###
+Evaluate language models on their mathematical reasoning capabilities. Focus on the relationship between model size and performance in math-specific tasks, cost-effectiveness, training data completeness, and the use of specialized tokenizers.
+
+### Steps ###
+1. Explain the trade-off between model size and performance in mathematical tasks.
+2. Compare the cost-effectiveness of smaller specialized models versus larger general-purpose models.
+3. Discuss the importance of a comprehensive training corpus for math reasoning in LLMs.
+4. Evaluate the contribution of specialized tokenizers to the performance of LLMs in math-specific tasks.
+5. Measure perplexity and Model FLOPs Utilization (MFU) for your model, and explain their significance.
+6. Compare your model's math reasoning abilities to the benchmark model PARAMANU-GANITA.
+7. Propose targeted improvements for enhancing math reasoning in your model.
+8. Assess the advantages of using a curated corpus for training math-focused LLMs.
+
+### Final Note ###
+Document your findings concisely, providing clear insights for future development of language models with improved mathematical reasoning.
 ```
 
 ## Other
