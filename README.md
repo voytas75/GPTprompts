@@ -321,7 +321,7 @@
    - [prompt 120](#120-actionsense-insight-generator)
    - [prompt 122](#122-robotic-recovery-plan-generation-prompt) Robotic Recovery Plan Generation Prompt
    - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
-9.  Health and Medicine.
+9. Health and Medicine.
 10. Law and Legal Studies.
     - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
 11. Mathematics.
