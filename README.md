@@ -3239,3 +3239,4 @@ Document your findings concisely, providing clear insights for future developmen
 47. [Prompt Engineering: Advanced Techniques](https://www.mlq.ai/prompt-engineering-advanced-techniques/)
 48. [12 ChatGPT Prompts for Text Analysis](https://mimlearnovate.com/chatgpt-prompts-for-text-analysis/#:~:text=12%20ChatGPT%20Prompts%20for%20Text%20Analysis%201%2012,ChatGPT%20to%20analyze%20multiple%20texts%20at%20once%3F%20)
 49. [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+50. [26 prompting tricks to improve LLMs](https://www.superannotate.com/blog/llm-prompting-tricks#:~:text=26%20prompting%20techniques%201%201.%20No%20need%20to,examples%208%208.%20Format%20your%20prompt%20Wi%C4%99cej%20pozycji)
