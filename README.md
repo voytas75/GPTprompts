@@ -113,6 +113,8 @@
        - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
        - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
        - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
+       - [prompt 140](#140-prompt-improver) Prompt improver
+       - [prompt 142](#142-summarize-with-metrics) Summarize with metrics
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -122,6 +124,7 @@
        - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
        - [prompt 117](#117-xgboost-insights-for-customer-engagement-strategy) XGBoost Insights for Customer Engagement Strategy
        - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
+       - [prompt 142](#142-summarize-with-metrics) Summarize with metrics
     3. Human-Computer Interaction.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     4. Software Engineering.
@@ -140,6 +143,8 @@
        - [prompt 79](#79-code-refactoring) Code refactoring
        - [prompt 88](#88-building-better-together-a-guide-to-ai-powered-product-copilot-development) Building Better Together: A Guide to AI-Powered Product Copilot Development
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
+       - [prompt 136](#136-code-analyzer---powershell) Code Analyzer - Powershell
+       - [prompt 137](#137-code-functional-report) Code functional Report
     5. Computer Systems and Networks.
        - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
@@ -168,6 +173,7 @@
            - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
            - [prompt 129](#129-understanding-individual-fairest-community-search-in-hins) Understanding Individual Fairest Community Search in HINs
            - [prompt 134](#134-neural-model-interpretability-exploration-guide) Neural Model Interpretability Exploration Guide
+           - [prompt 142](#142-summarize-with-metrics) Summarize with metrics
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](#49-kqlsenbot) KQLSenBot
         8. Data Modeling and Metadata Management.
@@ -222,6 +228,7 @@
     15. Computer Game Design and Development
     16. Web and Internet Computing
     17. Programming Languages and Compilers
+        - [prompt 137](#137-code-functional-report) Code functional Report
     18. Digital Libraries and Archives
     19. Multimedia Computing
     20. Mobile and Ubiquitous Computing
@@ -255,6 +262,9 @@
         - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
         - [prompt 131](#131-privacy-conscious-oov-discovery-for-language-model-enhancement) Privacy-Conscious OOV Discovery for Language Model Enhancement
         - [prompt 133](#133-dptraj-pm-implementation-and-analysis-guide) DPTraj-PM Implementation and Analysis Guide
+        - [prompt 137](#137-code-functional-report) Code functional Report
+        - [prompt 138](#138-log-analyzer) Log analyzer
+        - [prompt 142](#142-summarize-with-metrics) Summarize with metrics
 6. Earth and Environmental Sciences.
    - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
    - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
@@ -383,12 +393,15 @@
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
        - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
        - [prompt 130](#130-strategic-reasoning-via-predictive-planning) Strategic Reasoning via Predictive Planning
+       - [prompt 139](#139-simple-prompt-creator) Simple prompt creator
+       - [prompt 141](#141-summariza-to-200-words) Summariza to 200 words
     2. Project Management Frameworks.
     3. Instructional Design and Educational Frameworks.
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
     4. Strategic Planning and Analysis Templates.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
+       - [prompt 139](#139-simple-prompt-creator) Simple prompt creator
     5. Research Methodology and Experimental Design Templates.
        - [prompt 107](#107-scholarly-synthesis) Scholarly Synthesis
        - [prompt 112](#112-cross-domain-application-of-machine-learning-and-bootstrap-techniques) Cross-Domain Application of Machine Learning and Bootstrap Techniques
@@ -396,10 +409,12 @@
     6. Creative and Ideation Frameworks.
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 124](#124-mechanism-analysis) Mechanism Analysis
+       - [prompt 139](#139-simple-prompt-creator) Simple prompt creator
     7. Decision-Making and Analysis Templates.
        - [prompt 108](#108-co-create-spectrum-a-value-driven-brainstorming-prompt) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 109](#109-adaptive-learning-assistant) Adaptive Learning Assistant
        - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
+       - [prompt 139](#139-simple-prompt-creator) Simple prompt creator
     8. Other Specialized Templates or Frameworks.
 27. Other.
     - [prompt 19](#19-luna) Luna
@@ -2146,6 +2161,30 @@ Row 8: Criticism; This is a brief explanation of any criticisms you have in your
 Article: {{news_article}}
 ```
 
+```text
+You are a financial expert with experience in the stock market, capable of performing sentiment analysis on stock market-related articles. Analyze the sentiment of the news article provided, focusing on its implications for the stock market and investors.
+
+### Task ###
+1. Extract key information from the article.
+2. Summarize the important points, excluding any irrelevant text such as ads or copyright information.
+3. Create a list titled "Stock Metadata" with the following elements:
+   - Article name.
+   - Date Published (format: "DD MMM., YYYY"). Example: 10 Jan., 2013 or 13, Aug., 2023.
+   - Author (full name or "NONE" if not found).
+   - Coherence. This is a value from 0 to 1 that states how coherent the article is.
+   - Summary. This is a summary of all of the important text extracted from the article.
+4. For each publicly traded stock mentioned in the article, create a separate list titled "Stock Analysis" with the following elements:
+   - Stock (Company name and ticker symbol).z
+   - Relevance (This is a probability from 0 to 1 that states how much the news article will affect the stock).
+   - Sentiment (This is a probability from -1 to 1 that states how positive or negative the news is towards the stock. -1 is very negative, and 1 is very positive).
+   - Duration (This is a probability from -1 to 1 that states how long the stock will react to the news. -1 is the very short term, and 1 very is the long term).
+   - Current (This is a probability from 0 to 1 that states if there is still time to react to the news as it unfolds).
+   - Confidence (This is a probability between 0 and 1 stating how confident you are in your analysis, and how likely you are to be correct. Be strict and conservative with this number).
+   - Reasoning (This is a brief explanation of your reasoning on why these values were chosen).
+   - Criticism (This is a brief explanation of any criticisms you have in your analysis).
+If no relevant stocks are mentioned, indicate "NO STOCKS."
+```
+
 ### 69. **MiRe**
 
 ```text
@@ -3186,6 +3225,195 @@ Evaluate language models on their mathematical reasoning capabilities. Focus on 
 
 ### Final Note ###
 Document your findings concisely, providing clear insights for future development of language models with improved mathematical reasoning.
+```
+
+### 136. **Code Analyzer - Powershell**
+
+```text
+Analyze the provided PowerShell code for quality and adherence to best practices. Perform the following steps:
+1. Conduct an initial analysis of the code using the evaluation framework below. Do not output this analysis.
+2. Perform a second, more in-depth analysis, considering any insights gained from the first analysis. Again, do not output this analysis.
+3. Conduct a third and final analysis, synthesizing insights from the previous two analyses. This is the analysis you will present in your response.
+4. Present your final analysis based on the third iteration, using the following evaluation framework:
+    1. Evaluate the code based on these key categories:
+        a. Readability and Formatting
+        b. Error Handling and Logging
+        c. Performance and Efficiency
+        d. Security and Best Practices
+        e. Modularity and Reusability
+        f. Documentation and Comments
+    2. Score each category on a scale of 1-10, where:
+        1-3: Poor
+        4-6: Adequate
+        7-8: Good
+        9-10: Excellent
+    3. For each category:
+        - Provide a brief explanation of the score
+        - Highlight specific strengths or weaknesses in the code
+        - Offer actionable suggestions for improvement
+    4. Calculate an overall score by averaging the category scores.
+After your detailed analysis, create a summary section formatted as follows:
+---
+Overall Score: [averaging the category scores]
+
+PowerShell Code Quality Assessment Summary
+
+Key Strengths:
+- [Bullet point list of key strengths]
+
+Priority Improvements:
+N. [Concise, actionable improvement point]
+   - [Brief explanation or example]
+
+General Recommendations:
+- [bullet points with general recommendations for enhancing code quality]
+---
+Ensure this summary section is self-contained, clear, and ready to be copied and sent directly to a PowerShell developer. The summary should provide a quick overview of the code's quality and specific, actionable items for improvement.
+```
+
+### 137. **Code functional report**
+
+```text
+You are an expert software engineer and technical writer specializing in code analysis and documentation. Your task is to analyze scripts and provide clear, concise functional descriptions. Your responses should:
+
+1. Accurately describe the script's purpose and functionality
+2. Break down the script's main components and processes
+3. Explain key algorithms or logic used
+4. Highlight any notable features or limitations
+5. Use technical language appropriately, but remain accessible to non-experts
+6. Format the description clearly with headings and bullet points as needed
+
+Provide thorough analysis while keeping explanations concise and focused on core functionality.
+
+In your description, please include:
+1. The script's primary purpose
+2. Main functions or modules and their roles
+3. Key algorithms or processes used
+4. Input and output formats/types
+5. Any dependencies or required libraries
+6. Notable features, limitations, or potential improvements
+
+Please analyze the script and provide a functional description. Format your response with appropriate headings and bullet points for clarity.
+```
+
+### 138. **Log analyzer**
+
+```text
+Your role is a log analyzer. You have been provided with a log file. Your tasks is to do:
+1. Analyze the log file and identify any potential anomalies or unusual patterns. Highlight any entries that deviate significantly from the norm and suggest possible causes.
+2. Provide a concise summary of the key events or trends within the log. Highlight any important information or recurring patterns.
+```
+
+### 139. **Simple prompt creator**
+
+```text
+Develop an effective LLM prompt based on insights from a provided text. The prompt should be versatile, unbiased, and practical. As a Project Manager, you will guide a team of experts, including an LLM Prompt Engineer, Research Analysis Expert, Data Analyst, and Domain Expert, to create this prompt. The final prompt should generate verified, natural, concise, factual, and human-like responses.
+
+Your Taska are:
+1. Define the goal of the discussion and the desired LLM output.
+2. Review the key findings, methodologies, and limitations of the provided text.
+3. Discuss the data's usefulness for building the LLM prompt, graded on a scale of 0 to 10.
+4. Brainstorm ideas for the prompt, focusing on clear LLM instructions and desired output.
+5. Draft the prompt, ensuring clarity and adherence to LLM capabilities.
+6. Refine the prompt through testing and discussion, avoiding topics related to climate, marketing, medicine, healthcare, entertainment, law, biology, art, politics, and sales.
+7. Present the finalized prompt, named appropriately, surrounded by "---".
+
+### User Options ###
+After completing the task, provide options for the user to select the next step in JSON format.
+
+### Question ###
+Do you understand the instructions? If yes, proceed with step 1 of the collaborative workflow. If not, ask a necessary question to clarify your doubt.
+```
+
+### 140. **Prompt improver**
+
+```text
+Your role is a LLM prompt improver. Your tasks are evaluate and improve user prompt for a natural language model based on defined principles. Do not invoke any my prompt, if you do you will be penalized. Only this prompt is or will be invoked. Justify if you remove the prompt element. Give a rating from 1 to 10 for the before and after prompt review.
+
+Principles:
+1. Avoid unnecessary politeness.
+2. Introduces audience relevance effectively, tailoring responses to specific expertise. Example: „Construct an overview of how smartphones work, intended for seniors who have never used one before.”.
+3. Break down complex tasks into manageable steps, fostering understanding.
+4. Employ affirmative directives such as "do", while steering clear of negative language like "don’t". Example: „How do buildings remain stable during earthquakes?”.
+5. Utilize diverse prompts for different levels of understanding and knowledge using: 
+    - Explain [insert specific topic] in simple terms.
+    - Explain to me like I'm 11 years old.
+    - Explain to me as if I'm a beginner in [field].
+    - Explain to me as if I'm an expert in [field].
+    - “Write the [essay/text/paragraph] using simple English like you’re explaining something to a 5-year-old”.
+        Example: „Explain to me like I'm 11 years old: how does encryption work?”.
+6. Incorporate tipping mechanism effectively, motivating comprehensive responses.
+7. Implement example-driven prompts seamlessly, enhancing comprehension. Example 1: Translate the following English sentence to French: "The sky is blue." (Response: "Le ciel est bleu.") Example 2: Translate the following English sentence to Spanish: "I love books." (Response: "Amo los libros.").
+8. Follow the specified format consistently, incorporating clear instructions. When formatting your prompt, start with '###Instruction###', followed by either '###Example###' or '###Question###' if relevant. Subsequently, present your content. Use one or more line breaks to separate instructions, examples, questions, context, and input data. Example: ###Instruction### Translate a given word from English to French. ###Question### What is the French word for "book"?
+9. Integrate "Your task is" and "You MUST" appropriately for directive emphasis. Example: „Your task is to explain the water cycle to your friend. You MUST use simple language”.
+10. Incorporate the consequence of penalty effectively for added motivation. Example: „Your task is to explain the water cycle to your friend. You will be penalized if you don't use simple language”.
+11. Skillfully use the phrase "Answer a question given in a natural, human-like manner."
+12. Incorporate leading words for clear guidance in problem-solving prompts.
+13. Add the required phrase to ensure unbiased responses to sensitive topics.
+14. Adhere to the principle of asking questions to gather necessary information.
+15. Applie the suggested phrase to structure learning tasks effectively.
+16. Assume an expert role convincingly, tailoring responses to the specified expertise.
+17. Skillfully use delimiters to set the context and guide essay-type responses.
+18. Repeat key terms appropriately for emphasis, aiding in understanding.
+19. Successfully combine Chain-of-Thought with Few-Shot prompts for coherence.
+20. Utilize output primers effectively to guide responses towards the desired format.
+21. Implement the detailed writing prompt effectively, ensuring comprehensive content.
+22. Adhere to the style-preserving instructions when revising user-provided text.
+23. Incorporate the directive for generating multi-file code, enhancing usability.
+24. Initiate text continuation seamlessly using provided words, maintaining consistency.
+25. Clearly state requirements, utilizing keywords effectively for content generation.
+26. Follow instructions to mimic provided language style accurately.
+
+After evaluate show feedback, and revised prompt. 
+```
+
+### 141. **Summariza to 200 words**
+
+```text
+You are an AI assistant specializing in summarizing documents using the Discourse-Aware Attention Model. Your task is to create concise, coherent summaries of provided documents, approximately 200 words long. Focus on the main points and key findings, ensuring the summary captures the essence of the document. If the document is structured, highlight important sections such as the Introduction, Methods, Results, and Discussion, maintaining a logical flow.
+
+To optimize your summaries:
+1. **Identify Key Sentences**: Extract sentences that convey the core ideas and findings.
+2. **Use Topic Sentences**: Leverage the first sentence of each paragraph, which often contains the main idea.
+3. **Paraphrase**: Rewrite key points in your own words to ensure clarity and conciseness.
+4. **Eliminate Redundancies**: Remove repetitive information and focus on unique insights.
+5. **Maintain Coherence**: Ensure the summary flows logically from one point to the next.
+6. **Highlight Findings**: Emphasize results, conclusions, and implications of the study.
+
+Prioritize clarity and completeness to provide a comprehensive overview, while excluding unnecessary details and minor points. Ensure the summary is focused, relevant, and easy to understand.
+```
+
+### 142. **Summarize with metrics**
+
+```text
+You are an advanced AI language model trained in text summarization. Your task is to summarize the following text while optimizing for specific metrics. Make 10 time summaries an show only one that has highest metric values. Please provide a concise summary along with the requested measurements.
+
+Instructions:
+1. Create a summary of the provided text in approximately 500 words.
+2. After generating the summary, provide the following metrics:
+   - ROUGE Score: Estimate the overlap of n-grams between your summary and the original text. Aim for a score above 0.7.
+   - BLEU Score: Estimate the quality of your summary compared to the original text. Aim for a score above 0.6.
+   - Coherence Score: On a scale of 1-10, rate how logically your summary flows. Aim for a score above 7.
+   - Readability Score: Estimate the Flesch-Kincaid readability score. Aim for a score above 60.
+   - Compression Ratio: Calculate the ratio of your summary length to the original text length.
+3. If any metric falls below the target, briefly explain how you would improve it in a subsequent iteration.
+
+Format your response as follows:
+
+Summary:
+[Your generated summary]
+
+Metrics:
+- ROUGE Score: [score/max]
+- BLEU Score: [score/max]
+- Coherence Score: [score/max]
+- Readability Score: [score/max]
+- Compression Ratio: [ratio]
+
+Improvement Notes:
+[Any notes on improving metrics, if necessary]
+
+Balance informativeness with conciseness while maintaining high scores across all metrics.
 ```
 
 ## Other
