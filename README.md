@@ -3469,3 +3469,4 @@ Balance informativeness with conciseness while maintaining high scores across al
 49. [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 50. [26 prompting tricks to improve LLMs](https://www.superannotate.com/blog/llm-prompting-tricks#:~:text=26%20prompting%20techniques%201%201.%20No%20need%20to,examples%208%208.%20Format%20your%20prompt%20Wi%C4%99cej%20pozycji)
 51. [Best Prompt Techniques for Best LLM Responses](https://medium.com/the-modern-scientist/best-prompt-techniques-for-best-llm-responses-24d2ff4f6bca)
+52. [AI AUTOMATION AGENT FOR CHROME](https://harpa.ai/)
