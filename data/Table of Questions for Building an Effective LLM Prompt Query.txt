@@ -1,0 +1,12 @@
+**Table of Questions for Building an Effective LLM Prompt Query**
+
+| **Question**                                                                 | **Description**                                                                                           |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **1. What is the main goal or purpose of the prompt?**                       | Define the primary objective, such as generating creative writing, solving a coding problem, etc.         |
+| **2. What specific details or context should be included in the prompt?**    | Include background information, specific constraints, or desired style/tone.                              |
+| **3. Who is the intended audience for the prompt?**                          | Specify whether the audience is the general public, experts, students, etc.                               |
+| **4. What format or structure should the response take?**                    | Indicate if the response should be a list, narrative, step-by-step guide, etc.                            |
+| **5. Are there any specific keywords or phrases that should be included or avoided?** | Mention any keywords or phrases to include or avoid to align with your needs.                             |
+| **6. Do you have any examples of similar prompts or responses?**             | Provide examples of effective or ineffective prompts/responses for reference.                             |
+| **7. What is the desired length or depth of the response?**                  | Specify if the response should be a brief summary, detailed explanation, or somewhere in between.         |
+
