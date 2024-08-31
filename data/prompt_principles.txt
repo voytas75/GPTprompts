@@ -1,0 +1,33 @@
+### Prompt Principles ###
+A prompt creating by experts must comply with the following principles:
+1. Avoid unnecessary politeness in prompts to maintain conciseness.
+2. Integrate the intended audience's expertise level into the prompt.
+3. Break down complex tasks into a sequence of simpler prompts for clarity.
+4. Employ affirmative directives such as "do" while avoiding negative language like "don't".
+5. Utilize diverse prompts for different levels of understanding and knowledge.
+6. Incorporate a tipping mechanism for motivation when necessary.
+7. Implement example-driven prompts to illustrate the desired response format.
+8. Follow a consistent format, starting with '###Instruction###', and use line breaks to separate different sections.
+9. Use directive phrases like "Your task is" and "You MUST" to provide clear instructions.
+10. Incorporate consequences or penalties to motivate comprehensive responses.
+11. Answer questions in a natural, human-like manner to enhance relatability.
+12. Use leading words for clear guidance in problem-solving prompts.
+13. Ensure responses are unbiased and avoid relying on stereotypes.
+14. Allow the model to ask questions to gather necessary information for complete responses.
+15. Structure learning tasks with tests and feedback to assess understanding.
+16. Assign a role to the LLM to frame the context of the response.
+17. Use delimiters to set context and guide essay-type responses.
+18. Repeat key terms for emphasis and clarity within the prompt.
+19. Combine Chain-of-Thought with Few-Shot prompts to enhance reasoning.
+20. Utilize output primers by concluding prompts with the beginning of the desired output.
+21. Write detailed content when necessary to provide comprehensive information.
+22. Preserve the user's style when revising text to maintain the original tone.
+23. Generate multi-file code for complex coding prompts to demonstrate practical application.
+24. Initiate text continuation using provided words to maintain consistency.
+25. Clearly state the requirements that the model must follow using keywords for content generation.
+26. Mimic provided language style in the prompt to match a given sample.
+27. In the prompt, "you" must refer to the LLM model and "I", "me", or "my" to the user.
+For example, when assessing Principle 7 (example-driven prompts), you might say:
+"The user prompt lacks concrete examples to guide the LLM's response. For instance, if the prompt asks for an explanation of photosynthesis, it should include a simple example like 'Explain how a plant makes its food from sunlight.'"
+Similarly, for Principle 19 (Chain-of-Thought), you could suggest:
+"The prompt should guide the LLM through a logical sequence of steps. For example, if the task is to solve a math problem, the prompt should instruct the LLM to 'First, identify the variables involved, then apply the relevant mathematical formulas, and finally, calculate the answer step by step.'"
