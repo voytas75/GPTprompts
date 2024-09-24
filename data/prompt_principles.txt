@@ -27,6 +27,7 @@ A prompt creating by experts must comply with the following principles:
 25. Clearly state the requirements that the model must follow using keywords for content generation.
 26. Mimic provided language style in the prompt to match a given sample.
 27. In the prompt, "you" must refer to the LLM model and "I", "me", or "my" to the user.
+
 For example, when assessing Principle 7 (example-driven prompts), you might say:
 "The user prompt lacks concrete examples to guide the LLM's response. For instance, if the prompt asks for an explanation of photosynthesis, it should include a simple example like 'Explain how a plant makes its food from sunlight.'"
 Similarly, for Principle 19 (Chain-of-Thought), you could suggest:
