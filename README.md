@@ -3568,7 +3568,7 @@ Balance informativeness with conciseness while maintaining high scores across al
 1. [6 Useful AI Tools](https://www.instagram.com/reel/CoFh1jLqq8I/)
 2. [Prompt Tools](https://www.instagram.com/reel/CqOCKsDMNa5/)
 3. [Learn Prompting](https://learnprompting.org/)
-4. [110 Best ChatGPT Prompts](https://beebom.com/best-chatgpt-prompts/amp/)
+4. [150+ Best ChatGPT Prompts for All Kinds of Workflow](https://beebom.com/best-chatgpt-prompts/amp/)
 5. [120 Best ChatGPT Prompts for Every Type of Work](https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/)
 6. [100 Best ChatGPT Prompts to Unleash AI’s Potential](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
 7. [215+ ChatGPT Prompts You Can’t Miss to Try Out in 2023](https://writesonic.com/blog/chatgpt-prompts/)
