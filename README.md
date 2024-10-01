@@ -6,6 +6,146 @@
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
 
+## Chain-of-Thought (CoT) Prompting
+
+1. **Step-by-Step Instructions**:
+
+    ```text
+    First, identify the key variables. Next, analyze their relationships. Finally, predict the outcome.
+    ```
+
+    ```text
+    Break down the problem into smaller steps and solve each one.
+    ```
+
+2. **Explicit Reasoning**:
+
+    ```text
+    Explain your reasoning step-by-step.
+    ```
+
+    ```text
+    Describe how you arrived at this conclusion.
+    ```
+
+3. **Intermediate Steps**:
+
+    ```text
+    List the steps needed to solve this problem before giving the final answer.
+    ```
+
+    ```text
+    What are the intermediate steps to reach the solution?
+    ```
+
+4. **Clarifying Questions**:
+
+    ```text
+    Can you provide more details on why this solution works?
+    ```
+
+    ```text
+    What assumptions are you making in this reasoning?
+    ```
+
+5. **Contextual Prompts**:
+
+    ```text
+    Given the historical data, predict the future trend.
+    ```
+
+    ```text
+    Based on the provided information, what is the next logical step?
+    ```
+
+## Few-Shot Prompting
+
+1. **Examples**:
+
+    ```text
+    Here are some examples of similar problems and their solutions. Use these to solve the new problem.
+    ```
+
+    ```text
+    Given these examples, how would you approach this new task?
+    ```
+
+2. **Analogies**:
+
+    ```text
+    This problem is similar to [example]. How would you solve it using the same approach?
+    ```
+
+    ```text
+    Think of this situation like [analogy]. What would be the next step?
+    ```
+
+## Self-Consistency
+
+1. **Multiple Solutions**:
+
+    ```text
+    Generate multiple solutions and choose the most consistent one.
+    ```
+
+    ```text
+    Provide different approaches to solve this problem and compare them.
+    ```
+
+2. **Verification**:
+
+    ```text
+    Verify the solution by checking each step.
+    ```
+
+    ```text
+    Cross-check the final answer with the initial conditions.
+    ```
+
+## Meta Prompting
+
+1. **Reflective Prompts**:
+
+    ```text
+    Reflect on the steps taken and identify any potential errors.
+    ```
+
+    ```text
+    What could be improved in the reasoning process?
+    ```
+
+2. **Self-Questioning**:
+
+    ```text
+    Ask yourself if the solution makes sense.
+    ```
+
+    ```text
+    What questions would you ask to verify this solution?
+    ```
+
+## Retrieval-Augmented Generation
+
+1. **Information Retrieval**:
+
+    ```text
+    Retrieve relevant information from the provided data before solving the problem.
+    ```
+
+    ```text
+    Use the given resources to gather necessary details.
+    ```
+
+2. **Contextual Integration**:
+
+    ```text
+    Integrate the retrieved information into your reasoning.
+    ```
+
+    ```text
+    How does the additional data influence your solution?
+    ```
+
 ## Prompt's classification (new)
 
 1. Arts and Humanities:
