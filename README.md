@@ -3565,13 +3565,13 @@ Balance informativeness with conciseness while maintaining high scores across al
 
 ## Useful Links
 
-1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
-2. Prompt tools <https://www.instagram.com/reel/CqOCKsDMNa5/>
-3. Learn prompting <https://learnprompting.org/>
-4. 110 best chatGPT prompts <https://beebom.com/best-chatgpt-prompts/amp/>
-5. 120 Best ChatGPT Prompts For Every Type Of Work <https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/>
-6. 100 Best ChatGPT Prompts to Unleash AI’s Potential <https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/>
-7. 215+ ChatGPT prompts you can’t miss to try out in 2023 <https://writesonic.com/blog/chatgpt-prompts/>
+1. [6 Useful AI Tools](https://www.instagram.com/reel/CoFh1jLqq8I/)
+2. [Prompt Tools](https://www.instagram.com/reel/CqOCKsDMNa5/)
+3. [Learn Prompting](https://learnprompting.org/)
+4. [110 Best ChatGPT Prompts](https://beebom.com/best-chatgpt-prompts/amp/)
+5. [120 Best ChatGPT Prompts for Every Type of Work](https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/)
+6. [100 Best ChatGPT Prompts to Unleash AI’s Potential](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
+7. [215+ ChatGPT Prompts You Can’t Miss to Try Out in 2023](https://writesonic.com/blog/chatgpt-prompts/)
 8. <https://www.instagram.com/p/Crgob97JRqk/>
 9. <https://www.instagram.com/p/CriGOz3oWAA/>
 10. Search Chat <https://flowgpt.com/>
