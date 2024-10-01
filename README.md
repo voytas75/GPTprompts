@@ -6,6 +6,13 @@
 
 > Welcome to our site, where GPT prompts are just the beginning of the journey. Remember, just as there are countless individuals around us with their own unique stories to tell, there are infinite possibilities for exploration and discovery here. Let's embark on this journey together, with curiosity and an open mind.
 
+## Table of Contents
+
+1. [Chain-of-Thought (CoT) Prompting](#chain-of-thought-cot-prompting)
+2. [Prompt's Classification (New)](#prompts-classification-new)
+3. [Prompts](#prompts)
+4. [Useful Links](#useful-links)
+
 ## Chain-of-Thought (CoT) Prompting
 
 1. **Step-by-Step Instructions**:
@@ -3556,7 +3563,7 @@ Improvement Notes:
 Balance informativeness with conciseness while maintaining high scores across all metrics.
 ```
 
-## Other
+## Useful Links
 
 1. 6 useful AI tools <https://www.instagram.com/reel/CoFh1jLqq8I/>
 2. Prompt tools <https://www.instagram.com/reel/CqOCKsDMNa5/>
