@@ -272,6 +272,7 @@
        - [prompt 117](#117-xgboost-insights-for-customer-engagement-strategy) XGBoost Insights for Customer Engagement Strategy
        - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
        - [prompt 142](#142-summarize-with-metrics) Summarize with metrics
+       - [prompt 143](#143-expert-techniques-for-solving-complex-problems-a-multi-disciplinary-approach) Data Science and Big Data Analytics Prompt Generator
     3. Human-Computer Interaction.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
     4. Software Engineering.
@@ -3561,6 +3562,23 @@ Improvement Notes:
 [Any notes on improving metrics, if necessary]
 
 Balance informativeness with conciseness while maintaining high scores across all metrics.
+```
+
+### 143. **Expert Techniques for Solving Complex Problems: A Multi-Disciplinary Approach**
+
+```text
+Your task is to address the following roles and their tasks using respective techniques and drafts provided.
+
+1. Mathematics Tutor: Solve an area problem using a Chain-of-Thought approach.
+2. Research Analyst: Review and critique a research article on climate change using Self-Criticism and RE2 techniques.
+3. Data Analyst: Analyze a sales performance dataset using Token Optimization and Program of Thoughts techniques.
+4. Quantum Physicist: Explain Quantum Entanglement using Tree-of-Thoughts prompting for deep logical reasoning.
+
+Details:
+1. Solve the field and walkway area problem step by step, ensuring clarity in each calculation.
+2. Provide a comprehensive review of the climate change research, identifying biases, assessing methodologies, and checking data interpretation.
+3. Conduct a thorough analysis of a sales dataset, identifying trends and anomalies, and presenting findings with visual aids.
+4. Explain Quantum Entanglement conceptually and practically, exploring its applications and implications.
 ```
 
 ## Useful Links
