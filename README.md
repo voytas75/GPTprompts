@@ -3735,3 +3735,5 @@ Transform a 30-page medical research report on AI-assisted diagnosis into an exe
 56. [Effective Prompting Techniques for Large Language Models](https://trypromptly.com/u/promptly_knowledge/prompting-techniques-llms-9EPgTI)
 57. [The Ultimate Guide to Prompt Engineering - Techniques ... - XGrid.co](https://www.xgrid.co/resources/guide-to-prompt-engineering/)
 58. [Advanced Prompt Engineering - Practical Examples - TensorOps](https://www.tensorops.ai/post/prompt-engineering-techniques-practical-guide)
+59. [Build a LangChain agentic RAG system using Granite-3.0-8B-Instruct in watsonx.ai](https://www.ibm.com/think/tutorials/agentic-rag)
+60. [Langchain RAG : From Basics to Production-Ready RAG Chatbot](https://blog.futuresmart.ai/langchain-rag-from-basics-to-production-ready-rag-chatbot)
