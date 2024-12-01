@@ -263,6 +263,7 @@
        - [prompt 135](#135-mathematical-reasoning-model-evaluator-mrme) Mathematical Reasoning Model Evaluator (MRME)
        - [prompt 140](#140-prompt-improver) Prompt improver
        - [prompt 142](#142-summarize-with-metrics) Summarize with metrics
+       - [prompt 147](#147-narrative-causality-analysis) Narrative Causality analysis
     2. Data Science and Big Data Analytics.
        - [prompt 62](#62-adaptive-interactive-logic-prompt-ailp) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](#63-keyphrase-expansion-clustering-assistant) Keyphrase Expansion Clustering Assistant
@@ -3702,6 +3703,25 @@ Proof:
 
 Ask user for theorem.
 ````
+
+### 147. **Narrative Causality Analysis**
+
+```text
+###Instruction###
+Your task is to analyze a narrative for causal relationships, reconstructing cause-and-effect pairs, and generating a causal graph. Evaluate the LLM's understanding of non-linear storytelling and validate causal links independently of narrative order. Identify common causality errors related to chronological reliance.
+
+###Context###
+The narrative may include complex sequences, flashbacks, or non-sequential events.
+
+###Expected Output###
+A comprehensive report including a list of cause-and-effect pairs, a causal graph, an analysis of LLM performance, and identified causality errors.
+
+###Constraints###
+Avoid assumptions beyond the given narrative, ensure clarity in causal links, and focus on diverse narrative examples.
+
+###Audience###
+Researchers, NLP experts, data analysts, and educators.
+```
 
 ## Useful Links
 
