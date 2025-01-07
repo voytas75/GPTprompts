@@ -3786,3 +3786,5 @@ Researchers, NLP experts, data analysts, and educators.
 59. [Build a LangChain agentic RAG system using Granite-3.0-8B-Instruct in watsonx.ai](https://www.ibm.com/think/tutorials/agentic-rag)
 60. [Langchain RAG : From Basics to Production-Ready RAG Chatbot](https://blog.futuresmart.ai/langchain-rag-from-basics-to-production-ready-rag-chatbot)
 61. [AI Stack](https://reymondin.notion.site/144643c1f67680a1ad7dde9416d9fc9b?v=9cfd6789c44e41e3baa2cdf3c6ddbd6e)
+62. [building effective agents](https://www.anthropic.com/research/building-effective-agents)
+
