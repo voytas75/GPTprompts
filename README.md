@@ -652,6 +652,7 @@
     - [Prompt 34](#34-god-of-prompts---chatgpt-prompt-generator): God of prompts - chatGPT prompt generator
     - [Prompt 37](#37-crafting-an-effective-nlp-prompt): Crafting prompt
     - [Prompt 55](#55-promptperfector): PromptPerfector
+    - [Prompt 149](#149-self-guided-exploration) Prompt-and-Answer - Self-Guided Exploration
 
 16. **Classification**
     - [Prompt 36](#36-classification): Prompt classificator
@@ -3729,6 +3730,14 @@ Researchers, NLP experts, data analysts, and educators.
 ```text
 Reflect on 5-7 different possible sources of the problem, distill those down to 1-2 most likely sources, and then add logs to validate your assumptions before we move onto implementing the actual code fix.
 ```
+
+### 149. **Self-Guided Exploration**
+
+```text
+Write a prompt for {topic} then answer it
+```
+
+<https://x.com/elder_plinius/status/1905655073541161333>
 
 ## Useful Links
 
