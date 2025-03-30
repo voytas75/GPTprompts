@@ -295,6 +295,7 @@
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
        - [prompt 136](#136-code-analyzer---powershell) Code Analyzer - Powershell
        - [prompt 137](#137-code-functional-report) Code functional Report
+       - [prompt 148](#148-systematic-debugging) Systematic Debugging: Identifying Root Causes Through Reflective Analysis and Targeted Logging
     5. Computer Systems and Networks.
        - [prompt 53](#53-powershell-script-analysis-and-commenting-guidelines) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
@@ -3721,6 +3722,12 @@ Avoid assumptions beyond the given narrative, ensure clarity in causal links, an
 
 ###Audience###
 Researchers, NLP experts, data analysts, and educators.
+```
+
+### 148. **Systematic Debugging**
+
+```text
+Reflect on 5-7 different possible sources of the problem, distill those down to 1-2 most likely sources, and then add logs to validate your assumptions before we move onto implementing the actual code fix.
 ```
 
 ## Useful Links
