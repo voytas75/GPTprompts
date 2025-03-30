@@ -9,9 +9,10 @@
 ## Table of Contents
 
 1. [Chain-of-Thought (CoT) Prompting](#chain-of-thought-cot-prompting)
-2. [Prompt's Classification (New)](#prompts-classification-new)
-3. [Prompts](#prompts)
-4. [Useful Links](#useful-links)
+2. [Line-of-Thought (LoT) Prompting](#line-of-thought-lot-prompting)
+3. [Prompt's Classification (New)](#prompts-classification-new)
+4. [Prompts](#prompts)
+5. [Useful Links](#useful-links)
 
 ## Chain-of-Thought (CoT) Prompting
 
@@ -64,6 +65,50 @@
     ```text
     Based on the provided information, what is the next logical step?
     ```
+
+## Line-of-Thought (LoT) Prompting
+
+1. **Identify Key Events:**:
+
+   ```text
+   List all significant events explicitly mentioned in the narrative, regardless of their chronological order.
+   ```
+   
+2. **Extract Potential Causal Links:**:
+
+   ```text
+   For each event, explicitly state possible causes and effects based solely on narrative evidence.
+   ```
+
+3. **Evaluate Evidence Strength:**:
+
+   ```text
+   Assign a confidence level (high, medium, low) to each identified causal link based on textual support.
+   ```
+
+4. **Construct Preliminary Causal Graph:**:
+
+   ```text
+   Represent identified causal relationships visually, clearly indicating the directionality and confidence levels.
+   ```
+
+5. **Review for Chronological Bias:**:
+
+   ```text
+   Critically assess whether identified causal links rely incorrectly on narrative sequence rather than logical causation.
+   ```
+
+6. **Refine and Validate Graph:**:
+
+   ```text
+   Adjust the causal graph to remove chronological biases, ensuring causal relationships are logically sound and narrative-independent.
+   ```
+
+7. **Summarize Findings:**:
+
+   ```text
+   Provide a concise summary highlighting robust causal relationships, identified biases, and areas requiring further narrative clarification.
+   ```
 
 ## Few-Shot Prompting
 
