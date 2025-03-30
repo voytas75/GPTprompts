@@ -207,7 +207,7 @@
       - [prompt 90](#90-craft-your-thesis-ai-assistant-for-argumentative-essay-writing) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
       - [prompt 93](#93-unpacking-the-layers-transforming-statements-into-insightful-questions-and-answers) Unpacking the Layers: Transforming Statements into Insightful Questions and Answers
       - [prompt 100](#100-guiding-the-user-crafting-clear-and-contextual-instructions) Guiding the User: Crafting Clear and Contextual Instructions
-      - [prompt 118](#118-genre-adaptive-narrative-direction)
+      - [prompt 118](#118-genre-adaptive-narrative-direction) Genre-Adaptive Narrative Direction
    2. Other Specialized Areas in Arts and Humanities.
       - [prompt 114](#114-cross-domain-ai-resilient-test-analysis) Cross-Domain AI-Resilient Test Analysis
 2. Biological Sciences.
@@ -228,10 +228,10 @@
     5. Human Resources and Organizational Behavior.
        - [prompt 59](#59-refund-request) Refund request
        - [prompt 101](#101-understanding-your-needs-clarifying-refund-requests-effectively) Understanding Your Needs: Clarifying Refund Requests Effectively
-       - [prompt 121](#121-organizational-knowledge-management-analysis)
+       - [prompt 121](#121-organizational-knowledge-management-analysis) Organizational Knowledge Management Analysis
     6. Operations Management.
        - [prompt 106](#106-optimization-algorithm-simulation) Optimization Algorithm Simulation
-       - [prompt 121](#121-organizational-knowledge-management-analysis)
+       - [prompt 121](#121-organizational-knowledge-management-analysis) Organizational Knowledge Management Analysis
     7. Business Strategy and Competitive Analysis.
        - [prompt 105](#105-expert-panel-synthesis-with-authority-regularization) Expert Panel Synthesis with Authority Regularization
        - [prompt 127](#127-ascending-auction-analysis-and-application) Ascending Auction Analysis and Application
@@ -239,7 +239,7 @@
     8. Accounting and Auditing.
     9. Business Ethics and Corporate Social Responsibility.
        - [prompt 59](#59-refund-request) Refund request
-       - [prompt 121](#121-organizational-knowledge-management-analysis)
+       - [prompt 121](#121-organizational-knowledge-management-analysis) Organizational Knowledge Management Analysis
     10. Real Estate and Property Management.
     11. Supply Chain Management.
     12. Economics Theory and Application.
@@ -262,7 +262,7 @@
     20. Innovation and Technology Management.
         - [prompt 86](#86-dorm-room-revolution-design-products-to-empower-college-students) Dorm Room Revolution: Design Products to Empower College Students
         - [prompt 116](#116-crafting-conversion-driven-marketing-copy) Crafting Conversion-Driven Marketing Copy
-        - [prompt 121](#121-organizational-knowledge-management-analysis)
+        - [prompt 121](#121-organizational-knowledge-management-analysis) Organizational Knowledge Management Analysis
     21. Other Specialized Areas in Business and Economics.
 4. Chemistry.
    - [prompt 92](#92-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
