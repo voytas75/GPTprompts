@@ -615,7 +615,7 @@
        - [prompt 123](#123-vector-field-analysis-and-cyclone-tracking) Vector Field Analysis and Cyclone Tracking
        - [prompt 139](#139-simple-prompt-creator) Simple prompt creator
     8. Other Specialized Templates or Frameworks.
-       - [prompt 150](#150-topic-transforming) Topic transforming
+       - [prompt 150](#150-topic-transforming) Topic transforming.
 27. Other.
     - [prompt 19](#19-luna) Luna
     - [prompt 22](#22-stoned-surfer-bro) Stoned surfer bro
