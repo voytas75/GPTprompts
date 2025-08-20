@@ -8,13 +8,24 @@
 
 ## Table of Contents
 
-1. [Chain-of-Thought (CoT) Prompting](#chain-of-thought-cot-prompting)
-2. [Line-of-Thought (LoT) Prompting](#line-of-thought-lot-prompting)
-3. [Prompt's Classification (New)](#prompts-classification-new)
-4. [Prompts](#prompts)
-5. [Useful Links](#useful-links)
+1. [GPT-5 prompt optimizer tool](#1-gpt-5-prompt-optimizer-tool)
+2. [Chain-of-Thought (CoT) Prompting](#2-chain-of-thought-cot-prompting)
+3. [Line-of-Thought (LoT) Prompting](#3-line-of-thought-lot-prompting)
+4. [Few-Shot Prompting](#4-few-shot-prompting)
+5. [Self-Consistency](#5-self-consistency)
+6. [Meta Prompting](#6-meta-prompting)
+7. [Retrieval-Augmented Generation](#7-retrieval-augmented-generation)
+8. [Prompt's classification (new)](#8-prompts-classification-new)
+9. [Prompts](#9-prompts)
+10. [Useful Links](#10-useful-links)
 
-## Chain-of-Thought (CoT) Prompting
+---
+
+## 1. GPT-5 prompt optimizer tool
+
+[...prompt optimizer tool we’ve built, will serve as a launchpad for your use of GPT-5...](https://platform.openai.com/chat/edit?optimize=true)
+
+## 2. Chain-of-Thought (CoT) Prompting
 
 1. **Step-by-Step Instructions**:
 
@@ -66,7 +77,7 @@
     Based on the provided information, what is the next logical step?
     ```
 
-## Line-of-Thought (LoT) Prompting
+## 3. Line-of-Thought (LoT) Prompting
 
 1. **Identify Key Events:**:
 
@@ -110,7 +121,7 @@
    Provide a concise summary highlighting robust causal relationships, identified biases, and areas requiring further narrative clarification.
    ```
 
-## Few-Shot Prompting
+## 4. Few-Shot Prompting
 
 1. **Examples**:
 
@@ -132,7 +143,7 @@
     Think of this situation like [analogy]. What would be the next step?
     ```
 
-## Self-Consistency
+## 5. Self-Consistency
 
 1. **Multiple Solutions**:
 
@@ -154,7 +165,7 @@
     Cross-check the final answer with the initial conditions.
     ```
 
-## Meta Prompting
+## 6. Meta Prompting
 
 1. **Reflective Prompts**:
 
@@ -176,7 +187,7 @@
     What questions would you ask to verify this solution?
     ```
 
-## Retrieval-Augmented Generation
+## 7. Retrieval-Augmented Generation
 
 1. **Information Retrieval**:
 
@@ -198,7 +209,7 @@
     How does the additional data influence your solution?
     ```
 
-## Prompt's classification (new)
+## 8. Prompt's classification (new)
 
 1. Arts and Humanities:
    1. Creative Writing and Narrative Composition.
@@ -709,7 +720,7 @@
 
 These prompts cover a wide range of tasks, from content creation to code generation, role-playing, and specific programming-related questions. Each prompt serves a different purpose, catering to various user needs.
 
-## Prompts
+## 9. Prompts
 
 ### 1. **Keywords for topic**
 
@@ -3934,7 +3945,7 @@ C. Super Rapid-Fire Mode
 Optional: Apply High-Tension, Philosophical, Data-Hinted, or Recursive Mode as needed.”
 ```
 
-## Useful Links
+## 10. Useful Links
 
 1. [6 Useful AI Tools](https://www.instagram.com/reel/CoFh1jLqq8I/)
 2. [Prompt Tools](https://www.instagram.com/reel/CqOCKsDMNa5/)
@@ -3999,3 +4010,20 @@ Optional: Apply High-Tension, Philosophical, Data-Hinted, or Recursive Mode as n
 61. [AI Stack](https://reymondin.notion.site/144643c1f67680a1ad7dde9416d9fc9b?v=9cfd6789c44e41e3baa2cdf3c6ddbd6e)
 62. [building effective agents](https://www.anthropic.com/research/building-effective-agents)
 63. [Cursor AI Prompts](https://ai-cursor.com/prompts/)
+64. [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) – *OpenAI Help Center*  Official OpenAI documentation with practical guidelines (e.g., clear instructions, delimiters, structured outputs). Authoritative and concise.
+65. [Prompt engineering best practices for ChatGPT](https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt) – *OpenAI Help Center* Focused on ChatGPT users. Covers clarity, context, and iterative prompt refinement. Accessible and broadly applicable.
+66. [Prompt engineering overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) – *Anthropic Documentation*  Explains why prompt design is faster/cheaper than finetuning. Offers a structured approach with testing and evaluation.
+67. [Prompt Engineering Best Practices: Tips, Tricks, and Tools](https://www.digitalocean.com/resources/articles/prompt-engineering-best-practices) – *DigitalOcean Blog*  
+   Lists 10 best practices with examples (specificity, examples, output structure). Practical and beginner-friendly.
+68. [15 Tips to Become a Better Prompt Engineer for Generative AI](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/15-tips-to-become-a-better-prompt-engineer-for-generative-ai/3882935) – *Microsoft Azure AI Foundry Blog*  
+   Developer-oriented tips (clarity, examples, roles, refinement). Strong focus on practical application.
+69. [7 Different Prompting Techniques](https://iq.opengenus.org/different-prompting-techniques/) – *OpenGenus IQ*  
+   Covers zero-shot, few-shot, chain-of-thought, RAG, and more. Serves as a broad reference with clear examples.
+70. [10 Essential Prompt Engineering Best Practices (With Examples)](https://www.promptjesus.com/blog/10-essential-prompt-engineering-best-practices) – *PromptJesus Blog*  
+   Model-agnostic guide with concrete before/after examples. Covers clarity, context, roles, iterative refinement.
+71. [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering) – *Microsoft Docs*  
+   Systematic explanation of prompt components and best practices. Official technical resource, updated 2025.
+72. [Prompting Capabilities](https://docs.mistral.ai/guides/prompting_capabilities/) – *Mistral AI Documentation*  
+   Demonstrates use-cases (classification, summarization, personalization). Includes few-shot, delimiters, role-playing.
+73. [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) – *LearnPrompting.org*  
+   Free, comprehensive tutorial from fundamentals to advanced tactics. Widely cited by industry (Google, Microsoft, O’Reilly).
