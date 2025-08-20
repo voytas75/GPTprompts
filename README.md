@@ -3933,8 +3933,8 @@ C. Super Rapid-Fire Mode
 * High-Tension Mode → amplify mystery with strong language.
 * Philosophical Mode → add human perception, free will, systemic influence.
 * Data-Hinted Mode → cite real phenomena (dates, discoveries, anomalies) but keep unresolved.
-* Recursive Mode → after generating outputs, select the most compelling sub-question and restart the flow 
-with it as the new {main_question}, iterating until depth is reached.
+* Recursive Mode → after generating outputs, select the most compelling sub-question and restart 
+the flow with it as the new {main_question}, iterating until depth is reached.
 
 6. Prompt Template
 
