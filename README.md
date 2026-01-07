@@ -505,6 +505,17 @@
          - [prompt 99](prompt/099-crafting-solutions-a-user-centric-approach-to-problem-solving.md) Crafting Solutions: A User-Centric Approach to Problem-Solving
          - [prompt 113](prompt/113-adversarial-robustness-evaluation-prompt.md) Adversarial Robustness Evaluation Prompt
    4. Teaching Methods and Pedagogy.
+         - [prompt 156](prompt/156-master-educator-mental-model-selection.md) Master Educator: Mental Model Selection
+         - [prompt 157](prompt/157-misconceptions-map-and-refute.md) Misconceptions: Map and Refute
+         - [prompt 158](prompt/158-personalized-learning-roadmap-three-paths.md) Personalized Learning Roadmap (Three Paths)
+         - [prompt 159](prompt/159-pareto-mastering-topic.md) Pareto Mastery Plan (80/20)
+         - [prompt 160](prompt/160-compare-concepts-with-venn.md) Compare Two Concepts (Frameworks + Venn)
+         - [prompt 161](prompt/161-prerequisite-gap-diagnosis.md) Prerequisite Gap Diagnosis (Backward Chaining)
+         - [prompt 162](prompt/162-teach-by-negative-space.md) Teach by Negative Space (“What It’s Not”)
+         - [prompt 163](prompt/163-create-and-evaluate-analogies.md) Create and Evaluate Analogies
+         - [prompt 164](prompt/164-expert-perspectives-probing-questions.md) Expert Perspectives: Probing Questions
+         - [prompt 165](prompt/165-simplify-for-8th-grader-choose-style.md) Simplify for an 8th Grader (Choose a Style)
+         - [prompt 166](prompt/166-pareto-resource-curator.md) Pareto Resource Curator (80% Understanding Fast)
    5. Assessment and Evaluation in Education.
    6. Special Education and Inclusive Practices.
    7. Higher Education Administration and Policy.
