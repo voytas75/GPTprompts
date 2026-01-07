@@ -230,6 +230,7 @@
     1. Marketing and Advertising.
        - [prompt 116](prompt/116-crafting-conversion-driven-marketing-copy.md) Crafting Conversion-Driven Marketing Copy
        - [prompt 117](prompt/117-xgboost-insights-for-customer-engagement-strategy.md) XGBoost Insights for Customer Engagement Strategy
+       - [prompt 155](prompt/155-change-communication-pack-release-notes-rollout-support-playbook.md) Change Communication Pack: Release Notes, Rollout Plan, and Support Playbook
     2. Finance and Financial Management.
        - [prompt 18](prompt/018-personal-financial-advisor.md) Personal financial advisor
        - [prompt 126](prompt/126-stochastic-decision-forests-insight.md) Stochastic Decision Forests Insight
@@ -357,6 +358,7 @@
        - [prompt 137](prompt/137-code-functional-report.md) Code functional Report
        - [prompt 148](prompt/148-systematic-debugging.md) Systematic Debugging: Identifying Root Causes Through Reflective Analysis and Targeted Logging
        - [prompt 153](prompt/153-intent-driven-specs-alignment-response-generator.md) Intent-Driven Specs & Alignment Response Generator
+       - [prompt 155](prompt/155-change-communication-pack-release-notes-rollout-support-playbook.md) Change Communication Pack: Release Notes, Rollout Plan, and Support Playbook
     5. Computer Systems and Networks.
        - [prompt 53](prompt/053-powershell-script-analysis-and-commenting-guidelines.md) PowerShell Script Analysis and Commenting Guidelines
     6. Cybersecurity and Information Assurance.
