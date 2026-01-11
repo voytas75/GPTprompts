@@ -243,6 +243,7 @@
        - [prompt 59](prompt/059-refund-request.md) Refund request
        - [prompt 101](prompt/101-understanding-your-needs-clarifying-refund-requests-effectively.md) Understanding Your Needs: Clarifying Refund Requests Effectively
        - [prompt 121](prompt/121-organizational-knowledge-management-analysis.md) Organizational Knowledge Management Analysis
+       - [prompt 167](prompt/167-evergreen-knowledge-module.md) Evergreen Knowledge Module (Knowledge Architect & Data Synthesizer)
     6. Operations Management.
        - [prompt 106](prompt/106-optimization-algorithm-simulation.md) Optimization Algorithm Simulation
        - [prompt 121](prompt/121-organizational-knowledge-management-analysis.md) Organizational Knowledge Management Analysis
@@ -325,6 +326,7 @@
        - [prompt 147](prompt/147-narrative-causality-analysis.md) Narrative Causality analysis
        - [prompt 152](prompt/152-multi-role-scientific-query-processor.md) SR-Agent Ensemble: Multi-Role Scientific Query Processor
        - [prompt 153](prompt/153-intent-driven-specs-alignment-response-generator.md) Intent-Driven Specs & Alignment Response Generator
+       - [prompt 167](prompt/167-evergreen-knowledge-module.md) Evergreen Knowledge Module (Knowledge Architect & Data Synthesizer)
     2. Data Science and Big Data Analytics.
        - [prompt 62](prompt/062-adaptive-interactive-logic-prompt-ailp.md) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](prompt/063-keyphrase-expansion-clustering-assistant.md) Keyphrase Expansion Clustering Assistant
