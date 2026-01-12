@@ -625,6 +625,7 @@
        - [prompt 130](prompt/130-strategic-reasoning-via-predictive-planning.md) Strategic Reasoning via Predictive Planning
        - [prompt 139](prompt/139-simple-prompt-creator.md) Simple prompt creator
        - [prompt 141](prompt/141-summariza-to-200-words.md) Summariza to 200 words
+       - [prompt 168](prompt/168-strict-self-improvement-protocol.md) Strict Self-Improvement Protocol
     2. Project Management Frameworks.
     3. Instructional Design and Educational Frameworks.
        - [prompt 109](prompt/109-adaptive-learning-assistant.md) Adaptive Learning Assistant
@@ -732,6 +733,7 @@
     - [Prompt 37](prompt/037-crafting-an-effective-nlp-prompt.md): Crafting prompt
     - [Prompt 55](prompt/055-promptperfector.md): PromptPerfector
     - [Prompt 149](prompt/149-self-guided-exploration.md) Prompt-and-Answer - Self-Guided Exploration
+    - [Prompt 168](prompt/168-strict-self-improvement-protocol.md): Strict Self-Improvement Protocol
 
 16. **Classification**
     - [Prompt 36](prompt/036-classification.md): Prompt classificator
