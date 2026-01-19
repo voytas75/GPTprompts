@@ -643,6 +643,7 @@
        - [prompt 124](prompt/124-mechanism-analysis.md) Mechanism Analysis
        - [prompt 139](prompt/139-simple-prompt-creator.md) Simple prompt creator
        - [prompt 151](prompt/151-mega-meta-prompt-curiosity-open-loop-engine.md) Curiosity Open-Loop Engine
+       - [prompt 169](prompt/169-concept-development-structured-thinking.md) Concept Development and Structured Thinking
     7. Decision-Making and Analysis Templates.
        - [prompt 108](prompt/108-co-create-spectrum-a-value-driven-brainstorming-prompt.md) Co-Create Spectrum: A Value-Driven Brainstorming Prompt
        - [prompt 109](prompt/109-adaptive-learning-assistant.md) Adaptive Learning Assistant
