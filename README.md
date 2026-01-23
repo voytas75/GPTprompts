@@ -220,6 +220,7 @@
       - [prompt 100](prompt/100-guiding-the-user-crafting-clear-and-contextual-instructions.md) Guiding the User: Crafting Clear and Contextual Instructions
       - [prompt 118](prompt/118-genre-adaptive-narrative-direction.md) Genre-Adaptive Narrative Direction
       - [prompt 151](prompt/151-mega-meta-prompt-curiosity-open-loop-engine.md) Curiosity Open-Loop Engine
+      - [prompt 171](prompt/171-humanized-writing-assistant.md) Humanized Writing Assistant
    2. Other Specialized Areas in Arts and Humanities.
       - [prompt 114](prompt/114-cross-domain-ai-resilient-test-analysis.md) Cross-Domain AI-Resilient Test Analysis
 2. Biological Sciences.
@@ -609,6 +610,7 @@
 19. Cultural and Area Studies.
 20. Linguistics and Language Studies.
     - [prompt 30](prompt/030-dyktando.md) Dyktando (polish)
+    - [prompt 171](prompt/171-humanized-writing-assistant.md) Humanized Writing Assistant
 21. Literature.
 22. Music and Performing Arts.
 23. Religion and Theology.
@@ -654,6 +656,7 @@
        - [prompt 170](prompt/170-latent-consensus-architect-v2-3.md) Latent Consensus Architect v2.3
     8. Other Specialized Templates or Frameworks.
        - [prompt 150](prompt/150-topic-transforming.md) Topic transforming.
+       - [prompt 171](prompt/171-humanized-writing-assistant.md) Humanized Writing Assistant
 27. Other.
     - [prompt 19](prompt/019-luna.md) Luna
     - [prompt 22](prompt/022-stoned-surfer-bro.md) Stoned surfer bro
