@@ -327,6 +327,7 @@
        - [prompt 152](prompt/152-multi-role-scientific-query-processor.md) SR-Agent Ensemble: Multi-Role Scientific Query Processor
        - [prompt 153](prompt/153-intent-driven-specs-alignment-response-generator.md) Intent-Driven Specs & Alignment Response Generator
        - [prompt 167](prompt/167-evergreen-knowledge-module.md) Evergreen Knowledge Module (Knowledge Architect & Data Synthesizer)
+       - [prompt 170](prompt/170-latent-consensus-architect-v2-3.md) Latent Consensus Architect v2.3
     2. Data Science and Big Data Analytics.
        - [prompt 62](prompt/062-adaptive-interactive-logic-prompt-ailp.md) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](prompt/063-keyphrase-expansion-clustering-assistant.md) Keyphrase Expansion Clustering Assistant
@@ -600,6 +601,7 @@
        - [prompt 90](prompt/090-craft-your-thesis-ai-assistant-for-argumentative-essay-writing.md) Craft Your Thesis: AI Assistant for Argumentative Essay Writing
     2. Logic and Reasoning
        - [prompt 67](prompt/067-veryfier.md) Veryfier
+       - [prompt 170](prompt/170-latent-consensus-architect-v2-3.md) Latent Consensus Architect v2.3
     3. Other Specialized Areas in Psychology and Cognitive Sciences.
        - [prompt 73](prompt/073-beyond-humanity.md) Beyond Humanity
        - [prompt 87](prompt/087-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity.md) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
@@ -649,6 +651,7 @@
        - [prompt 109](prompt/109-adaptive-learning-assistant.md) Adaptive Learning Assistant
        - [prompt 123](prompt/123-vector-field-analysis-and-cyclone-tracking.md) Vector Field Analysis and Cyclone Tracking
        - [prompt 139](prompt/139-simple-prompt-creator.md) Simple prompt creator
+       - [prompt 170](prompt/170-latent-consensus-architect-v2-3.md) Latent Consensus Architect v2.3
     8. Other Specialized Templates or Frameworks.
        - [prompt 150](prompt/150-topic-transforming.md) Topic transforming.
 27. Other.
