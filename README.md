@@ -260,6 +260,7 @@
        - [prompt 121](prompt/121-organizational-knowledge-management-analysis.md) Organizational Knowledge Management Analysis
     10. Real Estate and Property Management.
     11. Supply Chain Management.
+       - [prompt 174](prompt/174-supply-chain-planning-and-resilience-optimizer.md) Supply Chain Planning and Resilience Optimizer
     12. Economics Theory and Application.
         - [prompt 94](prompt/094-the-trade-offs-we-make-demystifying-opportunity-cost.md) The Trade-Offs We Make: Demystifying Opportunity Cost
         - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
