@@ -484,6 +484,7 @@
     22. Computer Architecture and Engineering
         - [prompt 200](prompt/200-microarchitecture-memory-hierarchy-and-coherency-fit-review.md) Microarchitecture, Memory Hierarchy, and Coherency Fit Review
     23. High-Performance Computing
+        - [prompt 201](prompt/201-parallel-decomposition-communication-and-scaling-fit-review.md) Parallel Decomposition, Communication, and Scaling Fit Review
     24. Computer Ethics and Professional Practice
         - [prompt 35](prompt/035-analyze-and-improve-parts-of-long-powershell-code.md) Analyze and improve parts of long PowerShell
         - [prompt 71](prompt/071-olmo.md) OLMo
