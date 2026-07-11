@@ -428,6 +428,7 @@
         18. Temporal, Spatial, and Multimedia Databases.
            - [prompt 192](prompt/192-temporal-spatial-and-multimedia-data-platform-fit-review.md) Temporal, Spatial, and Multimedia Data Platform Fit Review
         19. Big Data Storage and Processing.
+           - [prompt 193](prompt/193-big-data-storage-and-processing-platform-fit-review.md) Big Data Storage and Processing Platform Fit Review
         20. Data Privacy and Anonymization.
             - [prompt 131](prompt/131-privacy-conscious-oov-discovery-for-language-model-enhancement.md) Privacy-Conscious OOV Discovery for Language Model Enhancement
             - [prompt 133](prompt/133-dptraj-pm-implementation-and-analysis-guide.md) DPTraj-PM Implementation and Analysis Guide
