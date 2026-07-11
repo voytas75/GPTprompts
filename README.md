@@ -228,6 +228,7 @@
    - [prompt 114](prompt/114-cross-domain-ai-resilient-test-analysis.md) Cross-Domain AI-Resilient Test Analysis
    - [prompt 134](prompt/134-neural-model-interpretability-exploration-guide.md) Neural Model Interpretability Exploration Guide
    - [prompt 154](prompt/154-from-randomness-to-life-memory-chains-and-emergent-causation.md) From Randomness to Life: Memory Chains and Emergent Causation
+   - [prompt 220](prompt/220-experimental-biology-rigor-and-reproducibility-fit-review.md) Experimental Biology Rigor and Reproducibility Fit Review
 3. Business and Economics:
     1. Marketing and Advertising.
        - [prompt 116](prompt/116-crafting-conversion-driven-marketing-copy.md) Crafting Conversion-Driven Marketing Copy
