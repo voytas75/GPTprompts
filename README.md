@@ -406,6 +406,7 @@
         7. Database Query Languages (e.g., SQL, SPARQL).
            - [prompt 49](prompt/049-kqlsenbot.md) KQLSenBot
         8. Data Modeling and Metadata Management.
+           - [prompt 183](prompt/183-data-modeling-and-metadata-governance-review.md) Data Modeling and Metadata Governance Review
         9. Database Performance Tuning.
         10. Data Governance and Compliance.
         11. Database Scalability and High Availability.
