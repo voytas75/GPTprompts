@@ -412,6 +412,7 @@
         10. Data Governance and Compliance.
            - [prompt 185](prompt/185-data-governance-and-compliance-operating-model-review.md) Data Governance and Compliance Operating Model Review
         11. Database Scalability and High Availability.
+           - [prompt 186](prompt/186-database-scalability-and-high-availability-architecture-review.md) Database Scalability and High Availability Architecture Review
         12. In-Memory Databases.
         13. Graph Databases and Networked Data.
         14. Object-Oriented and Object-Relational Databases.
