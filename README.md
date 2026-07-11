@@ -482,6 +482,7 @@
     21. Cloud Computing and Virtualization
          - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
     22. Computer Architecture and Engineering
+        - [prompt 200](prompt/200-microarchitecture-memory-hierarchy-and-coherency-fit-review.md) Microarchitecture, Memory Hierarchy, and Coherency Fit Review
     23. High-Performance Computing
     24. Computer Ethics and Professional Practice
         - [prompt 35](prompt/035-analyze-and-improve-parts-of-long-powershell-code.md) Analyze and improve parts of long PowerShell
