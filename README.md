@@ -687,6 +687,7 @@
        - [prompt 141](prompt/141-summariza-to-200-words.md) Summariza to 200 words
        - [prompt 168](prompt/168-strict-self-improvement-protocol.md) Strict Self-Improvement Protocol
     2. Project Management Frameworks.
+       - [prompt 228](prompt/228-project-management-delivery-and-control-framework-fit-review.md) Project Management Delivery and Control Framework Fit Review
     3. Instructional Design and Educational Frameworks.
        - [prompt 109](prompt/109-adaptive-learning-assistant.md) Adaptive Learning Assistant
     4. Strategic Planning and Analysis Templates.
