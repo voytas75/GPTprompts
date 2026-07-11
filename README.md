@@ -593,6 +593,7 @@
          - [prompt 47](prompt/047-powershell-adds-course.md) Powershell ADDS course
          - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
    23. Social and Emotional Learning.
+      - [prompt 216](prompt/216-social-and-emotional-learning-fit-review.md) Social and Emotional Learning Fit Review
    24. Critical Pedagogy and Education for Social Justice.
    25. Other Specialized Areas in Education.
          - [prompt 64](prompt/064-dual-category-task-optimizer-dcto-prompt.md) Dual-Category Task Optimizer (DCTO) Prompt
