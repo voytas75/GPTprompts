@@ -280,6 +280,7 @@
     18. Taxation and Public Finance.
         - [prompt 176](prompt/176-tax-strategy-and-public-finance-impact-review.md) Tax Strategy and Public Finance Impact Review
     19. Management Information Systems.
+        - [prompt 177](prompt/177-management-information-systems-governance-and-decision-support-review.md) Management Information Systems Governance and Decision Support Review
     20. Innovation and Technology Management.
         - [prompt 86](prompt/086-dorm-room-revolution-design-products-to-empower-college-students.md) Dorm Room Revolution: Design Products to Empower College Students
         - [prompt 116](prompt/116-crafting-conversion-driven-marketing-copy.md) Crafting Conversion-Driven Marketing Copy
