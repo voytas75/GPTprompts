@@ -666,6 +666,7 @@
 21. Literature.
     - [prompt 224](prompt/224-literary-interpretation-and-close-reading-fit-review.md) Literary Interpretation and Close Reading Fit Review
 22. Music and Performing Arts.
+    - [prompt 225](prompt/225-performing-arts-programming-and-audience-development-fit-review.md) Performing Arts Programming and Audience Development Fit Review
 23. Religion and Theology.
 24. Visual Arts and Film Studies.
 25. Entertainment.
