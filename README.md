@@ -474,6 +474,7 @@
     17. Programming Languages and Compilers
         - [prompt 137](prompt/137-code-functional-report.md) Code functional Report
     18. Digital Libraries and Archives
+        - [prompt 198](prompt/198-description-discovery-and-preservation-fit-review.md) Description, Discovery, and Preservation Fit Review
     19. Multimedia Computing
     20. Mobile and Ubiquitous Computing
          - [prompt 132](prompt/132-comprehensive-collaborative-perception-dataset-analysis.md) Comprehensive Collaborative Perception Dataset Analysis
