@@ -416,6 +416,7 @@
         12. In-Memory Databases.
            - [prompt 187](prompt/187-in-memory-database-architecture-and-durability-fit-review.md) In-Memory Database Architecture and Durability Fit Review
         13. Graph Databases and Networked Data.
+           - [prompt 188](prompt/188-graph-database-and-networked-data-architecture-review.md) Graph Database and Networked Data Architecture Review
         14. Object-Oriented and Object-Relational Databases.
         15. XML and Semi-Structured Data Management.
         16. Data Integration, ETL, and Data Quality.
