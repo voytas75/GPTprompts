@@ -278,6 +278,7 @@
     17. Risk Management and Insurance.
          - [prompt 126](prompt/126-stochastic-decision-forests-insight.md) Stochastic Decision Forests Insight
     18. Taxation and Public Finance.
+        - [prompt 176](prompt/176-tax-strategy-and-public-finance-impact-review.md) Tax Strategy and Public Finance Impact Review
     19. Management Information Systems.
     20. Innovation and Technology Management.
         - [prompt 86](prompt/086-dorm-room-revolution-design-products-to-empower-college-students.md) Dorm Room Revolution: Design Products to Empower College Students
