@@ -664,6 +664,7 @@
     - [prompt 30](prompt/030-dyktando.md) Dyktando (polish)
     - [prompt 171](prompt/171-humanized-writing-assistant.md) Humanized Writing Assistant
 21. Literature.
+    - [prompt 224](prompt/224-literary-interpretation-and-close-reading-fit-review.md) Literary Interpretation and Close Reading Fit Review
 22. Music and Performing Arts.
 23. Religion and Theology.
 24. Visual Arts and Film Studies.
