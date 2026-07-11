@@ -659,6 +659,7 @@
        - [prompt 87](prompt/087-the-ai-spark-exploring-the-impact-of-ai-on-human-creativity-and-diversity.md) The AI Spark: Exploring the Impact of AI on Human Creativity and Diversity
        - [prompt 144](prompt/144-sentiment-classification-prompt-addressing-sarcasm-and-irony.md) Sentiment Classification Prompt: Addressing Sarcasm and Irony
 19. Cultural and Area Studies.
+    - [prompt 223](prompt/223-cultural-pluralism-and-intercultural-dialogue-fit-review.md) Cultural Pluralism and Intercultural Dialogue Fit Review
 20. Linguistics and Language Studies.
     - [prompt 30](prompt/030-dyktando.md) Dyktando (polish)
     - [prompt 171](prompt/171-humanized-writing-assistant.md) Humanized Writing Assistant
