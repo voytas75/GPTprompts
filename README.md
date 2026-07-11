@@ -641,6 +641,7 @@
        - [prompt 113](prompt/113-adversarial-robustness-evaluation-prompt.md) Adversarial Robustness Evaluation Prompt
        - [prompt 116](prompt/116-crafting-conversion-driven-marketing-copy.md) Crafting Conversion-Driven Marketing Copy
     2. Other Specialized Areas in Philosophy and Ethics.
+       - [prompt 221](prompt/221-neurotechnology-ethics-and-human-dignity-fit-review.md) Neurotechnology Ethics and Human Dignity Fit Review
 16. Physics.
 17. Political Science and International Relations.
     - [prompt 110](prompt/110-blockchain-efficiency-dynamic-transaction-storage-and-verkle-tree-strategies.md) Blockchain Efficiency: Dynamic Transaction Storage and Verkle Tree Strategies
