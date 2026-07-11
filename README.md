@@ -449,6 +449,7 @@
         - [prompt 122](prompt/122-robotic-recovery-plan-generation-prompt.md) Robotic Recovery Plan Generation Prompt
         - [prompt 132](prompt/132-comprehensive-collaborative-perception-dataset-analysis.md) Comprehensive Collaborative Perception Dataset Analysis
     11. Bioinformatics and Computational Biology
+        - [prompt 195](prompt/195-bioinformatics-assay-to-inference-integrity-review.md) Bioinformatics Assay-to-Inference Integrity Review
     12. Quantum Computing
         - [prompt 42](prompt/042-optimo.md) Optimo
     13. Information Systems
