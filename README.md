@@ -287,6 +287,7 @@
         - [prompt 116](prompt/116-crafting-conversion-driven-marketing-copy.md) Crafting Conversion-Driven Marketing Copy
         - [prompt 121](prompt/121-organizational-knowledge-management-analysis.md) Organizational Knowledge Management Analysis
     21. Other Specialized Areas in Business and Economics.
+        - [prompt 203](prompt/203-business-growth-productivity-and-cash-conversion-review.md) Business Growth, Productivity, and Cash Conversion Review
 4. Chemistry.
    - [prompt 92](prompt/092-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning.md) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
 5. Computer and Information Sciences:
