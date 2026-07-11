@@ -468,6 +468,7 @@
     14. Educational Technology
         - [prompt 40](prompt/040-powerpoint-gpt-assistant.md) PowerPoint GPT assistant
     15. Computer Game Design and Development
+        - [prompt 196](prompt/196-core-loop-progression-and-live-ops-fit-review.md) Core Loop, Progression, and Live-Ops Fit Review
     16. Web and Internet Computing
     17. Programming Languages and Compilers
         - [prompt 137](prompt/137-code-functional-report.md) Code functional Report
