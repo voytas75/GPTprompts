@@ -408,6 +408,7 @@
         8. Data Modeling and Metadata Management.
            - [prompt 183](prompt/183-data-modeling-and-metadata-governance-review.md) Data Modeling and Metadata Governance Review
         9. Database Performance Tuning.
+           - [prompt 184](prompt/184-database-performance-tuning-and-bottleneck-diagnosis-review.md) Database Performance Tuning and Bottleneck Diagnosis Review
         10. Data Governance and Compliance.
         11. Database Scalability and High Availability.
         12. In-Memory Databases.
