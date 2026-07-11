@@ -595,6 +595,7 @@
    23. Social and Emotional Learning.
       - [prompt 216](prompt/216-social-and-emotional-learning-fit-review.md) Social and Emotional Learning Fit Review
    24. Critical Pedagogy and Education for Social Justice.
+      - [prompt 217](prompt/217-critical-pedagogy-and-social-justice-education-fit-review.md) Critical Pedagogy and Social Justice Education Fit Review
    25. Other Specialized Areas in Education.
          - [prompt 64](prompt/064-dual-category-task-optimizer-dcto-prompt.md) Dual-Category Task Optimizer (DCTO) Prompt
          - [prompt 125](prompt/125-structural-causal-inquiry.md) Structural Causal Inquiry
