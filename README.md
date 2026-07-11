@@ -259,6 +259,7 @@
        - [prompt 59](prompt/059-refund-request.md) Refund request
        - [prompt 121](prompt/121-organizational-knowledge-management-analysis.md) Organizational Knowledge Management Analysis
     10. Real Estate and Property Management.
+       - [prompt 175](prompt/175-property-management-performance-and-tenant-retention-review.md) Property Management Performance and Tenant Retention Review
     11. Supply Chain Management.
        - [prompt 174](prompt/174-supply-chain-planning-and-resilience-optimizer.md) Supply Chain Planning and Resilience Optimizer
     12. Economics Theory and Application.
