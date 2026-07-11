@@ -410,6 +410,7 @@
         9. Database Performance Tuning.
            - [prompt 184](prompt/184-database-performance-tuning-and-bottleneck-diagnosis-review.md) Database Performance Tuning and Bottleneck Diagnosis Review
         10. Data Governance and Compliance.
+           - [prompt 185](prompt/185-data-governance-and-compliance-operating-model-review.md) Data Governance and Compliance Operating Model Review
         11. Database Scalability and High Availability.
         12. In-Memory Databases.
         13. Graph Databases and Networked Data.
