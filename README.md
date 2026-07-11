@@ -240,6 +240,7 @@
        - [prompt 86](prompt/086-dorm-room-revolution-design-products-to-empower-college-students.md) Dorm Room Revolution: Design Products to Empower College Students
        - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
     4. International Business and Trade.
+       - [prompt 172](prompt/172-international-trade-strategy-and-market-entry-analyzer.md) International Trade Strategy and Market Entry Analyzer
     5. Human Resources and Organizational Behavior.
        - [prompt 59](prompt/059-refund-request.md) Refund request
        - [prompt 101](prompt/101-understanding-your-needs-clarifying-refund-requests-effectively.md) Understanding Your Needs: Clarifying Refund Requests Effectively
@@ -253,6 +254,7 @@
        - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
        - [prompt 145](prompt/145-executive-summary-synthesis-prompt-transforming-detailed-research-reports.md) Executive Summary Synthesis Prompt: Transforming Detailed Research Reports
     8. Accounting and Auditing.
+       - [prompt 173](prompt/173-accounting-and-audit-risk-review.md) Accounting and Audit Risk Review
     9. Business Ethics and Corporate Social Responsibility.
        - [prompt 59](prompt/059-refund-request.md) Refund request
        - [prompt 121](prompt/121-organizational-knowledge-management-analysis.md) Organizational Knowledge Management Analysis
