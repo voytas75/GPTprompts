@@ -585,6 +585,7 @@
    19. Environmental Education and Sustainability.
       - [prompt 213](prompt/213-environmental-education-and-sustainability-fit-review.md) Environmental Education and Sustainability Fit Review
    20. Career and Technical Education.
+      - [prompt 214](prompt/214-career-and-technical-education-fit-review.md) Career and Technical Education Fit Review
    21. Education for Sustainable Development.
    22. Online and Distance Learning.
          - [prompt 43](prompt/043-coursecraftopia.md) CourseCraftopia
