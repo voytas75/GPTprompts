@@ -391,6 +391,7 @@
         4. Distributed Database Systems.
            - [prompt 181](prompt/181-distributed-database-architecture-and-consistency-tradeoff-review.md) Distributed Database Architecture and Consistency Tradeoff Review
         5. Database Administration and Security.
+           - [prompt 182](prompt/182-database-administration-and-security-posture-review.md) Database Administration and Security Posture Review
         6. Data Mining and Knowledge Discovery.
            - [prompt 63](prompt/063-keyphrase-expansion-clustering-assistant.md) Keyphrase Expansion Clustering Assistant
            - [prompt 71](prompt/071-olmo.md) OLMo
