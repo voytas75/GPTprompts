@@ -266,6 +266,7 @@
         - [prompt 94](prompt/094-the-trade-offs-we-make-demystifying-opportunity-cost.md) The Trade-Offs We Make: Demystifying Opportunity Cost
         - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
     13. Economic Development and Policy.
+        - [prompt 202](prompt/202-productivity-investment-and-development-policy-fit-review.md) Productivity, Investment, and Development Policy Fit Review
     14. Investment and Portfolio Management.
         - [prompt 68](prompt/068-financial-sentiment.md) Financial Sentiment
         - [prompt 127](prompt/127-ascending-auction-analysis-and-application.md) Ascending Auction Analysis and Application
