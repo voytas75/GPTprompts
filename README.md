@@ -426,6 +426,7 @@
         17. Database Theory and Foundations.
            - [prompt 191](prompt/191-database-theory-and-correctness-foundations-review.md) Database Theory and Correctness Foundations Review
         18. Temporal, Spatial, and Multimedia Databases.
+           - [prompt 192](prompt/192-temporal-spatial-and-multimedia-data-platform-fit-review.md) Temporal, Spatial, and Multimedia Data Platform Fit Review
         19. Big Data Storage and Processing.
         20. Data Privacy and Anonymization.
             - [prompt 131](prompt/131-privacy-conscious-oov-discovery-for-language-model-enhancement.md) Privacy-Conscious OOV Discovery for Language Model Enhancement
