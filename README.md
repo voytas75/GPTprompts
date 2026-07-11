@@ -670,6 +670,7 @@
 23. Religion and Theology.
     - [prompt 226](prompt/226-religion-theology-and-formation-fit-review.md) Religion, Theology, and Formation Fit Review
 24. Visual Arts and Film Studies.
+    - [prompt 227](prompt/227-visual-arts-film-studies-and-curatorial-interpretation-fit-review.md) Visual Arts, Film Studies, and Curatorial Interpretation Fit Review
 25. Entertainment.
     - [prompt 46](prompt/046-game-lost-in-the-enchanted-forest.md) Game "Lost in the Enchanted Forest"
     - [prompt 48](prompt/048-formula-1-game.md) Formula 1 game
