@@ -442,6 +442,7 @@
        - [prompt 129](prompt/129-understanding-individual-fairest-community-search-in-hins.md) Understanding Individual Fairest Community Search in HINs
        - [prompt 134](prompt/134-neural-model-interpretability-exploration-guide.md) Neural Model Interpretability Exploration Guide
     9. Computer Graphics and Visualization
+        - [prompt 194](prompt/194-graphics-and-visualization-pipeline-architecture-review.md) Graphics and Visualization Pipeline Architecture Review
     10. Robotics and Automation
         - [prompt 91](prompt/091-unlocking-potential-exploring-the-role-and-functions-of-social-robots-in-education.md) Unlocking Potential: Exploring the Role and Functions of Social Robots in Education
         - [prompt 120](prompt/120-actionsense-insight-generator.md)
