@@ -414,6 +414,7 @@
         11. Database Scalability and High Availability.
            - [prompt 186](prompt/186-database-scalability-and-high-availability-architecture-review.md) Database Scalability and High Availability Architecture Review
         12. In-Memory Databases.
+           - [prompt 187](prompt/187-in-memory-database-architecture-and-durability-fit-review.md) In-Memory Database Architecture and Durability Fit Review
         13. Graph Databases and Networked Data.
         14. Object-Oriented and Object-Relational Databases.
         15. XML and Semi-Structured Data Management.
