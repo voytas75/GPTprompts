@@ -387,6 +387,7 @@
         2. NoSQL Databases and Data Stores.
            - [prompt 179](prompt/179-nosql-architecture-and-data-model-fit-review.md) NoSQL Architecture and Data Model Fit Review
         3. Data Warehousing and Business Intelligence.
+           - [prompt 180](prompt/180-data-warehouse-and-bi-pipeline-review.md) Data Warehouse and BI Pipeline Review
         4. Distributed Database Systems.
         5. Database Administration and Security.
         6. Data Mining and Knowledge Discovery.
