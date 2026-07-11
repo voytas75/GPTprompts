@@ -383,6 +383,7 @@
        - [prompt 131](prompt/131-privacy-conscious-oov-discovery-for-language-model-enhancement.md) Privacy-Conscious OOV Discovery for Language Model Enhancement
     7. Database Management and Data Retrieval:
         1. Relational Database Design and Optimization.
+           - [prompt 178](prompt/178-relational-database-design-and-query-optimization-review.md) Relational Database Design and Query Optimization Review
         2. NoSQL Databases and Data Stores.
         3. Data Warehousing and Business Intelligence.
         4. Distributed Database Systems.
