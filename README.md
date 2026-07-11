@@ -608,6 +608,7 @@
    - [prompt 122](prompt/122-robotic-recovery-plan-generation-prompt.md) Robotic Recovery Plan Generation Prompt
    - [prompt 123](prompt/123-vector-field-analysis-and-cyclone-tracking.md) Vector Field Analysis and Cyclone Tracking
 9. Health and Medicine.
+    - [prompt 218](prompt/218-health-service-delivery-and-quality-of-care-fit-review.md) Health Service Delivery and Quality-of-Care Fit Review
 10. Law and Legal Studies.
     - [prompt 105](prompt/105-expert-panel-synthesis-with-authority-regularization.md) Expert Panel Synthesis with Authority Regularization
 11. Mathematics.
