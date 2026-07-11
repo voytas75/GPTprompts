@@ -420,6 +420,7 @@
         14. Object-Oriented and Object-Relational Databases.
            - [prompt 189](prompt/189-object-relational-database-and-type-system-fit-review.md) Object-Relational Database and Type-System Fit Review
         15. XML and Semi-Structured Data Management.
+           - [prompt 190](prompt/190-xml-and-semi-structured-data-contract-and-queryability-review.md) XML and Semi-Structured Data Contract and Queryability Review
         16. Data Integration, ETL, and Data Quality.
             - [prompt 84](prompt/084-beyond-pairwise-optimizing-conversational-ai-using-listwise-preference-optimization.md) Beyond Pairwise: Optimizing Conversational AI using Listwise Preference Optimization
         17. Database Theory and Foundations.
