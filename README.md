@@ -553,6 +553,7 @@
          - [prompt 165](prompt/165-simplify-for-8th-grader-choose-style.md) Simplify for an 8th Grader (Choose a Style)
          - [prompt 166](prompt/166-pareto-resource-curator.md) Pareto Resource Curator (80% Understanding Fast)
    5. Assessment and Evaluation in Education.
+      - [prompt 204](prompt/204-learning-assessment-and-evaluation-fit-review.md) Learning Assessment and Evaluation Fit Review
    6. Special Education and Inclusive Practices.
    7. Higher Education Administration and Policy.
       - [prompt 113](prompt/113-adversarial-robustness-evaluation-prompt.md) Adversarial Robustness Evaluation Prompt
