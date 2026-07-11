@@ -385,6 +385,7 @@
         1. Relational Database Design and Optimization.
            - [prompt 178](prompt/178-relational-database-design-and-query-optimization-review.md) Relational Database Design and Query Optimization Review
         2. NoSQL Databases and Data Stores.
+           - [prompt 179](prompt/179-nosql-architecture-and-data-model-fit-review.md) NoSQL Architecture and Data Model Fit Review
         3. Data Warehousing and Business Intelligence.
         4. Distributed Database Systems.
         5. Database Administration and Security.
