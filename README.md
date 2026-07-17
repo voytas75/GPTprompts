@@ -812,3 +812,7 @@ Use the "Prompt's classification" section above to browse prompts by category; e
    Demonstrates use-cases (classification, summarization, personalization). Includes few-shot, delimiters, role-playing.
 73. [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) – *LearnPrompting.org*  
    Free, comprehensive tutorial from fundamentals to advanced tactics. Widely cited by industry (Google, Microsoft, O’Reilly).
+74. [Prompt engineering](https://developers.openai.com/api/docs/guides/prompt-engineering) – *OpenAI API Documentation*
+   Current guide to prompt structure, message roles, few-shot examples, evaluations, and production prompt versioning.
+75. [Prompt design strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) – *Google Gemini API Documentation*
+   Official practical guide to clear instructions, examples, and iterative prompt design for Gemini models.
