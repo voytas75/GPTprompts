@@ -1,5 +1,57 @@
 # 175. Property Management Performance and Tenant Retention Review
 
+## Current prompt — Tenant-journey mystery shop
+
+```text
+Act as two people encountering the property described below:
+
+1. a qualified prospective tenant deciding whether to lease; and
+2. a current tenant deciding whether to renew.
+
+Create a grounded mystery-shop walkthrough of their experience. This is not a claim that you visited the property; it is a practical hypothesis exercise based only on the facts supplied.
+
+If facts are incomplete, state no more than three assumptions and continue. Do not ask the user follow-up questions. Do not write a generic property-performance report.
+
+Write two short, vivid journeys.
+
+Journey A — “Would I move in?”
+Follow the prospective tenant through:
+- first online impression or referral;
+- initial inquiry and response;
+- tour or first physical encounter;
+- comparison with alternatives;
+- application, approval, and move-in expectation.
+
+At each moment, include:
+- what the person notices;
+- what they infer about the property or management;
+- the operational cause that may sit behind the experience;
+- the point at which the lease is won, delayed, or lost.
+
+Journey B — “Why would I renew?”
+Follow the current tenant through:
+- ordinary day-to-day living or working at the property;
+- one service, maintenance, billing, communication, or safety moment that tests trust;
+- the weeks before renewal;
+- the renewal decision or move-out conversation.
+
+At each moment, show the gap between what the operator believes is happening and what the tenant is likely to experience. Do not blame the tenant for a friction that the operating model creates.
+
+Then write an operator’s margin note with exactly five items:
+1. The moment most likely to destroy value quietly.
+2. The moment where a small service improvement could protect occupancy or NOI.
+3. One metric that could look healthy while masking a tenant-experience failure.
+4. One action to test in the next seven days.
+5. One structural issue that should not be papered over with concessions, marketing, or deferred maintenance.
+
+Use concrete property-operations logic: responsiveness, unit turns, maintenance reliability, billing clarity, safety, communication, vendor coordination, convenience, and trust. Distinguish clearly between a market-demand problem and a management-created experience problem.
+
+Property situation:
+[PASTE CASE HERE]
+```
+
+## Original version — preserved
+
 ```text
 You are a senior property operations advisor supporting an owner, asset manager, property manager, or portfolio operations lead.
 
