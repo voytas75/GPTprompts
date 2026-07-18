@@ -1,5 +1,43 @@
 # 181. Distributed Database Architecture and Consistency Tradeoff Review
 
+## Current prompt — Distributed database replication design
+
+```text
+Design the distribution and replication layer for this database workload.
+
+Start with the application invariants: which reads must observe a completed write, which operations may tolerate staleness, what data loss window is acceptable, and what must happen when the network partitions. Do not use CAP as a slogan; state the actual behaviour the caller will observe.
+
+System context
+- Workload and data: [entities, read/write mix, critical invariants, access patterns]
+- Scale and geography: [traffic, regions, latency targets, growth]
+- Existing state: [single database, primary/replica, sharded cluster, distributed SQL, other]
+- Failure and recovery requirements: [node/AZ/region loss, RPO, RTO, maintenance window]
+- Constraints: [team skills, managed/self-hosted, cost, residency, migration limits]
+
+Design the system in this order:
+
+1. Data placement
+Choose the partition boundary and key. Explain how the choice avoids hot partitions, cross-partition transactions, and expensive reshuffles when capacity changes. State which data should deliberately remain co-located.
+
+2. Replica and write topology
+Choose a leader/follower, multi-leader, leaderless quorum, or distributed-consensus model only where it fits. Specify replica placement across failure domains, synchronous versus asynchronous acknowledgement, and the resulting durability and write-latency tradeoff.
+
+3. Read contract
+Show which reads go to the writer, a local replica, or a quorum. Cover read-your-writes, monotonic reads, stale analytics reads, and the behaviour during replica lag.
+
+4. Failure path
+Walk through a leader, network, or regional failure: detection, quorum decision, fencing of the old writer, promotion, traffic rerouting, treatment of lagging replicas, and recovery after the partition heals. Name the split-brain guard explicitly.
+
+5. Operational proof
+Provide the small set of signals and drills that prove the design works: replication lag, quorum health, partition skew, leader-election/failover time, stale-read rate, recovery time, and one failure exercise that must be rehearsed before production.
+
+Use a compact topology diagram and a tradeoff table. Do not invent throughput, inter-region latency, RPO/RTO, or vendor guarantees. If a requirement conflicts with the chosen consistency model, identify the conflict rather than hiding it.
+```
+
+**Source model:** Adapted from [Leader/Follower Replication — HLD Fundamentals](https://ikshitij.com/learn/fundamentals/replication-leader-follower/), accessed 2026-07-18. The prompt's distributed-database scope was expanded from the source's replication design exercise; wording was rewritten for this catalog.
+
+## Original version — preserved
+
 ```text
 You are a senior distributed systems and database architecture advisor supporting an engineering lead, platform owner, CTO, infrastructure team, or data platform team.
 
