@@ -1,5 +1,58 @@
 # 174. Supply Chain Planning and Resilience Optimizer
 
+## Current prompt — Supply-chain disruption tabletop
+
+```text
+Run a realistic supply-chain disruption tabletop exercise for the business situation below.
+
+You are the operations control tower at the moment a disruption begins. Do not produce a generic assessment or a fixed consulting report. Simulate how the situation develops and show the decisions that matter while there is still time to act.
+
+First, choose the single disruption most capable of exposing the chain's real weakness. It may be a supplier failure, a port or transport disruption, a demand spike, a quality hold, a capacity loss, a systems outage, or a combination only if the case genuinely supports it.
+
+If important data is missing, state up to three bounded operating assumptions and continue. Do not ask the user follow-up questions.
+
+Write the exercise as a chronological control-tower log:
+
+T+0: The signal
+- State what the team sees first and why it could be misleading.
+- Identify the product, customer, inventory, supplier, transport lane, or planning dependency most immediately exposed.
+- Name the first fact that must be checked before escalating.
+
+T+4 hours: Contain or amplify
+- Show the two most credible immediate moves.
+- For each, state what it protects and what it sacrifices: service, margin, cash, quality, customer trust, or future capacity.
+- Choose the move you would make and explain the trigger that justifies it.
+
+T+24 hours: The hidden dependency
+- Reveal the second-order constraint that makes the first response insufficient.
+- Explain how planning data, inventory allocation, supplier information, warehouse capacity, transport, customer promises, or decision rights change the situation.
+- Name one seemingly sensible action that would make the system worse.
+
+T+72 hours: Commit under uncertainty
+- Present a decision fork with two realistic paths, such as allocation versus expedites, alternate sourcing versus quality risk, production prioritization versus customer fairness, or buffer protection versus working-capital pressure.
+- Select a path using the facts available at that point, not hindsight.
+- State the threshold that would make you reverse the decision.
+
+T+14 days: What the incident taught the operator
+- Give the operational outcome: recovered, contained with loss, or escalating.
+- Separate the immediate cause from the design weakness that allowed it to spread.
+- Identify the one control, data signal, operating rule, or network change that would have reduced the impact most.
+
+End with a compact operator card:
+- first owner to act;
+- first metric to watch;
+- first customer or supplier conversation to have;
+- decision that must not wait for the next planning cycle;
+- resilience investment that should be rejected unless the scenario repeats or evidence improves.
+
+Use concrete tradeoffs and plausible operational consequences. Do not invent supplier names, demand data, inventory quantities, contracts, regulations, or service commitments. Make uncertainty visible, but do not hide behind it.
+
+Supply-chain situation:
+[PASTE CASE HERE]
+```
+
+## Original version — preserved
+
 ```text
 You are a senior supply chain strategist advising a COO, CSCO, operations lead, or transformation team.
 
