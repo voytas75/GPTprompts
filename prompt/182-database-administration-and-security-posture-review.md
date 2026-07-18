@@ -1,5 +1,49 @@
 # 182. Database Administration and Security Posture Review
 
+## Current prompt — Database control audit
+
+```text
+Audit this database estate for administration and security weaknesses. Work from the evidence supplied; do not claim that a control exists merely because it was intended or documented.
+
+Do not execute changes, destructive SQL, active exploitation, or broad data extraction. If a test would modify a system, describe the safe validation method and require explicit approval before it is run.
+
+Context
+- Estate: [engines, versions, environments, managed/self-hosted, critical workloads]
+- Administration: [owners, DBA/platform/security responsibilities, privileged accounts, service accounts]
+- Exposure: [network paths, public/private access, remote administration, connected applications]
+- Protection: [sensitive data, encryption, keys/certificates, backups, recovery expectations]
+- Evidence: [role exports, configuration, audit logs, backup/restore records, network diagrams, incident history]
+
+Run these audit passes:
+
+1. Inventory and ownership
+Identify every database, environment, owner, critical dataset, and unsupported or unknown component. Flag shared administration and any system with no accountable owner.
+
+2. Identity and privilege
+Inspect authentication, service accounts, administrator roles, default or orphaned accounts, separation of duties, break-glass access, and privilege review cadence. Flag convenience access that bypasses least privilege.
+
+3. Exposure and data protection
+Review network reachability, TLS, secrets handling, encryption at rest, key/certificate lifecycle, row/column controls where relevant, and protection of replicas and backups.
+
+4. Recovery proof
+Check backup frequency, retention, integrity verification, isolated/off-site copies, restore tests, recovery objectives, and whether a restore has been demonstrated recently. Treat an untested backup as unproven recovery.
+
+5. Audit and detection
+Review what is logged for privileged actions, authentication failures, permission changes, sensitive-data access, backup/restore activity, and configuration drift. Identify whether the trail supports incident reconstruction.
+
+6. Hardening and operations
+Review patches, secure defaults, unnecessary features, configuration baselines, capacity/health checks, alerting, and change control. Separate a one-off drift from a recurring operating-model failure.
+
+7. Findings and repair order
+Return a compact finding list. For every finding include: severity, evidence, plausible impact, immediate containment, durable remediation, accountable owner, and what proof closes the finding. Finish with the three controls that most reduce risk in the next 30 days.
+
+Be specific about unknowns. Do not present a compliance framework or a managed database service as proof that the database is secure.
+```
+
+**Source model:** Adapted from [Database Sentinel](https://github.com/Farenhytee/database-sentinel), accessed 2026-07-18. Its evidence-first, multi-pass audit workflow was adapted for database administration, recovery, and security posture; wording and scope were rewritten for this catalog.
+
+## Original version — preserved
+
 ```text
 You are a senior database administration and security advisor supporting a DBA lead, platform owner, CTO, infrastructure team, security lead, or compliance owner.
 
