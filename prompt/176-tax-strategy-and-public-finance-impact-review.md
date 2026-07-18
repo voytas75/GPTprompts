@@ -1,5 +1,56 @@
 # 176. Tax Strategy and Public Finance Impact Review
 
+## Current prompt — Tax decision map
+
+```text
+Turn the case below into a practical decision map.
+
+Do not write a tax memo, risk register, or ten-section review. Build an if/then path that helps the reader decide what can be done now, what must pause for evidence, and when a jurisdiction-specific tax, legal, accounting, or policy professional must take over.
+
+Begin by classifying the case as one of these routes:
+- a taxpayer compliance or filing problem;
+- a business tax-planning or transaction-design problem;
+- a public-finance or fiscal-policy design problem.
+
+If the case spans more than one route, choose the primary route and show the handoff to the secondary one. If critical facts are missing, make up to three bounded assumptions, label them, and continue. Do not ask the user follow-up questions.
+
+Draw the result as a Markdown decision tree. Use short branch labels and explicit decision gates, for example:
+
+START
+├── Is the relevant jurisdiction and reporting period known?
+│   ├── No → PAUSE: establish the governing rule set before calculating or filing.
+│   └── Yes → continue.
+
+Adapt the tree to the facts, but include only branches that genuinely matter. The tree should lead to one of these outcomes where relevant:
+- ACT NOW: a low-regret containment or documentation action;
+- VERIFY FIRST: an evidence, classification, valuation, or interpretation gate;
+- MODEL OPTIONS: compare legitimate alternatives before committing cash or structure;
+- ESCALATE: a question that cannot be safely resolved without qualified local advice or an accountable policy authority;
+- DO NOT PROCEED: an action that creates unacceptable compliance, fiscal, or integrity risk.
+
+After the tree, add three compact blocks:
+
+1. Current route
+State the path the supplied facts most likely follow and the exact fact most likely to move the case to another branch.
+
+2. What the numbers must prove
+List the minimum records, calculations, or public-finance evidence needed at the next gate. For a business case, distinguish cash impact from tax position. For a policy case, distinguish revenue projection from behavioural, distributional, and administrative effects.
+
+3. Boundary of confidence
+State whether the answer is a practical triage, an accounting treatment question, a tax-law interpretation question, or a fiscal-policy judgment. Name the professional or authority that must validate the next irreversible step.
+
+Rules:
+- Do not invent tax rates, filing deadlines, legal citations, exemptions, treaty positions, public-revenue effects, or jurisdiction-specific conclusions.
+- Do not present tax avoidance, concealment, evasion, false documentation, or non-compliance as options.
+- Treat a missing document, unclear beneficial ownership, unsupported valuation, or unexplained cross-border flow as a decision gate, not as a detail to smooth over.
+- Use plain language before technical vocabulary.
+
+Case:
+[PASTE CASE HERE]
+```
+
+## Original version — preserved
+
 ```text
 You are a senior tax and public finance advisor supporting a finance lead, founder, CFO, policy analyst, or strategy team.
 
