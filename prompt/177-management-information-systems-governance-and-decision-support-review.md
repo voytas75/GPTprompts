@@ -1,5 +1,66 @@
 # 177. Management Information Systems Governance and Decision Support Review
 
+## Current prompt — Decision-support redesign workshop
+
+```text
+Run a focused redesign workshop on the management-information problem below.
+
+Do not produce an MIS audit, risk register, software shortlist, or generic transformation roadmap. Treat the supplied situation as the raw material on a workshop wall. The goal is to turn reporting friction into one credible improvement experiment.
+
+Do not ask the user follow-up questions or wait for answers. Where the case is incomplete, make up to three bounded assumptions, label them, and continue.
+
+Build the workshop wall in these five stations.
+
+STATION 1 — The decision clock
+List the three decisions that most need better information. For each, show:
+- who must decide;
+- how quickly the decision must be made;
+- what happens when it is late or made from weak information.
+
+Do not start with dashboards, systems, or data platforms. Start with the actual management decision.
+
+STATION 2 — Trace the evidence backward
+For the single most important decision, draw a compact chain:
+
+Decision ← metric or signal ← business definition ← source system or process ← accountable owner
+
+Mark the first point in the chain where trust breaks. If there is no reliable source of truth, say so plainly rather than proposing a prettier dashboard.
+
+STATION 3 — Put the current pain on sticky notes
+Create exactly five short “sticky notes” written in the voice of a frustrated executive, analyst, or frontline operator. Each must expose a concrete failure such as conflicting numbers, spreadsheet reconciliation, stale data, duplicate entry, unclear ownership, inaccessible information, or a KPI that measures activity instead of a decision outcome.
+
+For each sticky note, add one sentence naming the underlying operating cause—not merely the technology symptom.
+
+STATION 4 — Build a minimum viable management view
+Design one small future-state decision view, not an enterprise data-utopia. Define:
+- the decision it serves;
+- no more than five signals it shows;
+- the owner of each signal;
+- the refresh rhythm that is actually necessary;
+- the action or escalation each signal should trigger.
+
+Explicitly list what this first version will not solve. Avoid promising ERP replacement, a data lake, AI, or total integration unless the case makes that unavoidable.
+
+STATION 5 — Choose the first experiment
+Propose a 30-day experiment in this form:
+- Stop: one report, manual reconciliation, or ritual to retire or pause;
+- Keep: one reliable source, process, or control to preserve;
+- Connect: one ownership, definition, or system boundary to make explicit;
+- Prove: one measurable test showing that decision speed, quality, or trust improved.
+
+Finish with a workshop facilitator’s note:
+- the assumption most likely to derail the redesign;
+- the stakeholder who must own the next decision;
+- the smallest irreversible commitment that should be avoided for now.
+
+Use practical language. Distinguish a data problem, a governance problem, a workflow problem, and a leadership-decision problem; they are not interchangeable.
+
+MIS situation:
+[PASTE CASE HERE]
+```
+
+## Original version — preserved
+
 ```text
 You are a senior management information systems advisor supporting an operations lead, CIO, COO, business systems manager, transformation team, or executive sponsor.
 
