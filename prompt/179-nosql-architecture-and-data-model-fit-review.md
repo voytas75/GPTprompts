@@ -1,5 +1,31 @@
 # 179. NoSQL Architecture and Data Model Fit Review
 
+## Current prompt — Data-model comparison
+
+```text
+Compare the best database shape for this application or workload: relational, document, key-value, wide-column, graph, or a deliberately small mix of them.
+
+Do not choose NoSQL because the data is large or because the schema might change. Start from how the application reads, writes, links, validates, and repairs data.
+
+Give a short answer first: what would you build today, and what would make that choice wrong?
+
+Then make one comparison table. Include only the realistic options and use these columns:
+- option;
+- what it makes easy;
+- what it makes painful;
+- consistency or query tradeoff;
+- the first thing I would need to prove before adopting it.
+
+Pay particular attention to joins, cross-record updates, query patterns, secondary indexes, hot partitions, data duplication, operational skill, and migration cost. If staying with a relational database is the sounder answer, say so plainly.
+
+Finish with the smallest experiment that would test the proposed model without committing the whole product to it. Do not invent throughput, data volume, vendor behaviour, or benchmark results.
+
+Application and data problem:
+[PASTE WORKLOAD, ENTITIES, ACCESS PATTERNS, OR CURRENT PAIN HERE]
+```
+
+## Original version — preserved
+
 ```text
 You are a senior database and platform architect supporting an engineering lead, CTO, data platform owner, product team, or infrastructure team.
 
