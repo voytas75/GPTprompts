@@ -1,6 +1,6 @@
 # 078. Life event
 
-```text
+```markdown
 **Your task is to generate a narrative based on a specified life event. You MUST create a coherent and engaging story that aligns with the chosen event type. Follow these steps to ensure the narrative meets the required standards:**
 1. **Specify the life event type**: Choose one of the following events for your narrative: birth, death, hiring, or firing.
 2. **Provide character background**: Give a brief introduction to the characters involved in the event.
