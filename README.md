@@ -675,6 +675,13 @@
     - [prompt 46](prompt/046-game-lost-in-the-enchanted-forest.md) Game "Lost in the Enchanted Forest"
     - [prompt 48](prompt/048-formula-1-game.md) Formula 1 game
     - [prompt 51](prompt/051-chess.md) Chess
+    - [prompt 233](prompt/233-chess-rival-conversation.md) Chess Rival Conversation
+    - [prompt 234](prompt/234-chess-fen-pgn-san-benchmark.md) Chess FEN + PGN Move Selection (SAN)
+    - [prompt 235](prompt/235-chess-uci-json-decision.md) Chess UCI JSON Decision
+    - [prompt 236](prompt/236-chess-agent-action-protocol.md) Chess Agent Action Protocol
+    - [prompt 237](prompt/237-chess-grandmaster-single-san.md) Chess Grandmaster: Single SAN Move
+    - [prompt 238](prompt/238-chess-puzzle-fen-solution.md) Chess Puzzle: FEN Solution
+    - [prompt 239](prompt/239-chess-fen-tagged-move-variants.md) Chess FEN: Tagged Move Variants
 26. General Templates or Frameworks:
     1. Problem-Solving and Optimization Templates.
        - [prompt 102](prompt/102-optimizing-through-iteration-learning-from-past-solutions.md) Optimizing Through Iteration: Learning from Past Solutions
@@ -816,3 +823,17 @@ Use the "Prompt's classification" section above to browse prompts by category; e
    Current guide to prompt structure, message roles, few-shot examples, evaluations, and production prompt versioning.
 75. [Prompt design strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) – *Google Gemini API Documentation*
    Official practical guide to clear instructions, examples, and iterative prompt design for Gemini models.
+
+Chess prompts and evaluation sources:
+
+76. [Chess player — LLMBase](https://llmbase.ai/prompts/chess-player) – user-supplied attribution for the rival prompt; page returned 404 when checked. See [prompt 233](prompt/233-chess-rival-conversation.md).
+77. [Game Arena, Appendix B.1 Chess](https://arxiv.org/html/2609.31473) – FEN, PGN move history, color and legal SAN response. See [prompt 234](prompt/234-chess-fen-pgn-san-benchmark.md).
+78. [llm-chess-arena: src/prompts.py](https://github.com/louisguichard/llm-chess-arena/blob/main/src/prompts.py) – legality checks and JSON with UCI choice. See [prompt 235](prompt/235-chess-uci-json-decision.md).
+79. [maxim-saplin/llm_chess](https://github.com/maxim-saplin/llm_chess) – agent actions for board, legal moves and submitting a move. See [prompt 236](prompt/236-chess-agent-action-protocol.md).
+80. [Dynomight: More chess](https://dynomight.net/more-chess/) – minimalist grandmaster SAN prompt and experiments with prompt variants. See [prompt 237](prompt/237-chess-grandmaster-single-san.md).
+81. [kagisearch/llm-chess-puzzles](https://github.com/kagisearch/llm-chess-puzzles) – FEN-based puzzle prompt; its published example asks for White's move despite Black to move in FEN. See corrected [prompt 238](prompt/238-chess-puzzle-fen-solution.md).
+82. [Manifest AI: Post-Training R1 for Chess](https://manifestai.com/articles/post-training-r1-for-chess/) – basic, grandmaster and engine-persona tagged-move variants. See [prompt 239](prompt/239-chess-fen-tagged-move-variants.md).
+83. [Fingolfin7/ChessHarness](https://github.com/Fingolfin7/ChessHarness) – match harness, board context and move validation (reference, not copied prompt).
+84. [LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess](https://arxiv.org/abs/2512.01992) – study of agentic play and instruction-following (background to prompt 236).
+85. [ChessArena: A Chess Testbed for Evaluating Strategic Reasoning Capabilities of Large Language Models](https://arxiv.org/abs/2509.24239) – chess evaluation framework with FEN and UCI/SAN (related research).
+86. [google-deepmind/game_arena](https://github.com/google-deepmind/game_arena) – Game Arena harness: state representation, optional history/legal moves and response parsing (implementation context for prompt 234).
