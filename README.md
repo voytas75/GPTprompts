@@ -339,6 +339,10 @@
        - [prompt 153](prompt/153-intent-driven-specs-alignment-response-generator.md) Intent-Driven Specs & Alignment Response Generator
        - [prompt 167](prompt/167-evergreen-knowledge-module.md) Evergreen Knowledge Module (Knowledge Architect & Data Synthesizer)
        - [prompt 170](prompt/170-latent-consensus-architect-v2-3.md) Latent Consensus Architect v2.3
+       - [prompt 229](prompt/229-mathematical-reasoning-evaluation-workbook.md) Mathematical Reasoning Evaluation Workbook
+       - [prompt 230](prompt/230-statistical-llm-evaluation-and-comparison-protocol.md) Statistical LLM Evaluation and Comparison Protocol
+       - [prompt 231](prompt/231-llm-calibration-and-selective-prediction-policy.md) LLM Calibration and Selective Prediction Policy
+       - [prompt 232](prompt/232-llm-experiment-and-ablation-study-planner.md) LLM Experiment and Ablation Study Planner
     2. Data Science and Big Data Analytics.
        - [prompt 62](prompt/062-adaptive-interactive-logic-prompt-ailp.md) Adaptive Interactive Logic Prompt (AILP)
        - [prompt 63](prompt/063-keyphrase-expansion-clustering-assistant.md) Keyphrase Expansion Clustering Assistant
@@ -619,6 +623,10 @@
     - [prompt 119](prompt/119-iterative-refinement-application-guide-for-linear-systems.md) Iterative Refinement Application Guide for Linear Systems
     - [prompt 135](prompt/135-mathematical-reasoning-model-evaluator-mrme.md) Mathematical Reasoning Model Evaluator (MRME)
     - [prompt 146](prompt/146-mathematical-proof-construction.md) Advanced Mathematical Concepts in Machine Learning
+    - [prompt 229](prompt/229-mathematical-reasoning-evaluation-workbook.md) Mathematical Reasoning Evaluation Workbook
+    - [prompt 230](prompt/230-statistical-llm-evaluation-and-comparison-protocol.md) Statistical LLM Evaluation and Comparison Protocol
+    - [prompt 231](prompt/231-llm-calibration-and-selective-prediction-policy.md) LLM Calibration and Selective Prediction Policy
+    - [prompt 232](prompt/232-llm-experiment-and-ablation-study-planner.md) LLM Experiment and Ablation Study Planner
 12. Physical Sciences.
     - [prompt 92](prompt/092-stepping-up-to-the-challenge-categorization-and-problem-solving-with-clear-reasoning.md) Stepping Up to the Challenge: Categorization and Problem Solving with Clear Reasoning
     - [prompt 124](prompt/124-mechanism-analysis.md) Mechanism Analysis
