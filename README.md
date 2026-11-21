@@ -187,6 +187,20 @@
     What questions would you ask to verify this solution?
     ```
 
+3. **Deeper, not bigger (Felix Rieseberg depth prompt)**:
+
+    See [prompt 240](prompt/240-deepen-task-not-bigger.md) Deepen task (not bigger)
+
+    ```text
+    I want a deeper version of this task, not a bigger one.
+    Before rewriting it: (1) say what a top professional in this field would do here that I'm not asking for;
+    (2) name the rawest material they would start from instead of what has already been digested for me;
+    (3) name the specific methods and tools they would use;
+    (4) say what, other than you or me, would show the result is right.
+    Then rewrite my prompt to ask for exactly that.
+    ```
+
+
 ## 7. Retrieval-Augmented Generation
 
 1. **Information Retrieval**:
@@ -333,6 +347,7 @@
        - [prompt 134](prompt/134-neural-model-interpretability-exploration-guide.md) Neural Model Interpretability Exploration Guide
        - [prompt 135](prompt/135-mathematical-reasoning-model-evaluator-mrme.md) Mathematical Reasoning Model Evaluator (MRME)
        - [prompt 140](prompt/140-prompt-improver.md) Prompt improver
+       - [prompt 240](prompt/240-deepen-task-not-bigger.md) Deepen task (not bigger)
        - [prompt 142](prompt/142-summarize-with-metrics.md) Summarize with metrics
        - [prompt 147](prompt/147-narrative-causality-analysis.md) Narrative Causality analysis
        - [prompt 152](prompt/152-multi-role-scientific-query-processor.md) SR-Agent Ensemble: Multi-Role Scientific Query Processor
