@@ -745,6 +745,11 @@ All prompt bodies have been moved into individual files under `prompt/` (one pro
 Use the "Prompt's classification" section above to browse prompts by category; each entry links directly to the corresponding file.
 
 
+
+## Related project
+
+**[Agent Skills](https://github.com/voytas75/skills)** — Reusable workflows for AI agents (planning, review, analysis, prompt deepening, evidence-led debugging, etc.). Companion repository with structured `SKILL.md` packages that turn many of these prompts into repeatable agent skills.
+
 ## 10. Useful Links
 
 1. [6 Useful AI Tools](https://www.instagram.com/reel/CoFh1jLqq8I/)
