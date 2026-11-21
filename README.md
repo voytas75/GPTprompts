@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-1. [GPT-5 prompt optimizer tool](#1-gpt-5-prompt-optimizer-tool)
+1. [GPT-6 prompt optimizer tool](#1-gpt-6-prompt-optimizer-tool)
 2. [Chain-of-Thought (CoT) Prompting](#2-chain-of-thought-cot-prompting)
 3. [Line-of-Thought (LoT) Prompting](#3-line-of-thought-lot-prompting)
 4. [Few-Shot Prompting](#4-few-shot-prompting)
@@ -21,9 +21,9 @@
 
 ---
 
-## 1. GPT-5 prompt optimizer tool
+## 1. GPT-6 prompt optimizer tool
 
-[...prompt optimizer tool we’ve built, will serve as a launchpad for your use of GPT-5...](https://platform.openai.com/chat/edit?optimize=true)
+[...prompt optimizer tool we’ve built, will serve as a launchpad for your use of GPT-6...](https://platform.openai.com/chat/edit?models=gpt-6-luna&optimize=true)
 
 ## 2. Chain-of-Thought (CoT) Prompting
 
